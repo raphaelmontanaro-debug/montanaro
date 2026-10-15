@@ -1,0 +1,856 @@
+{
+  "lessons": {
+    "aba-1": {
+      "question": "O que transforma uma proposta de ajuda em uma investigação analítico-comportamental?",
+      "simple": "O ponto de partida é uma dificuldade importante na vida. Para investigar sua mudança, é preciso definir o comportamento, observar as condições em que ocorre e avaliar o que muda após a intervenção.",
+      "prior": "Comece pela diferença entre perceber uma melhora e obter dados que permitam examiná-la. Essa diferença conecta uma preocupação cotidiana ao trabalho científico.",
+      "analogy": "Analogia didática: um mapa orienta o percurso, instrumentos registram o caminho e a viagem resolve uma necessidade. Filosofia, ciência e aplicação cumprem funções distintas que se articulam.",
+      "analogyLimit": "Behaviorismo Radical não é um roteiro pronto, e ABA não é qualquer atividade útil. A analogia organiza funções; não demonstra resultados de uma intervenção.",
+      "counterexample": "Contraexemplo didático: chamar uma atividade de ABA porque ela foi aplicada a uma criança autista não demonstra definição do alvo, análise das variáveis ou avaliação da mudança.",
+      "recall": "Sem consultar: como você distinguiria Behaviorismo Radical, Análise do Comportamento e ABA em uma frase para cada um?",
+      "recallModel": "Behaviorismo Radical é a base filosófica; Análise do Comportamento é a ciência das relações comportamentais; ABA investiga e aplica princípios a problemas socialmente relevantes, avaliando suas mudanças.",
+      "nextConnection": "Se o rótulo não basta, quais características permitem avaliar a qualidade da aplicação? A próxima aula organiza sete dimensões.",
+      "essentials": [
+        "Filosofia, ciência e campo aplicado não são sinônimos.",
+        "A relevância do alvo precisa ser acompanhada de observação e análise.",
+        "ABA abrange questões humanas além do autismo.",
+        "Eventos privados integram o campo de investigação."
+      ]
+    },
+    "aba-2": {
+      "question": "Como verificar se uma intervenção reúne as sete dimensões da ABA?",
+      "simple": "As dimensões fazem perguntas diferentes: o alvo importa, foi medido, há evidência de relação com o procedimento, o método pode ser reproduzido, tem base conceitual, faz diferença e se amplia para além do treino?",
+      "prior": "A aula anterior separou intenção de ajudar e avaliação científica. Agora você dispõe de critérios para examinar essa avaliação.",
+      "analogy": "Analogia didática: avaliar uma ponte exige verificar finalidade, medidas, projeto e funcionamento. Um único indicador favorável não substitui o conjunto de critérios.",
+      "analogyLimit": "As dimensões não são peças independentes nem um checklist que prova causalidade por soma de pontos. Cada uma exige evidências pertinentes.",
+      "counterexample": "Contraexemplo didático: um procedimento descrito em detalhes pode ser tecnológico, mas isso não mostra que a mudança observada foi causada por ele nem que teve importância prática.",
+      "recall": "Sem consultar: qual dimensão é examinada ao perguntar se a habilidade permanece em casa, e qual é examinada ao perguntar se o procedimento produziu a mudança?",
+      "recallModel": "Generalizável examina manutenção e extensão para contextos ou comportamentos; analítica examina a relação funcional entre intervenção e mudança. Medir melhora apenas antes e depois não resolve sozinho a segunda pergunta.",
+      "nextConnection": "Ter critérios de intervenção exige também escolher boas explicações. A próxima aula contrapõe descrição diagnóstica e análise funcional.",
+      "essentials": [
+        "Aplicada: relevância social. Comportamental: medida do alvo.",
+        "Analítica: evidência da relação entre intervenção e mudança.",
+        "Tecnológica: procedimento replicável; conceitualmente sistemática: ligação com princípios.",
+        "Efetiva: importância prática dos resultados.",
+        "Generalizável: manutenção e extensão das mudanças."
+      ]
+    },
+    "aba-3": {
+      "question": "Por que duas pessoas com a mesma descrição clínica podem precisar de formulações diferentes?",
+      "simple": "Uma descrição reúne características parecidas, mas não revela automaticamente como cada comportamento foi aprendido ou o que o mantém. A análise funcional investiga essas relações na história e no contexto atual.",
+      "prior": "As dimensões analítica e comportamental exigem observar relações. Um nome diagnóstico pode organizar descrições, mas não oferece sozinho essas relações.",
+      "analogy": "Analogia didática: duas luzes de alerta iguais no painel podem corresponder a problemas diferentes. O sinal orienta a investigação; não substitui examinar o funcionamento.",
+      "analogyLimit": "Pessoas não são máquinas e diagnósticos clínicos têm usos próprios. A comparação destaca o limite de inferir uma explicação individual a partir de um rótulo.",
+      "counterexample": "Contraexemplo didático: dizer que alguém evita apresentações porque tem uma condição cujo indício é evitar apresentações apenas repete a descrição, sem identificar variáveis funcionais.",
+      "recall": "No exemplo didático, duas pessoas recusam apresentações. Que informação você buscaria antes de afirmar que a recusa tem a mesma função?",
+      "recallModel": "Investigaria antecedentes, história de aprendizagem e consequências: a recusa interrompe críticas, evita uma tarefa para a qual faltou treino ou produz outra mudança? A topografia semelhante não decide a função.",
+      "nextConnection": "Análogos experimentais permitem investigar processos com controle de variáveis. Eles ajudam a formular perguntas sem reduzir a experiência humana ao laboratório.",
+      "essentials": [
+        "Topografia é a forma; função é a relação com variáveis contextuais.",
+        "Diagnóstico descritivo não substitui formulação individual.",
+        "O material diferencia modelos médico, quase-médico e comportamental.",
+        "Fatores biológicos e ambientais podem ser investigados sem excluir uns aos outros.",
+        "Consequências úteis no curto prazo podem manter sofrimento no longo prazo."
+      ]
+    },
+    "aba-4": {
+      "question": "O que os modelos de CMS e desamparo permitem investigar — e o que não permitem concluir?",
+      "simple": "O CMS investiga efeitos de estressores moderados repetidos sobre respostas como a preferência por solução adocicada. O desamparo investiga como experiências anteriores de incontrolabilidade afetam a aprendizagem posterior de fuga.",
+      "prior": "Você já separou um processo explicativo de uma descrição clínica. Agora examine como um experimento isola partes de um processo, sem reproduzir toda uma condição humana.",
+      "analogy": "Analogia didática: uma bancada de testes permite variar uma característica de um sistema e observar seus efeitos. O recorte ajuda a investigar uma relação, mas deixa outras características fora do teste.",
+      "analogyLimit": "Um análogo experimental não representa integralmente depressão ou sofrimento humano. Não se pode converter um protocolo animal em receita clínica direta.",
+      "counterexample": "Contraexemplo didático: afirmar que qualquer evento desagradável produz desamparo ignora a variável de controlabilidade e as comparações entre grupos descritas no material.",
+      "recall": "Sem consultar: por que comparar grupos com eventos aversivos controláveis e incontroláveis informa mais do que observar apenas um grupo exposto?",
+      "recallModel": "A comparação ajuda a examinar se a história de controle, e não apenas a exposição aversiva, participa das diferenças na aprendizagem posterior. O grupo controle acrescenta uma referência para essa análise.",
+      "nextConnection": "A relação entre aprendizagem respondente e operante aparece de outro modo na supressão condicionada e no consumo de substâncias.",
+      "essentials": [
+        "CMS e desamparo investigam recortes diferentes.",
+        "No CMS, consumo e preferência são medidas, não relatos subjetivos humanos.",
+        "No desamparo, a incontrolabilidade é uma variável decisiva.",
+        "Histórias de controle podem modificar efeitos posteriores.",
+        "Análogo de processo não é cópia completa nem recomendação terapêutica."
+      ]
+    },
+    "aba-5": {
+      "question": "Como um sinal aprendido pode interferir em um operante e participar de padrões de consumo?",
+      "simple": "Um estímulo pareado a um evento aversivo pode eliciar respostas emocionais e acompanhar redução de outro comportamento. No consumo, alívio da abstinência e pistas ambientais podem integrar relações distintas de aprendizagem.",
+      "prior": "Os experimentos anteriores investigaram efeitos de histórias ambientais. Agora distinga o que é eliciado por um sinal do que é fortalecido por uma consequência.",
+      "analogy": "Analogia didática: um aviso que passou a acompanhar perigo pode alterar uma atividade que estava em andamento, como um sinal de alarme interrompendo a execução de uma tarefa.",
+      "analogyLimit": "Na supressão condicionada, é necessário estabelecer a história de pareamento e medir o operante. Nem toda interrupção após um aviso é supressão condicionada.",
+      "counterexample": "Contraexemplo didático: a diminuição do efeito de uma substância ao longo das administrações indica tolerância; por si só, não descreve o fortalecimento da retomada pelo alívio da abstinência.",
+      "recall": "No exemplo didático, alguém retoma o consumo e um desconforto diminui. O que falta observar para sustentar a hipótese de reforçamento negativo?",
+      "recallModel": "É preciso verificar se a retirada ou redução do desconforto fortalece a classe de respostas de consumo. A proximidade temporal e a intenção declarada não demonstram sozinhas esse efeito.",
+      "nextConnection": "Para analisar esses casos com precisão, o próximo módulo organiza seleção, respondentes, operantes e suas variáveis.",
+      "essentials": [
+        "Supressão condicionada articula processos respondentes e desempenho operante.",
+        "Tolerância e abstinência nomeiam fenômenos distintos.",
+        "Alívio pode fortalecer consumo por reforçamento negativo.",
+        "Pistas ambientais participam da análise de recaídas.",
+        "Descrições do DSM citadas nos slides não funcionam como autodiagnóstico."
+      ]
+    },
+    "basicos-1": {
+      "question": "Como três histórias diferentes participam de um mesmo comportamento?",
+      "simple": "Características da espécie, aprendizagem durante a vida e práticas sociais se encontram na pessoa. O modelo de seleção por consequências organiza essas contribuições nos níveis filogenético, ontogenético e cultural.",
+      "prior": "Os modelos experimentais mostraram o papel da experiência. Amplie agora o recorte: a história individual ocorre em um organismo com características da espécie e em práticas culturais.",
+      "analogy": "Analogia didática: uma receita preparada hoje depende de ingredientes disponíveis, tentativas de quem cozinha e modos de preparo transmitidos entre pessoas.",
+      "analogyLimit": "Os três níveis não são ingredientes separáveis com porcentagens fixas. Eles se articulam, e uma analogia não identifica a contribuição real de cada um.",
+      "counterexample": "Contraexemplo didático: explicar uma prática de sala de aula apenas como instinto ignora as contingências individuais e a transmissão social que precisam ser investigadas.",
+      "recall": "Sem consultar: a aquisição de uma nova rota por experiência própria e a transmissão de uma prática de ensino ilustram quais níveis?",
+      "recallModel": "Aprender a rota integra a ontogênese; transmitir e manter práticas de ensino envolve o nível cultural. Ambos ocorrem em organismos com características filogenéticas.",
+      "nextConnection": "A história da espécie ajuda a entender relações respondentes incondicionadas; os pareamentos mostram como novas funções podem ser aprendidas.",
+      "essentials": [
+        "Filogênese: história da espécie.",
+        "Ontogênese: aprendizagem na vida do indivíduo.",
+        "Cultura: seleção e transmissão de práticas sociais.",
+        "Variação e seleção organizam o modelo.",
+        "Um único nível não explica sozinho todas as relações."
+      ]
+    },
+    "basicos-2": {
+      "question": "Como um estímulo antes neutro passa a eliciar uma resposta?",
+      "simple": "No condicionamento respondente, a história de pareamento altera a função de um estímulo. O contexto do hospital, por exemplo, pode passar a eliciar náusea depois de acompanhar o tratamento que a produzia.",
+      "prior": "Você distinguiu história da espécie e aprendizagem individual. A relação US–UR não depende daquele pareamento individual; a relação CS–CR é adquirida nessa história.",
+      "analogy": "Analogia didática: uma música associada repetidamente a uma situação marcante pode passar a acompanhar reações emocionais mesmo quando a situação original não está presente.",
+      "analogyLimit": "A música não é automaticamente um CS: é preciso investigar a história e a relação com a resposta. Uma coincidência isolada não estabelece o processo.",
+      "counterexample": "Contraexemplo didático: levantar a mão porque isso produz a oportunidade de falar é uma relação operante; o antecedente sinaliza uma consequência, em vez de simplesmente eliciar a ação.",
+      "recall": "No caso da quimioterapia dos slides, o que muda quando a náusea ocorre em uma visita ao hospital sem tratamento?",
+      "recallModel": "O contexto hospitalar pode ter adquirido função de estímulo condicionado por pareamento com o tratamento. É uma hipótese respondente que distingue o contexto aprendido do estímulo incondicionado.",
+      "nextConnection": "A próxima aula muda a pergunta: em vez de qual estímulo elicia, investigue o que a resposta produz e como isso altera sua probabilidade futura.",
+      "essentials": [
+        "US–UR: relação incondicionada.",
+        "CS–CR: relação estabelecida na história de pareamento.",
+        "Eliciação respondente difere de sinalização operante.",
+        "Probabilidades condicionais ajudam a examinar a relação.",
+        "Extinção respondente envolve CS sem US, com avaliação de seus efeitos."
+      ]
+    },
+    "basicos-3": {
+      "question": "Quando uma consequência funciona como reforçadora?",
+      "simple": "Uma consequência é reforçadora quando a relação em que ela é produzida fortalece respostas da mesma classe. O efeito precisa ser examinado: algo parecer agradável ou ocorrer depois não basta.",
+      "prior": "Na relação respondente, o foco estava na eliciação. Na relação operante, conecte antecedentes, resposta e mudanças produzidas no ambiente.",
+      "analogy": "Analogia didática: uma trilha pode se tornar mais usada porque leva a um destino acessível. Para entender o uso, observe o caminho e o resultado, não apenas a aparência do destino.",
+      "analogyLimit": "A pessoa não precisa planejar ou ter consciência da relação para haver reforçamento. A analogia do caminho não demonstra o fortalecimento da resposta.",
+      "counterexample": "Contraexemplo didático: entregar um prêmio após uma tarefa não permite chamá-lo de reforçador se não há evidência de fortalecimento da classe de respostas.",
+      "recall": "No supermercado, analise separadamente o choro da criança e a entrega do doce pelo adulto: que mudança cada resposta produz e que processo você investigaria?",
+      "recallModel": "Se o choro passa a ocorrer mais por produzir a adição do doce, há reforçamento positivo dessa resposta. Se entregar o doce se fortalece porque remove o choro, há reforçamento negativo da resposta do adulto. São duas análises.",
+      "nextConnection": "Estabelecido o efeito reforçador, podemos distinguir sua origem, a mudança ambiental e como a consequência é produzida.",
+      "essentials": [
+        "A unidade A–R–C inclui contexto, resposta e consequência.",
+        "Reforçamento é definido pelo fortalecimento da classe.",
+        "Positivo indica adição; negativo, retirada ou prevenção.",
+        "Uma interação pode envolver contingências para mais de uma pessoa.",
+        "Sequência temporal não prova relação funcional."
+      ]
+    },
+    "basicos-4": {
+      "question": "Por que o mesmo reforçador pode receber mais de uma classificação?",
+      "simple": "As classificações respondem a perguntas diferentes. Uma trata da origem da função, outra da relação com a atividade, outra da mediação social. Elas podem se combinar sem se tornarem sinônimas.",
+      "prior": "Você aprendeu a identificar o efeito de fortalecer respostas. Agora, sem perder esse critério funcional, examine como uma consequência adquiriu sua função e em que condições é produzida.",
+      "analogy": "Analogia didática: um livro pode ser classificado por idioma, assunto e formato. Dizer que é digital não informa se é de história; os critérios não competem entre si.",
+      "analogyLimit": "Reforçadores não têm funções fixas como etiquetas de objetos. A classificação exige história e contexto, além de evidência do efeito no comportamento.",
+      "counterexample": "Contraexemplo didático: chamar toda consequência automática de incondicionada confunde ausência de mediação direta de outra pessoa com origem da função reforçadora.",
+      "recall": "Sem consultar: por que dinheiro pode ser chamado de condicionado generalizado, mas não de reforçador universalmente eficaz?",
+      "recallModel": "Sua função é aprendida pela relação com diversos reforçadores. Essa variedade reduz a dependência de uma única privação, mas não elimina diferenças de história, disponibilidade e condições motivacionais.",
+      "nextConnection": "Se a função depende de uma relação, o que acontece quando a resposta deixa de produzir a consequência que antes a mantinha?",
+      "essentials": [
+        "Incondicionado e condicionado tratam da origem da função.",
+        "Generalizado remete à relação com múltiplos reforçadores.",
+        "Natural e arbitrário tratam da relação com a atividade e do arranjo.",
+        "Automático não exige mediação direta de outra pessoa.",
+        "Nenhum objeto dispensa a análise do organismo e do contexto."
+      ]
+    },
+    "basicos-5": {
+      "question": "O que precisa mudar para caracterizar extinção operante?",
+      "simple": "A resposta antes produzia uma consequência reforçadora e passa a não produzi-la. O processo pode incluir persistência, variação ou aumento inicial antes de uma redução, sem que esses efeitos sejam obrigatórios.",
+      "prior": "O reforçamento ligou uma resposta a uma consequência. A extinção exige examinar precisamente essa relação prévia, e não apenas observar que algo diminuiu.",
+      "analogy": "Analogia didática: ao apertar um botão de uma máquina que deixou de fornecer a bebida, alguém pode insistir ou variar o modo de apertar antes de parar.",
+      "analogyLimit": "A máquina ilustra a interrupção da relação, mas não prevê a intensidade nem o tempo de mudança de uma pessoa. Histórias de reforçamento distintas produzem efeitos distintos.",
+      "counterexample": "Contraexemplo didático: retirar um objeto preferido após outra resposta não é, por si só, extinção da resposta; é preciso identificar qual consequência mantinha aquela classe e se deixou de ser produzida.",
+      "recall": "Um registro cumulativo continua subindo, mas fica menos inclinado. Como isso pode ser compatível com redução do responder?",
+      "recallModel": "O registro acumula respostas e, por isso, não desce. Menor inclinação indica que menos respostas foram adicionadas por unidade de tempo, isto é, redução da taxa.",
+      "nextConnection": "Além das consequências, antecedentes passam a controlar diferencialmente o responder. A próxima aula conecta extinção, discriminação e generalização.",
+      "essentials": [
+        "Extinção pressupõe história anterior de reforçamento.",
+        "A resposta deixa de produzir a consequência que a mantinha.",
+        "Burst e variabilidade são possibilidades, não etapas universais.",
+        "A história de aprendizagem não é apagada.",
+        "Em curva cumulativa, a taxa aparece na inclinação."
+      ]
+    },
+    "basicos-6": {
+      "question": "Como um antecedente sinaliza disponibilidade de consequência sem obrigar a resposta?",
+      "simple": "Uma história de reforçamento diferencial pode estabelecer responder diferente diante de estímulos diferentes. Quando o controle se estende a estímulos com propriedades comuns, observamos generalização.",
+      "prior": "A relação resposta–consequência já está estabelecida. Acrescente a pergunta sobre as condições em que essa relação esteve disponível.",
+      "analogy": "Analogia didática: uma placa de estabelecimento aberto pode sinalizar uma oportunidade de atendimento; ela não força ninguém a entrar.",
+      "analogyLimit": "A função de Sd depende da história da resposta e da consequência. Uma placa não tem essa função apenas por ser chamada de sinal.",
+      "counterexample": "Contraexemplo didático: responder ao laranja depois de treino apenas no vermelho ilustra generalização; não demonstra treino discriminativo específico entre vermelho e laranja.",
+      "recall": "Sem consultar: qual a diferença entre verificar a habilidade na sessão e verificar a mesma classe em novos ambientes?",
+      "recallModel": "A primeira observação mostra desempenho naquele contexto. A segunda investiga extensão do controle e generalização; a transferência não deve ser presumida apenas pelo sucesso na sessão.",
+      "nextConnection": "Antecedentes e consequências também organizam fuga e esquiva. Distinguir quando a condição aversiva já está presente será decisivo.",
+      "essentials": [
+        "Sd indica condições históricas de disponibilidade de consequência.",
+        "SΔ indica condições em que aquela consequência não esteve disponível para a resposta.",
+        "Discriminação é responder diferencialmente.",
+        "Generalização é extensão do controle a outros estímulos.",
+        "Sucesso em um contexto não assegura transferência."
+      ]
+    },
+    "basicos-7": {
+      "question": "Como distinguir fuga, esquiva e punição sem confundir negativo com prejudicial?",
+      "simple": "Fuga remove uma condição aversiva presente; esquiva a previne ou adia. Ambas podem ser fortalecidas por reforçamento negativo. Nos slides, punição é definida pelo procedimento contingente, sem exigir redução duradoura para nomeá-lo.",
+      "prior": "Você já conhece adição, retirada e efeito reforçador. Use essas perguntas separadamente: o que é produzido pela resposta, e quais efeitos foram efetivamente observados?",
+      "analogy": "Analogia didática: sair da chuva em andamento ajuda a visualizar fuga; mudar o trajeto antes de alcançá-la ajuda a visualizar esquiva.",
+      "analogyLimit": "Os exemplos só caracterizam reforçamento negativo se a remoção ou prevenção fortalecer as respostas. Uma ocorrência isolada não estabelece o efeito.",
+      "counterexample": "Contraexemplo didático: responder a mais pedidos porque isso interrompe cobranças é reforçamento negativo, não punição dessa resposta. Ela está sendo fortalecida pela retirada.",
+      "recall": "No exemplo didático, um estímulo aversivo é apresentado contingentemente à resposta, mas não há redução duradoura. Como o material nomeia o procedimento e que efeitos ainda precisam ser avaliados?",
+      "recallModel": "Não. O material nomeia o procedimento de punição positiva pela apresentação contingente de estímulo aversivo. A supressão e outros efeitos devem ser avaliados separadamente; a definição não garante o resultado.",
+      "nextConnection": "As palavras também produzem consequências e podem participar de esquiva. Para analisá-las, investigue o controle da fala e a mediação do ouvinte.",
+      "essentials": [
+        "Fuga remove o aversivo presente; esquiva previne ou adia.",
+        "Reforçamento negativo fortalece respostas.",
+        "Nos slides, punição tem definição procedural skinneriana.",
+        "Punição positiva apresenta aversivo; negativa retira reforçador positivo.",
+        "Efeitos incluem possibilidades de respostas emocionais, fuga e contracontrole."
+      ]
+    },
+    "basicos-8": {
+      "question": "Como a mesma palavra pode ser mando ou tato?",
+      "simple": "A frase não determina sua função. Para distinguir operantes verbais, investigue as variáveis antecedentes e a consequência mediada pelo ouvinte: pedir algo específico e descrever algo podem usar as mesmas palavras.",
+      "prior": "Sd, condições motivacionais e consequências já fizeram parte da análise. Agora articule essas variáveis à fala e às respostas da comunidade verbal.",
+      "analogy": "Analogia didática: a mesma tecla de um dispositivo pode cumprir funções diferentes conforme o programa aberto. A forma é igual, mas a relação em que opera mudou.",
+      "analogyLimit": "Falas não são comandos fixos de software. Podem estar sob controle múltiplo, e sua função exige investigar história, contexto e consequências.",
+      "counterexample": "Contraexemplo didático: “água” diante de uma figura, seguido de reconhecimento social, não é automaticamente um pedido de água; pode funcionar como tato.",
+      "recall": "Sem consultar: que dados diferenciariam “água!” como mando e como tato?",
+      "recallModel": "No mando, investigaria condições motivacionais e a produção de água como reforço específico. No tato, investigaria controle por estímulo não verbal e consequências sociais generalizadas. A palavra isolada não resolve.",
+      "nextConnection": "As propostas terapêuticas usam essas bases de maneiras diferentes. O próximo módulo situa suas continuidades e diferenças históricas.",
+      "essentials": [
+        "Comportamento verbal depende de mediação de um ouvinte preparado pela comunidade.",
+        "Mando envolve controle motivacional e reforço específico.",
+        "Tato envolve estímulo não verbal e reforço condicionado generalizado.",
+        "Eventos privados podem integrar descrições aprendidas socialmente.",
+        "O self é tratado como repertório de autorreferência, não uma causa interna isolada."
+      ]
+    },
+    "historia-1": {
+      "question": "O que a classificação em ondas ajuda a compreender sem transformar a história em uma escada?",
+      "simple": "As ondas organizam tendências de premissas, métodos e objetivos. A primeira destaca aprendizagem e validação experimental; a segunda amplia propostas cognitivas. Há continuidades, diferenças internas e trajetórias locais.",
+      "prior": "Você já conhece relações de aprendizagem. Agora observe como tradições clínicas selecionaram problemas, explicações e formas de intervenção a partir de fundamentos distintos.",
+      "analogy": "Analogia didática: mapas históricos mostram movimentos predominantes em períodos, mas não significam que todas as regiões mudaram juntas ou que uma prática desapareceu quando outra surgiu.",
+      "analogyLimit": "A imagem de ondas simplifica sobreposições e debates. Ela não ordena terapias por eficácia nem determina etapas obrigatórias de formação.",
+      "counterexample": "Contraexemplo didático: chamar toda TCC de terapia cognitiva de Beck confunde um conjunto amplo de propostas com uma abordagem específica.",
+      "recall": "Sem consultar: o que diferencia a ênfase da primeira onda e a da segunda, e por que isso não autoriza classificar toda terapia da mesma época como idêntica?",
+      "recallModel": "A primeira enfatiza aprendizagem e validação experimental; a segunda amplia modelos de cognição e processamento de informação. Cada período reúne tradições distintas, e a cronologia não elimina diferenças conceituais.",
+      "nextConnection": "A terceira onda amplia temas contextuais como aceitação e valores. Avalie seus objetivos sem assumir que “terceira” significa substituição completa das anteriores.",
+      "essentials": [
+        "Ondas são uma organização histórica, não uma sequência universal.",
+        "A primeira onda não se reduz ao Behaviorismo Radical.",
+        "A segunda amplia propostas cognitivas e processamento de informação.",
+        "TCC é mais ampla que a terapia cognitiva de Beck.",
+        "O debate sobre componentes cognitivos não prova ineficácia geral da TCC."
+      ]
+    },
+    "historia-2": {
+      "question": "O que muda quando o objetivo é flexibilidade psicológica em vez de esperar o desaparecimento do desconforto?",
+      "simple": "Na ACT, desenvolver flexibilidade envolve contato com o presente e possibilidade de manter ou modificar ações conforme valores. A relação com pensamentos e sentimentos pode mudar mesmo quando eles continuam ocorrendo.",
+      "prior": "As ondas anteriores situaram objetivos e métodos distintos. Relacione agora o estudo da linguagem às consequências de agir sob regras e às possibilidades de ação em contextos difíceis.",
+      "analogy": "Analogia didática: numa caminhada importante, notar o clima e ajustar os passos pode ser mais útil do que esperar controlar o tempo antes de sair.",
+      "analogyLimit": "Aceitação não significa permanecer em perigo, abandonar mudanças ambientais ou suportar tudo. A analogia não define o que uma pessoa deve valorizar ou fazer.",
+      "counterexample": "Contraexemplo didático: desistir de uma meta importante apenas para nunca sentir ansiedade não exemplifica, por si só, ação comprometida orientada por valores.",
+      "recall": "Sem consultar: como aceitação e ação comprometida podem ocorrer juntas sem exigir que a ansiedade desapareça?",
+      "recallModel": "A pessoa pode ampliar a disposição de entrar em contato com a experiência interna e escolher ações coerentes com valores no contexto. O critério não é eliminar toda emoção, e sim ampliar possibilidades de ação.",
+      "nextConnection": "Outra proposta contextual examina o que acontece entre cliente e terapeuta: a FAP usa a relação como contexto para observar e desenvolver repertórios.",
+      "essentials": [
+        "Flexibilidade psicológica articula presente e ação orientada por valores.",
+        "Aceitação não equivale a resignação.",
+        "Desfusão muda a relação com pensamentos, sem exigir seu desaparecimento.",
+        "O hexaflex organiza seis processos, incluindo self como contexto.",
+        "A ACT se relaciona aos estudos de regras e à RFT citados no material."
+      ]
+    },
+    "historia-3": {
+      "question": "Como uma interação com o terapeuta pode se tornar oportunidade de mudança clínica?",
+      "simple": "Padrões importantes podem ocorrer na própria sessão. A FAP orienta observar, criar oportunidades e responder funcionalmente às melhoras, verificando os efeitos e a relação com a vida fora da terapia.",
+      "prior": "A análise operante mostrou que consequências afetam o responder. Aplique essa pergunta à interação terapêutica: que respostas do terapeuta acompanham mudanças no repertório do cliente?",
+      "analogy": "Analogia didática: um laboratório de conversação permite que um padrão seja observado enquanto ocorre, em vez de depender apenas de um relato sobre conversas passadas.",
+      "analogyLimit": "A sessão não é uma reprodução automática da vida cotidiana nem um laboratório experimental por si só. Equivalências funcionais e generalização precisam ser investigadas.",
+      "counterexample": "Contraexemplo didático: concordar sempre com o terapeuta não é necessariamente melhora; para alguém que evita discordar, pode manter o padrão-problema.",
+      "recall": "Sem consultar: por que reforçar uma aparente melhora exige também observar o efeito da resposta do terapeuta?",
+      "recallModel": "A intenção de reforçar não demonstra fortalecimento funcional. É preciso observar se a resposta favorece o repertório de melhora daquele caso e se não fortalece apenas submissão ou outra esquiva.",
+      "nextConnection": "A história brasileira contextualiza como a prática clínica analítico-comportamental se desenvolveu e recebeu sua denominação.",
+      "essentials": [
+        "Comportamentos clinicamente relevantes podem ocorrer na sessão.",
+        "As cinco regras incluem observar, evocar e reforçar CCR2.",
+        "É necessário avaliar os efeitos das respostas do terapeuta.",
+        "Interpretações funcionais devem se conectar à generalização.",
+        "A função determina a relevância clínica, não a simpatia da resposta."
+      ]
+    },
+    "historia-4": {
+      "question": "Por que a história da TAC no Brasil não é uma cópia das três ondas?",
+      "simple": "O ensino e a pesquisa em Análise do Comportamento no Brasil se articularam à formação clínica em um contexto próprio. A chegada de Keller e a construção local de práticas são marcos dessa trajetória.",
+      "prior": "A classificação em ondas serviu como mapa geral. Agora limite sua aplicação e situe a formação brasileira em suas condições universitárias, políticas e profissionais.",
+      "analogy": "Analogia didática: conhecer a história de um idioma em vários países exige observar suas trajetórias locais; uma linha do tempo geral não conta todas as transformações.",
+      "analogyLimit": "Não há isolamento completo entre histórias nacionais. A analogia ressalta contextos próprios sem negar intercâmbios entre pesquisadores e tradições.",
+      "counterexample": "Contraexemplo didático: afirmar que a TAC só surgiu quando o Brasil “alcançou a terceira onda” apaga a construção clínica local e suas bases conceituais.",
+      "recall": "Sem consultar: que marco o material situa em 1961 e que proposta de denominação situa em 2001?",
+      "recallModel": "Em 1961, a chegada de Fred Keller fortaleceu ensino, pesquisa e formação. Em 2001, Tourinho e Cavalcante propuseram a denominação Terapia Analítico-Comportamental para explicitar sua fundamentação.",
+      "nextConnection": "Depois de situar as tradições, o percurso volta ao instrumento que orienta a prática: formular relações funcionais em episódios e padrões.",
+      "essentials": [
+        "Keller chegou ao Brasil em 1961.",
+        "Ensino, laboratórios e pesquisa participaram da formação do campo.",
+        "O contexto político e universitário afetou essa trajetória.",
+        "A prática clínica brasileira construiu modelos próprios.",
+        "A denominação TAC explicita a fundamentação analítico-comportamental."
+      ]
+    },
+    "funcional-1": {
+      "question": "Como passar de “ela é insegura” para uma hipótese funcional investigável?",
+      "simple": "Descreva uma resposta observável e o episódio em que ocorre: o que a antecede, o que ela produz e quais processos podem relacionar esses eventos. A sequência organiza a investigação, mas não prova causalidade.",
+      "prior": "Você já distingue respondentes, operantes, Sd e consequências. A análise molecular reúne essas distinções em um episódio concreto.",
+      "analogy": "Analogia didática: ampliar um quadro de uma sequência permite ver detalhes que o título do filme não informa. A análise molecular examina o episódio em vez de aceitar um rótulo geral.",
+      "analogyLimit": "O recorte não captura sozinho toda a história da pessoa. Além disso, visualizar uma sequência não demonstra que um evento controla outro.",
+      "counterexample": "Contraexemplo didático: preencher o campo resposta com “baixa autoestima” apenas troca um rótulo por outro; “recusou o convite” permite perguntar por antecedentes e consequências.",
+      "recall": "Sem consultar: como você distinguiria Sd e operação motivadora ao formular perguntas sobre um episódio?",
+      "recallModel": "Perguntaria se o antecedente sinaliza disponibilidade de uma consequência para a resposta, no caso do Sd, ou se altera o valor da consequência e a probabilidade de respostas relacionadas, no caso da OM.",
+      "nextConnection": "O caso de Patrícia mostra por que mapear apenas uma consequência pode esconder funções que coexistem no mesmo episódio.",
+      "essentials": [
+        "Operacionalize a resposta antes de explicar.",
+        "Mapeie antecedentes, mudanças produzidas e processos possíveis.",
+        "Sd e OM cumprem funções diferentes.",
+        "Considere efeitos e subprodutos além do alvo imediato.",
+        "Uma tabela A–R–C organiza hipóteses; não prova causa sozinha."
+      ]
+    },
+    "funcional-2": {
+      "question": "Uma mesma resposta pode produzir custo social e preservar algo importante?",
+      "simple": "No episódio de Patrícia, recusar o pedido da colega é seguido de crítica, mas preserva tempo para a família e para sua própria atividade. As consequências concorrentes ajudam a compreender o conflito.",
+      "prior": "A análise molecular pediu uma resposta definida e mudanças ambientais. Agora amplie a coluna de consequências para incluir mais de um efeito do mesmo episódio.",
+      "analogy": "Analogia didática: uma decisão pode abrir uma porta e fechar outra ao mesmo tempo. Mapear apenas uma delas deixa incompleta a análise de seus efeitos.",
+      "analogyLimit": "Não se trata de atribuir um saldo numérico à vida da cliente. A função de cada consequência depende de história, contexto e dados sobre o responder.",
+      "counterexample": "Contraexemplo didático: concluir que a recusa foi inútil porque houve crítica pública ignora o tempo preservado; concluir que foi totalmente benéfica ignora o custo social e emocional.",
+      "recall": "Sem consultar: quais duas consequências da recusa de Patrícia precisam aparecer para evitar uma análise de mão única?",
+      "recallModel": "A crítica pública recebida e a preservação de tempo e tranquilidade para a família e a própria tarefa. A função de cada uma deve ser investigada sem reduzir a resposta a um traço de personalidade.",
+      "nextConnection": "Quando consequências semelhantes aparecem em relações diferentes, o recorte molar permite investigar um padrão e sua história.",
+      "essentials": [
+        "Uma resposta pode produzir consequências simultâneas diferentes.",
+        "Críticas e invalidações integram o contexto de Patrícia.",
+        "Preservar tempo pessoal também é uma mudança relevante.",
+        "Evitar conversas pode reduzir crítica e limitar contato reforçador.",
+        "A função não pode ser inferida apenas de um adjetivo sobre a cliente."
+      ]
+    },
+    "funcional-3": {
+      "question": "Como episódios diferentes podem compor um mesmo padrão funcional?",
+      "simple": "A análise molar examina respostas em contextos diversos, história de aquisição, manutenção atual e consequências em vários prazos. Ela conecta episódios sem transformar o passado em destino.",
+      "prior": "A análise molecular permitiu detalhar uma recusa de Patrícia. Agora pergunte se relações semelhantes se repetem em outras situações e em que condições persistem.",
+      "analogy": "Analogia didática: um mapa de trajetos repetidos mostra padrões que uma fotografia de uma esquina não revela. As duas escalas respondem a perguntas complementares.",
+      "analogyLimit": "Repetição de forma não garante unidade funcional. Respostas só integram a mesma hipótese de padrão quando suas relações com o contexto sustentam essa organização.",
+      "counterexample": "Contraexemplo didático: juntar todas as respostas de dizer “sim” em uma classe, sem verificar se produzem aprovação, evitam críticas ou atendem outras condições, confunde topografia com função.",
+      "recall": "Sem consultar: por que explicar como um padrão foi adquirido não responde automaticamente por que ele continua hoje?",
+      "recallModel": "Condições passadas podem explicar a aquisição, mas as contingências atuais podem ser diferentes. A manutenção exige investigar consequências presentes, oportunidades e custos em diferentes prazos.",
+      "nextConnection": "O João de 55 anos permite observar o contraste entre competência em um contexto e dificuldades em outros, incluindo condições sociais e protetivas.",
+      "essentials": [
+        "Molecular e molar se complementam.",
+        "Padrões são hipóteses sobre relações em diferentes contextos.",
+        "Aquisição e manutenção são perguntas distintas.",
+        "Mapeie consequências de curto, médio e longo prazo.",
+        "A história não elimina possibilidades de mudança atual."
+      ]
+    },
+    "funcional-4": {
+      "question": "O que o caso do João de 55 anos mostra sobre repertório e contexto?",
+      "simple": "Competência profissional e dificuldade de assertividade podem coexistir. A formulação relaciona oportunidades, ameaças, medo de rejeição, rotina e apoios, sem transformar orientação sexual em patologia.",
+      "prior": "A análise molar pede padrões e condições mantenedoras. Aplique essa escala às diferenças de desempenho entre vida profissional, conjugal, familiar e de lazer.",
+      "analogy": "Analogia didática: saber circular bem em uma cidade não garante conhecer outra. Um repertório desenvolvido em um contexto não aparece com a mesma força em todos os demais.",
+      "analogyLimit": "Contextos não são compartimentos estanques. A analogia não exclui generalização nem explica sozinha as dificuldades: história e contingências precisam ser examinadas.",
+      "counterexample": "Contraexemplo didático: explicar a infelicidade desse João apenas pela orientação sexual ignora ameaças conjugais, isolamento, história de rejeição e condições de apoio.",
+      "recall": "Sem consultar: qual dado protetivo do caso merece ser investigado junto às dificuldades, e por que?",
+      "recallModel": "O apoio da filha mais velha. Ele pode indicar um contexto de acolhimento e oportunidade de contato, importante para uma formulação que não registre apenas condições aversivas.",
+      "nextConnection": "Laura amplia a análise para contingências culturais, discriminação e reconhecimento profissional que podem competir com outros vínculos.",
+      "essentials": [
+        "Este João tem 55 anos e é militar aposentado.",
+        "É um caso diferente do João de 31 anos do módulo seguinte de caso clínico.",
+        "Desempenho competente em um contexto não garante assertividade em todos.",
+        "Ameaças e expectativas sociais entram na análise.",
+        "Orientação sexual não é patologia; apoio também é dado funcional."
+      ]
+    },
+    "funcional-5": {
+      "question": "Como reconhecimento profissional e esquiva social podem participar do mesmo padrão?",
+      "simple": "No relato de Laura, o trabalho oferece elogios enquanto lazer e contato social diminuem. Essa organização pode envolver acesso a reconhecimento e redução de contato com situações aversivas, em uma história atravessada por discriminação.",
+      "prior": "O caso anterior mostrou diferenças entre contextos. Agora inclua as condições culturais que modificam oportunidades, custos e formas de pertencimento.",
+      "analogy": "Analogia didática: uma rota frequentemente disponível pode ocupar cada vez mais espaço quando outras passam a conter barreiras. O fluxo depende tanto do caminho acessível quanto dos obstáculos nos demais.",
+      "analogyLimit": "A comparação não naturaliza barreiras sociais nem responsabiliza Laura por elas. Preconceito e desigualdade são condições concretas, não meras interpretações individuais.",
+      "counterexample": "Contraexemplo didático: rotular o excesso de trabalho como “falta de vontade de socializar” ignora suas consequências reforçadoras e a história de exclusão que precisa ser investigada.",
+      "recall": "Sem consultar: que duas funções possíveis do trabalho excessivo precisam ser distinguidas e que limite há nessa formulação?",
+      "recallModel": "Obter reconhecimento e reduzir contato com situações sociais aversivas. São hipóteses compatíveis com o relato, não funções definitivamente demonstradas; precisam de dados e avaliação contextual.",
+      "nextConnection": "Depois de formular hipóteses, a seleção de estratégias deve explicitar quais repertórios ampliar e como avaliar efeitos.",
+      "essentials": [
+        "História de preconceito regional e racialização integra o contexto.",
+        "Elogios no trabalho podem participar da manutenção do padrão.",
+        "Reconhecimento e esquiva podem coexistir.",
+        "Redução de lazer e vínculos precisa entrar na análise.",
+        "Restrição alimentar e uso de diuréticos são sinais de risco relatados, não recursos de intervenção."
+      ]
+    },
+    "intervencao-1": {
+      "question": "Como a análise funcional orienta a escolha de uma técnica?",
+      "simple": "A técnica é um procedimento conhecido; sua indicação depende do problema formulado. Definir alvos, analisar relações, selecionar estratégias e avaliar efeitos compõem um processo contínuo de revisão.",
+      "prior": "Você já construiu hipóteses moleculares e molares. Transforme-as em perguntas sobre qual repertório deve mudar, em quais contextos e com que indicadores.",
+      "analogy": "Analogia didática: uma ferramenta serve a uma tarefa porque suas características se ajustam ao problema. Ter uma caixa de ferramentas não decide qual reparo é necessário.",
+      "analogyLimit": "Clientes não são objetos a reparar, e a escolha clínica envolve metas relevantes para a pessoa, relação terapêutica e avaliação contínua. A analogia destaca a necessidade de indicação funcional.",
+      "counterexample": "Contraexemplo didático: escolher role-play para todos os clientes que dizem “não consigo” dispensa indevidamente investigar repertório, condições ambientais e função da resposta.",
+      "recall": "Antes de propor treino de assertividade no exemplo didático, que três perguntas tornariam a escolha mais investigável?",
+      "recallModel": "Quando e como a pessoa se cala? O que esse silêncio produz? Qual resposta alternativa relevante seria praticada e como seus efeitos seriam acompanhados? Essas perguntas ligam alvo, função e avaliação.",
+      "nextConnection": "Na sessão, é preciso reconhecer o que conta como problema, melhora e interpretação funcional. Essa é a distinção entre CCR1, CCR2 e CCR3.",
+      "essentials": [
+        "A análise de contingências é o referencial.",
+        "Avaliação funcional acompanha todo o processo.",
+        "Alvos precisam de descrição operacional.",
+        "Técnicas não substituem formulação do caso.",
+        "Efeitos observados orientam manutenção ou revisão da estratégia."
+      ]
+    },
+    "intervencao-2": {
+      "question": "Como distinguir emitir uma melhora de apenas falar sobre ela?",
+      "simple": "CCR1, CCR2 e CCR3 nomeiam funções clínicas de respostas em sessão. Um cliente pode reproduzir um padrão-problema, apresentar uma melhora ou formular relações entre o que faz e suas variáveis.",
+      "prior": "A FAP já mostrou que a própria relação pode ser contexto de mudança. Agora diferencie o tipo de ocorrência clínica sem decidir apenas pelo conteúdo da fala.",
+      "analogy": "Analogia didática: descrever uma travessia, atravessar e explicar quais condições facilitaram a travessia são ações diferentes. Elas podem se relacionar, mas não se equivalem.",
+      "analogyLimit": "Uma descrição verbal também pode ser clinicamente relevante e ter controle múltiplo. A comparação não estabelece categorias pela aparência: a formulação do caso permanece necessária.",
+      "counterexample": "Contraexemplo didático: dizer “eu preciso discordar mais” não demonstra, por si só, a ocorrência de discordar do terapeuta; pode ser apenas relato, interpretação ou outra resposta com função a investigar.",
+      "recall": "No exemplo didático de alguém que evita discordar, como diferenciar uma possível ocorrência de CCR2 de uma possível ocorrência de CCR3?",
+      "recallModel": "Expressar uma divergência na interação pode ser CCR2, se representa melhora naquele caso. Identificar que se cala para evitar rejeição pode ser CCR3, se descreve funcionalmente suas variáveis. O contexto decide.",
+      "nextConnection": "Depois de reconhecer uma melhora possível, a modelagem ajuda a selecionar aproximações e a modelação oferece exemplos observáveis de resposta.",
+      "essentials": [
+        "CCR1 é ocorrência do padrão-problema em sessão.",
+        "CCR2 é melhora funcional em relação à linha de base individual.",
+        "CCR3 envolve interpretação do próprio comportamento e de suas variáveis.",
+        "Relatar uma ação não equivale a emiti-la na interação.",
+        "A mesma frase pode receber classificações diferentes conforme sua função."
+      ]
+    },
+    "intervencao-3": {
+      "question": "Qual é a diferença entre reforçar uma aproximação e apresentar um modelo?",
+      "simple": "Modelagem seleciona aproximações sucessivas de uma resposta-alvo por reforçamento diferencial. Modelação disponibiliza um exemplo a ser observado. Uma intervenção pode usar ambos, mas os processos não são sinônimos.",
+      "prior": "Você aprendeu a reconhecer CCR2 a partir do caso. Agora investigue como uma melhora ainda parcial pode ser fortalecida e como um exemplo pode ajudar a praticar um repertório.",
+      "analogy": "Analogia didática: orientar alguém a alcançar uma nota musical por tentativas progressivas ilustra aproximações; tocar a nota para que a pessoa observe ilustra oferecer um modelo.",
+      "analogyLimit": "Ouvir ou assistir não garante aquisição, e qualquer elogio não caracteriza modelagem. É necessário definir o alvo, selecionar aproximações e avaliar os efeitos.",
+      "counterexample": "Contraexemplo didático: mostrar um vídeo de uma conversa assertiva é modelação, não modelagem apenas porque o vídeo apresenta um comportamento desejado.",
+      "recall": "No exemplo didático, um cliente permanece na conversa, mas ainda fala com irritação. Em que condições isso poderia ser uma aproximação reforçável?",
+      "recallModel": "Se permanecer já representa avanço em relação ao padrão de sair ou interromper, e integra um caminho funcional até o alvo. O critério deve avançar gradualmente, acompanhando o efeito da consequência.",
+      "nextConnection": "O role-play pode combinar demonstração, prática e feedback. O passo seguinte é organizar esses recursos e observar transferência para fora da sessão.",
+      "essentials": [
+        "Modelagem: reforçamento diferencial de aproximações sucessivas.",
+        "Defina o alvo final e uma aproximação já disponível.",
+        "Critérios devem avançar de modo gradual e acompanhado.",
+        "Modelação: aprendizagem por observação de um modelo.",
+        "Modelos podem ser presenciais ou apresentados em diferentes mídias."
+      ]
+    },
+    "intervencao-4": {
+      "question": "O que faz de um ensaio uma oportunidade de aprendizagem e não apenas uma encenação?",
+      "simple": "O role-play organiza uma situação análoga para praticar respostas específicas. Modelo, instruções, dicas, troca de papéis e feedback podem ser combinados, com avaliação posterior do desempenho em situações reais.",
+      "prior": "Modelagem e modelação diferenciaram progressão e demonstração. No role-play, essas ferramentas podem se articular a uma sequência concreta de treino.",
+      "analogy": "Analogia didática: um ensaio musical permite parar em um trecho, ouvir um modelo e tentar de novo. A apresentação em outro ambiente exige verificar o que se manteve.",
+      "analogyLimit": "O ensaio clínico não replica todas as contingências fora da sessão. Fluência no treino não garante o mesmo desempenho diante de outra pessoa ou consequência.",
+      "counterexample": "Contraexemplo didático: repetir uma cena várias vezes sem definir alvo, observar a resposta ou fornecer feedback não assegura que o repertório relevante esteja sendo aprendido.",
+      "recall": "No exemplo didático de pedir ajuda com a louça, o que você observaria além de a pessoa conseguir repetir uma frase sugerida?",
+      "recallModel": "Observaria se descreve a situação e faz um pedido específico de forma funcional, se ajusta a resposta ao interlocutor e se o repertório ocorre fora do ensaio. Repetir uma frase não demonstra generalização.",
+      "nextConnection": "Para além do desempenho visível, discriminar contexto e sentimentos pode ampliar o autoconhecimento trabalhado no treino de tato.",
+      "essentials": [
+        "Defina uma situação e uma sequência por vez.",
+        "Modelos e instruções podem preparar o ensaio.",
+        "Feedback deve ser específico ao desempenho.",
+        "Troca de papéis é um recurso possível.",
+        "Planeje como observar generalização para a situação real."
+      ]
+    },
+    "intervencao-5": {
+      "question": "Como ajudar a discriminar sentimentos sem impor a resposta que agrada ao terapeuta?",
+      "simple": "A comunidade ensina formas de observar e descrever a própria experiência. Perguntas e modelos ampliam esse repertório quando ajudam a conectar contexto, sensações, ações e efeitos, em vez de selecionar apenas uma palavra esperada.",
+      "prior": "Tato foi definido pelas variáveis de controle. Retome essa definição para perguntar se a descrição se relaciona à experiência da pessoa ou principalmente à aprovação do interlocutor.",
+      "analogy": "Analogia didática: ajustar o foco de uma lente pode tornar detalhes disponíveis para descrição. Boas perguntas direcionam a observação, sem fabricar o que deveria aparecer.",
+      "analogyLimit": "Eventos privados não são observados diretamente pelo terapeuta como uma imagem compartilhada. Modelos e perguntas precisam respeitar essa diferença e evitar certeza indevida.",
+      "counterexample": "Contraexemplo didático: corrigir toda descrição até o cliente dizer “raiva” pode aumentar concordância com o terapeuta, sem melhorar a discriminação do que aconteceu e foi sentido.",
+      "recall": "Sem consultar: por que perguntar apenas “qual emoção foi?” pode ser menos informativo do que explorar o antes, a ação e o depois?",
+      "recallModel": "O rótulo isolado pode ser repetido sob controle social. Explorar contexto, resposta e consequências amplia oportunidades de discriminar relações e não apenas nomear uma emoção.",
+      "nextConnection": "O João de 31 anos permite acompanhar a importância e os limites desses procedimentos em uma formulação clínica extensa.",
+      "essentials": [
+        "Autoconhecimento tem origem social.",
+        "Nomear uma emoção não garante discriminar suas condições.",
+        "Perguntas podem abordar antecedentes, sentimentos e consequências.",
+        "Modelos oferecem possibilidades, não um sentimento obrigatório.",
+        "Conhecer a ação e conhecer suas variáveis são aprendizagens diferentes."
+      ]
+    },
+    "joao-1": {
+      "question": "Como estudar a história de João sem adotar seus julgamentos moralizantes como explicações?",
+      "simple": "Este João iniciou terapia aos 31 anos. Sua história inclui violência, rejeição, formação religiosa, conflitos relacionais e frustrações profissionais. A formulação investiga essas condições e suas consequências, preservando sua dignidade.",
+      "prior": "A avaliação funcional liga história e manutenção atual. Retome também a distinção entre descrição do cliente, relato sobre si e explicação funcional.",
+      "analogy": "Analogia didática: ler um documento histórico exige distinguir a voz de quem relata da análise feita sobre o relato. Uma autodescrição é dado para investigar, não conclusão a reproduzir.",
+      "analogyLimit": "O caso clínico não oferece acesso completo à vida do cliente. Nem uma linguagem histórica nem a interpretação do estudo autorizam conclusões universais sobre pessoas com experiências semelhantes.",
+      "counterexample": "Contraexemplo didático: atribuir o sofrimento à homossexualidade repete um julgamento e ignora violência, rejeição, aprovação social e conflitos contextuais descritos no caso.",
+      "recall": "Sem consultar: que diferença de identificação impede misturar este caso com o João do módulo de análise funcional?",
+      "recallModel": "Este João iniciou terapia aos 31 anos e é o caso de intervenção apresentado por Meyer e colaboradores; o outro tem 55 anos, é militar aposentado e aparece em outro material. As histórias não devem ser fundidas.",
+      "nextConnection": "Conhecido o contexto, o material organiza respostas diferentes em quatro classes funcionais. O próximo passo é examinar o critério dessa organização.",
+      "essentials": [
+        "Este caso descreve João aos 31 anos e terapia de quatro anos.",
+        "Não é o mesmo João de 55 anos.",
+        "Orientação sexual não explica patologicamente o sofrimento.",
+        "Autodescrições moralizantes são parte do material a analisar.",
+        "História de violência e contingências atuais entram na formulação."
+      ]
+    },
+    "joao-2": {
+      "question": "Como organizar comportamentos diferentes em classes sem transformá-las em traços fixos?",
+      "simple": "O material reúne respostas pela hipótese de suas funções: buscar admiração e evitar rejeição, controlar a relação, reduzir contato com experiências internas e evitar vulnerabilidade. Cada classe precisa se apoiar na história e nas interações.",
+      "prior": "Você já distinguiu topografia e função e aprendeu CCRs. Aplique as duas distinções ao que João faz na sessão e ao que apenas relata fazer em outros contextos.",
+      "analogy": "Analogia didática: mensagens com palavras diferentes podem servir ao mesmo propósito em uma conversa. Para agrupá-las, é preciso examinar o que produzem naquela relação.",
+      "analogyLimit": "A função pode ser múltipla e variar entre contextos. Agrupar respostas não estabelece uma essência permanente da pessoa nem elimina a necessidade de novas observações.",
+      "counterexample": "Contraexemplo didático: um contato sexual relatado fora da sessão não é, por esse motivo, um CCR diretamente observado na sessão; o relato é outra resposta, com função própria a investigar.",
+      "recall": "Sem consultar: por que controlar horários e falar de forma emocionalmente distante podem exigir hipóteses funcionais diferentes, mesmo que ambos ocorram na terapia?",
+      "recallModel": "A primeira resposta pode organizar a relação e evitar julgamento ou abandono; a segunda pode reduzir vulnerabilidade ou contato com experiências internas. São hipóteses do caso, não categorias decididas apenas por ocorrerem em sessão.",
+      "nextConnection": "Com as classes formuladas, a questão passa a ser reconhecer alternativas funcionais e acompanhar como a relação terapêutica favorece sua ocorrência.",
+      "essentials": [
+        "As quatro classes organizam hipóteses de função.",
+        "Buscar admiração não equivale a um traço imutável.",
+        "Controle da relação e esquiva de vulnerabilidade podem se articular.",
+        "Relato do cotidiano difere de ocorrência clínica diretamente observada.",
+        "Sonolência e sinais somáticos não recebem explicação funcional exclusiva sem avaliação."
+      ]
+    },
+    "joao-3": {
+      "question": "Por que expressar frustração pode ser melhora mesmo quando a interação fica menos agradável?",
+      "simple": "Para João, maior contato com sentimentos e expressão de opiniões podia romper esquivas de intimidade. A relevância da mudança depende da função e do contexto, não apenas de o comportamento agradar à terapeuta.",
+      "prior": "As classes funcionais incluíram evitar rejeição e vulnerabilidade. Reconheça uma alternativa pela relação que transforma, e não pelo grau de concordância com o terapeuta.",
+      "analogy": "Analogia didática: um instrumento passa a informar melhor quando registra também variações difíceis de ouvir. Um sinal agradável e constante pode ocultar o que precisa ser discriminado.",
+      "analogyLimit": "O cliente não é um instrumento, e sofrimento não é prova de progresso. A comparação destaca a diferença entre agradar e descrever com maior precisão; os efeitos devem ser acompanhados.",
+      "counterexample": "Contraexemplo didático: cumprir uma tarefa apenas para impressionar a terapeuta pode manter busca de aprovação, mesmo que a tarefa pareça desejável em sua forma.",
+      "recall": "No caso, por que a regra “ser mais honesto” não deve ser tratada como solução idêntica para trabalho e namoro?",
+      "recallModel": "Os contextos envolvem habilidades, interlocutores e consequências diferentes. O reconhecimento após expor dúvidas ao chefe não garante o mesmo efeito ao aplicar a regra no namoro; é preciso analisar cada situação.",
+      "nextConnection": "Uma intervenção pode produzir efeitos imprevistos sobre a discriminação recém-aprendida. A próxima aula examina o registro associado à antecipação de culpa.",
+      "essentials": [
+        "Melhora funcional pode incluir discordância e frustração expressas.",
+        "Agradar à terapeuta não é critério suficiente de CCR2.",
+        "Discriminar sentimentos e contingências amplia autoconhecimento.",
+        "Autorregra depende de contexto e repertório.",
+        "Generalização exige acompanhar consequências fora da terapia."
+      ]
+    },
+    "joao-4": {
+      "question": "Como distinguir redução no registro de melhora no comportamento-alvo?",
+      "simple": "No procedimento descrito, o relato de pensamentos diminuiu sem efeito significativo sobre os contatos sexuais. Ao mesmo tempo, houve intensificação de culpa e perda de discriminações privadas recém-aprendidas.",
+      "prior": "Você já aprendeu que intenção e aparência não comprovam benefício. Aplique esse critério a medidas diferentes: registrar, discriminar, sentir culpa e emitir o comportamento-alvo não são a mesma variável.",
+      "analogy": "Analogia didática: desligar um sensor reduz o número de avisos, mas não demonstra que a condição monitorada foi resolvida.",
+      "analogyLimit": "No caso, não há um sensor literal nem uma única explicação para a queda de registros. A analogia apenas impede equiparar menos informação com melhora comprovada.",
+      "counterexample": "Contraexemplo didático: concluir “o registro caiu, então a intervenção funcionou” ignora os dados do alvo e os efeitos sobre culpa, autorrecriminação e autoconhecimento.",
+      "recall": "Sem consultar: quais dados do caso contradizem uma avaliação de sucesso baseada somente na redução dos pensamentos relatados?",
+      "recallModel": "A ausência de efeito significativo sobre os contatos, a intensificação da culpa, relatos de desamparo e autorrecriminação e a supressão de discriminações privadas. Esses dados exigem revisar o procedimento.",
+      "nextConnection": "Revisar a intervenção pede recolocar história, dignidade e contexto não punitivo no centro da formulação, tema da aula seguinte.",
+      "essentials": [
+        "Registro e comportamento-alvo são medidas distintas.",
+        "Menos relato pode refletir pior discriminação ou maior esquiva.",
+        "O caso descreve resultados ambíguos e insatisfatórios.",
+        "Culpa e autorrecriminação são efeitos relevantes da avaliação.",
+        "A intenção terapêutica não demonstra benefício."
+      ]
+    },
+    "joao-5": {
+      "question": "Como compreender repertórios desenvolvidos sob violência sem culpabilizar o cliente?",
+      "simple": "Uma resposta que hoje limita relações pode ter reduzido exposição ao perigo em outro contexto. Examinar essa história permite reconhecer sobrevivência e dignidade e buscar alternativas atuais menos danosas.",
+      "prior": "As aulas anteriores mostraram esquivas, vulnerabilidade e efeitos de uma intervenção. Integre essas relações à história sem concluir que o passado determina um único futuro.",
+      "analogy": "Analogia didática: uma proteção útil em uma situação pode restringir movimento quando o ambiente muda. Entender sua origem ajuda a avaliar o que precisa ser mantido ou transformado.",
+      "analogyLimit": "A analogia não torna a violência aceitável nem presume que toda resposta atual decorra de trauma. A responsabilidade pelo abuso não é da criança, e as funções atuais exigem avaliação.",
+      "counterexample": "Contraexemplo didático: interpretar uma esquiva como falha moral ou falta de colaboração ignora a possibilidade de uma história em que se afastar reduzia exposição ao perigo.",
+      "recall": "Sem consultar: por que um procedimento de rememoração descrito em um caso histórico não deve ser transformado em exercício de autoaplicação?",
+      "recallModel": "O relato é contextualizado em atendimento e não demonstra adequação universal, segurança ou indicação para outra pessoa. Estudá-lo permite analisar decisões e limites, sem reproduzir o procedimento fora de avaliação clínica apropriada.",
+      "nextConnection": "O caso de Bia retoma história, contingências sociais e limites das medidas, agora em uma formulação relacionada a comportamento alimentar e autoconhecimento.",
+      "essentials": [
+        "Repertórios podem ter funções protetivas em contextos adversos.",
+        "A responsabilidade pelo abuso não é da criança.",
+        "Empatia e contexto não punitivo integram a formulação.",
+        "Funções atuais e repertórios alternativos precisam ser investigados.",
+        "Rememoração descrita no caso é objeto de estudo, não exercício pessoal."
+      ]
+    },
+    "bia-1": {
+      "question": "Como estudar critérios diagnósticos antigos sem apresentá-los como orientação clínica atual?",
+      "simple": "Os slides reproduzem critérios da APA de 2002 para comparar quadros alimentares. Eles pertencem à história do material; não são uma lista atual para diagnosticar alguém nem explicam sozinhos as funções dos comportamentos.",
+      "prior": "Você já separou descrição diagnóstica e explicação funcional. Acrescente agora a necessidade de situar a edição histórica da descrição utilizada.",
+      "analogy": "Analogia didática: um mapa de uma edição antiga ajuda a compreender uma viagem daquela época, mas não deve ser assumido como orientação atual de todas as rotas.",
+      "analogyLimit": "A classificação clínica não é um mapa literal, e o fato de ser histórica não torna todo o material inútil. É preciso distinguir dados do caso, conceitos funcionais e critérios que mudaram.",
+      "counterexample": "Contraexemplo didático: usar a ausência de um dos critérios antigos citados nos slides para excluir hoje um quadro clínico transforma um documento histórico em regra diagnóstica atual.",
+      "recall": "Sem consultar: quais elementos dos slides precisam de marcação histórica explícita, em vez de serem usados como checklist atual?",
+      "recallModel": "Amenorreia, limiar percentual de peso, frequências citadas e a divisão de subtipos de bulimia pertencem aos critérios antigos apresentados. Eles não permitem concluir um diagnóstico atual pelo aplicativo.",
+      "nextConnection": "Situada a descrição histórica, a próxima aula apresenta Bia como pessoa com relações, experiências e dificuldades que excedem o rótulo diagnóstico.",
+      "essentials": [
+        "O material reproduz critérios da APA de 2002.",
+        "Critérios e subtipos antigos não são checklist atual.",
+        "Descrição clínica e formulação funcional são perguntas distintas.",
+        "Peso ou frequência isolados não resolvem a avaliação.",
+        "O estudo do caso não equivale a diagnóstico pessoal."
+      ]
+    },
+    "bia-2": {
+      "question": "Como a história de Bia ajuda a formular perguntas além do diagnóstico?",
+      "simple": "Bia tem 17 anos e seu relato reúne término de namoro, comparações, valorização da aparência e dificuldades de discriminar estados internos. Essas condições ajudam a investigar aquisição e manutenção, sem reduzir o caso a uma causa única.",
+      "prior": "O diagnóstico foi situado como descrição histórica. Retome agora a análise molar para conectar vínculos, consequências sociais e repertórios de autoconhecimento.",
+      "analogy": "Analogia didática: ampliar uma fotografia revela pessoas e relações que ficaram fora do primeiro enquadramento. A formulação amplia o olhar que o rótulo diagnóstico, sozinho, não oferece.",
+      "analogyLimit": "Conhecer mais detalhes não comprova que cada um causou o padrão. A história orienta hipóteses, e a manutenção atual precisa ser examinada.",
+      "counterexample": "Contraexemplo didático: atribuir tudo ao término do namoro confunde um evento relatado no início do quadro com explicação suficiente de todas as relações posteriores.",
+      "recall": "Sem consultar: que dados do caso permitem investigar controle social da aparência e que dificuldade exige olhar para discriminação de eventos privados?",
+      "recallModel": "Valorização familiar da forma física, comparações e elogios à aparência orientam perguntas sobre consequências sociais. A dificuldade para identificar fome, saciedade e emoções orienta perguntas sobre autodiscriminação.",
+      "nextConnection": "A história precisa se conectar aos episódios atuais. O próximo passo é mapear consequências imediatas e efeitos posteriores no ciclo funcional.",
+      "essentials": [
+        "Bia tem 17 anos no relato.",
+        "A história inclui comparação e valorização social da aparência.",
+        "O término de namoro não explica sozinho todo o padrão.",
+        "A relação de afinidade com a avó também é um dado relevante.",
+        "Fome, saciedade e emoções exigiam maior discriminação."
+      ]
+    },
+    "bia-3": {
+      "question": "Como alívio imediato pode manter um ciclo que produz prejuízo depois?",
+      "simple": "No caso, desconforto e culpa após comer eram seguidos de respostas de purgação e alívio imediato. Essa relação sustenta a hipótese de reforçamento negativo, mesmo diante de consequências nocivas posteriores.",
+      "prior": "Reforçamento negativo já foi definido pelo fortalecimento após retirada ou redução de uma condição aversiva. A análise molar acrescenta o contraste entre curto e longo prazo.",
+      "analogy": "Analogia didática: silenciar um aviso pode aliviar o incômodo no momento sem resolver o problema que o gerou. O efeito imediato e o resultado posterior precisam ser examinados separadamente.",
+      "analogyLimit": "O caso envolve saúde e sofrimento, não um mecanismo simples de alarme. A comparação ilustra horizontes de consequência e não ensina nem recomenda comportamentos compensatórios.",
+      "counterexample": "Contraexemplo didático: classificar o ciclo como punição apenas porque ele é prejudicial confunde dano com processo. O alívio que fortalece a resposta aponta para reforçamento negativo.",
+      "recall": "Sem consultar: por que parar de preencher o registro não permite concluir que Bia parou de emitir a resposta-alvo?",
+      "recallModel": "O registro é uma resposta diferente. Sua interrupção pode reduzir contato com informações aversivas sobre o próprio comportamento; são necessários outros dados sobre o alvo e sobre as condições em que registrar se tornou difícil.",
+      "nextConnection": "A intervenção precisa alterar relações e ampliar fontes de reforço, além de acompanhar medidas. A próxima aula examina o conjunto de estratégias do caso.",
+      "essentials": [
+        "A hipótese central do episódio envolve alívio imediato.",
+        "Reforçamento negativo pode manter respostas com prejuízos posteriores.",
+        "Contextos como solidão e ansiedade entram na análise.",
+        "Interromper registros não demonstra redução do alvo.",
+        "O estudo trabalha função e medidas, sem ensinar purgação."
+      ]
+    },
+    "bia-4": {
+      "question": "Como avaliar uma intervenção composta por várias estratégias sem atribuir a mudança a uma técnica isolada?",
+      "simple": "O caso descreve 61 sessões com avaliação, tarefas, feedback, orientação aos pais e recursos comportamentais. O conjunto buscou ampliar repertórios e fontes de reforço, mas o relato não isola o efeito de cada componente.",
+      "prior": "O ciclo funcional destacou consequências imediatas e contextos. Relacione agora cada estratégia ao que ela busca modificar, sem supor que listar procedimentos já explica o resultado.",
+      "analogy": "Analogia didática: quando vários ajustes são feitos juntos em uma rotina de estudos, uma melhora posterior não identifica sozinha qual ajuste contribuiu quanto.",
+      "analogyLimit": "O caso clínico tem objetivos e necessidades que excedem uma demonstração experimental. Reconhecer o limite da inferência não significa negar o valor do acompanhamento descrito.",
+      "counterexample": "Contraexemplo didático: concluir que um recurso foi responsável por toda a melhora só porque apareceu na lista de procedimentos ignora os demais componentes e a ausência de comparação isolada.",
+      "recall": "Sem consultar: por que ampliar lazer, vínculos e organização de estudos pode ser coerente com a formulação do caso?",
+      "recallModel": "Esses repertórios podem ampliar acesso a reforçadores que não dependam exclusivamente de aparência e comparação, além de alterar condições da rotina. O efeito real de cada mudança precisa ser avaliado.",
+      "nextConnection": "Parte da ampliação de repertório envolve reconhecer sentimentos e valores próprios, inclusive quando mais de uma emoção ocorre na mesma situação.",
+      "essentials": [
+        "O relato descreve 61 sessões e múltiplos componentes.",
+        "Estratégias precisam ser relacionadas à formulação.",
+        "Rotina, vínculos e autoimagem também foram trabalhados.",
+        "Dados de um caso não isolam a eficácia de cada técnica.",
+        "Estratégias alimentares históricas do caso não são prescrição individual no aplicativo."
+      ]
+    },
+    "bia-5": {
+      "question": "Como reconhecer duas emoções ao mesmo tempo pode indicar maior autoconhecimento?",
+      "simple": "Bia podia sentir alegria pela conquista do amigo e tristeza por sua saída da escola. Discriminar os dois aspectos amplia a descrição da experiência, em vez de repetir apenas a reação socialmente esperada.",
+      "prior": "Tato e treino de autoconhecimento mostraram que falar de si depende de aprendizagem social. Aplique esse conceito à diferença entre observar a própria experiência e buscar a descrição aprovada pelos outros.",
+      "analogy": "Analogia didática: uma cena pode conter luz e sombra ao mesmo tempo. Descrever um aspecto não apaga o outro; sentimentos também podem se relacionar a aspectos diferentes da situação.",
+      "analogyLimit": "Emoções não são cores fixas nem combinações iguais para todas as pessoas. É necessário investigar a experiência e o contexto, sem impor uma mistura correta de sentimentos.",
+      "counterexample": "Contraexemplo didático: afirmar “se estou triste, não posso estar feliz por ele” trata emoções como mutuamente exclusivas e perde as relações diferentes presentes no episódio.",
+      "recall": "Sem consultar: como a frase “estou feliz por ele e triste porque vou sentir falta” é mais informativa do que “sou uma pessoa ruim por sentir tristeza”?",
+      "recallModel": "A primeira discrimina sentimentos e suas relações com a situação. A segunda transforma uma experiência em julgamento global e não informa quais aspectos a evocam nem como responder de modo coerente com amizade e respeito.",
+      "nextConnection": "Retome o percurso completo: descreva o episódio, formule hipóteses de função, compare alternativas e recupere os conceitos sem consulta antes de reabrir as explicações.",
+      "essentials": [
+        "Emoções diferentes podem coexistir na mesma situação.",
+        "Nomear uma experiência não equivale a julgá-la moralmente.",
+        "Descrições alheias podem competir com a autodiscriminação.",
+        "Estudo, sinceridade, amizade e respeito aparecem como temas valorizados.",
+        "Autoconhecimento conecta contexto, experiência e efeitos das ações."
+      ]
+    }
+  },
+  "modules": {
+    "aba": {
+      "prerequisites": [
+        "Distinguir uma descrição de algo que acontece de uma explicação sobre suas relações.",
+        "Reconhecer que observação de mudança e demonstração de uma relação causal são exigências diferentes."
+      ],
+      "misconceptions": [
+        {
+          "wrong": "ABA é sinônimo de atendimento ao autismo.",
+          "whyPlausible": "Esse é um contexto conhecido de aplicação, e o uso cotidiano do termo pode se concentrar nele.",
+          "correct": "ABA é um campo de investigação e aplicação a comportamentos socialmente relevantes em vários contextos. O público atendido não define sozinho a qualidade analítico-comportamental.",
+          "recognize": "Pergunte pelo alvo, medida, análise e avaliação. Um exemplo didático em estudos ou trabalho também pode ser investigado, desde que esses critérios sejam atendidos."
+        },
+        {
+          "wrong": "Um diagnóstico já informa por que a pessoa age assim.",
+          "whyPlausible": "O nome reúne sinais reconhecíveis e parece oferecer uma causa única para o conjunto.",
+          "correct": "A classificação pode organizar descrições, mas a análise funcional investiga história e contingências individuais. Mesma forma não garante mesma função.",
+          "recognize": "Procure antecedentes e consequências específicos. Se a explicação só repete os sinais que definem o rótulo, faltam relações funcionais."
+        },
+        {
+          "wrong": "Um análogo experimental reproduz toda a condição humana e fornece diretamente seu tratamento.",
+          "whyPlausible": "Os modelos recebem nomes associados a fenômenos clínicos e apresentam mudanças que lembram algumas de suas características.",
+          "correct": "CMS, desamparo e supressão condicionada investigam recortes de processos em condições delimitadas. A transferência para explicações e intervenções humanas exige outras evidências e avaliação.",
+          "recognize": "Identifique a variável manipulada e a medida observada. Consumo de solução adocicada, por exemplo, não equivale a toda a experiência humana de depressão."
+        }
+      ]
+    },
+    "basicos": {
+      "prerequisites": [
+        "Conhecer a diferença entre topografia e função apresentada no módulo de ABA.",
+        "Estar disposto a analisar separadamente o comportamento de cada participante de uma interação."
+      ],
+      "misconceptions": [
+        {
+          "wrong": "Negativo significa punição, e positivo significa algo bom.",
+          "whyPlausible": "No uso cotidiano, as palavras indicam valoração moral ou agradável/desagradável.",
+          "correct": "Positivo e negativo indicam adição e retirada. Reforçamento implica fortalecimento. Nos slides, punição tem definição procedural: apresentação de aversivo ou retirada de reforçador positivo contingente à resposta.",
+          "recognize": "Primeiro identifique o que mudou no ambiente; depois separe o nome do procedimento e os efeitos demonstrados. No exemplo didático de alívio de uma cobrança, fortalecimento por retirada indica reforçamento negativo."
+        },
+        {
+          "wrong": "Sd elicia a resposta da mesma forma que um CS.",
+          "whyPlausible": "Os dois aparecem antes da resposta e podem ser chamados informalmente de sinais.",
+          "correct": "Na relação operante, Sd está ligado a uma história de reforçamento diferencial. Na relação respondente, CS elicia uma resposta após história de pareamento.",
+          "recognize": "Pergunte se a análise envolve a consequência produzida pela resposta ou uma relação de eliciação aprendida. Estar antes não decide qual processo ocorre."
+        },
+        {
+          "wrong": "A forma da fala basta para classificá-la como mando ou tato.",
+          "whyPlausible": "Pedidos e descrições costumam ter formatos familiares, então parece possível reconhecer a função pela frase.",
+          "correct": "Operantes verbais são distinguidos por variáveis de controle e consequências. A mesma palavra pode participar de relações diferentes e de controle múltiplo.",
+          "recognize": "No exemplo didático de “água”, investigue sede e entrega de água ou a presença de uma figura e reconhecimento social, em vez de classificar só pelo som da palavra."
+        }
+      ]
+    },
+    "historia": {
+      "prerequisites": [
+        "Revisar reforçamento, variáveis de controle e generalização.",
+        "Distinguir fundamentos filosóficos de procedimentos clínicos particulares."
+      ],
+      "misconceptions": [
+        {
+          "wrong": "As ondas são etapas universais em que cada terapia nova substitui toda a anterior.",
+          "whyPlausible": "A numeração sugere uma sequência linear de superação e é uma forma fácil de memorizar a cronologia.",
+          "correct": "A classificação organiza tendências, com sobreposições, diferenças internas e trajetórias locais. Ela não ordena eficácia nem exige que países repitam o mesmo percurso.",
+          "recognize": "Observe continuidades e contextos. A história brasileira de ensino e clínica precisa ser analisada por seus próprios marcos."
+        },
+        {
+          "wrong": "Aceitação significa desistir de mudar ou aceitar qualquer condição externa.",
+          "whyPlausible": "Na linguagem cotidiana, aceitar pode significar concordar ou resignar-se.",
+          "correct": "Na ACT apresentada, aceitação integra flexibilidade psicológica junto de valores e ação comprometida. Pode haver mudança ativa de condições e comportamento com presença de desconforto.",
+          "recognize": "Pergunte se há ampliação de escolhas coerentes com valores. Permanecer passivamente em uma situação não é critério suficiente de aceitação."
+        },
+        {
+          "wrong": "Na FAP, uma resposta agradável ao terapeuta é automaticamente uma melhora.",
+          "whyPlausible": "Cooperação e simpatia parecem sinais de boa relação e podem receber aprovação imediata.",
+          "correct": "CCR2 é definido funcionalmente pela formulação e pela linha de base individual. Discordar pode ser melhora quando rompe esquiva de rejeição; concordar pode manter o problema.",
+          "recognize": "Compare a resposta com o padrão do caso e acompanhe seus efeitos. Pergunte o que ela transforma na relação, em vez de avaliar só o tom agradável."
+        }
+      ]
+    },
+    "funcional": {
+      "prerequisites": [
+        "Diferenciar antecedentes, respostas e consequências.",
+        "Revisar topografia, função, Sd, operação motivadora e reforçamento negativo."
+      ],
+      "misconceptions": [
+        {
+          "wrong": "Uma sequência A–R–C preenchida demonstra a causa do comportamento.",
+          "whyPlausible": "A tabela organiza os eventos em uma ordem clara, que pode parecer uma explicação comprovada.",
+          "correct": "O registro organiza dados e hipóteses. Temporalidade, relatos e interpretação não demonstram sozinhos uma relação funcional.",
+          "recognize": "Procure dados sobre repetição, variação de condições e efeito das consequências. Se só há “aconteceu depois”, a conclusão causal excede a evidência."
+        },
+        {
+          "wrong": "A história que explica a aquisição explica automaticamente a manutenção atual.",
+          "whyPlausible": "Uma experiência passada marcante oferece uma narrativa coerente e parece suficiente para todo o padrão.",
+          "correct": "Aquisição e manutenção são perguntas diferentes. Contingências presentes podem manter uma classe mesmo que as condições de origem tenham mudado.",
+          "recognize": "Pergunte o que a resposta produz hoje e em quais prazos, além de investigar como foi aprendida. Compare episódios moleculares e padrões molares."
+        },
+        {
+          "wrong": "Uma análise funcional precisa olhar apenas para o indivíduo e seus traços.",
+          "whyPlausible": "As queixas chegam em primeira pessoa e muitas descrições clínicas usam adjetivos sobre a personalidade.",
+          "correct": "Relações sociais, ameaças, oportunidades, preconceito, apoio e práticas culturais são condições concretas da análise. Incluí-las evita culpabilizar a pessoa por relações aversivas sofridas.",
+          "recognize": "Nos casos de João e Laura, verifique se a formulação registra também ameaças, discriminação e contextos protetivos, em vez de atribuir tudo a insegurança ou falta de vontade."
+        }
+      ]
+    },
+    "intervencao": {
+      "prerequisites": [
+        "Conhecer a diferença entre análise molecular e molar.",
+        "Revisar função, reforçamento, tato e generalização.",
+        "Lembrar que avaliação funcional e escolha de metas antecedem a indicação de um procedimento."
+      ],
+      "misconceptions": [
+        {
+          "wrong": "Modelagem e modelação são dois nomes para demonstrar um comportamento.",
+          "whyPlausible": "As palavras são parecidas e as duas estratégias podem ocorrer no mesmo treino.",
+          "correct": "Modelagem é reforçamento diferencial de aproximações sucessivas; modelação envolve observar um modelo. São processos distintos, combináveis conforme a formulação.",
+          "recognize": "Procure mudança gradual de critério e seleção de aproximações para identificar modelagem. Procure um exemplo observável oferecido ao aprendiz para identificar modelação."
+        },
+        {
+          "wrong": "Falar sobre uma melhora é o mesmo que emitir CCR2.",
+          "whyPlausible": "O conteúdo verbal pode descrever exatamente a resposta que se deseja desenvolver.",
+          "correct": "O relato é uma resposta com função própria. CCR2 é ocorrência de melhora relevante ao caso na sessão; CCR3 envolve interpretação funcional, quando presentes seus critérios.",
+          "recognize": "No exemplo didático, dizer “eu deveria discordar” é diferente de discordar do terapeuta. Analise a função do relato e da interação, sem classificar só por palavras."
+        },
+        {
+          "wrong": "Bom desempenho no role-play garante uso da habilidade fora da sessão.",
+          "whyPlausible": "A pessoa já conseguiu executar a resposta, então parece que a aprendizagem está concluída.",
+          "correct": "O treino ocorre sob contingências particulares. Generalização e manutenção precisam de planejamento e observação em contextos relevantes.",
+          "recognize": "Pergunte se há dados fora do ensaio, com outros interlocutores e consequências. Fluência diante do terapeuta é apenas uma parte da avaliação."
+        }
+      ]
+    },
+    "joao": {
+      "prerequisites": [
+        "Distinguir este João de 31 anos do militar aposentado de 55 anos.",
+        "Revisar classes funcionais, CCR1/2/3 e treino de autoconhecimento.",
+        "Distinguir medidas de registro, discriminação e comportamento-alvo."
+      ],
+      "misconceptions": [
+        {
+          "wrong": "Os dois materiais sobre João descrevem a mesma pessoa em momentos diferentes.",
+          "whyPlausible": "O nome é igual e ambos os relatos discutem relações, sofrimento e dificuldades de assertividade ou intimidade.",
+          "correct": "São casos distintos. Este descreve início da terapia aos 31 anos e acompanhamento de quatro anos; o outro é o militar aposentado de 55 anos do módulo de análise funcional.",
+          "recognize": "Confira idade, contexto, história e fonte antes de formular. Não transfira profissão, relações ou intervenções de um caso para o outro."
+        },
+        {
+          "wrong": "Se diminuíram os registros ou pensamentos relatados, o procedimento foi bem-sucedido.",
+          "whyPlausible": "Um número menor parece uma melhora simples, especialmente quando a intervenção pretendia reduzir uma dificuldade.",
+          "correct": "No caso, a queda do relato não foi acompanhada de efeito significativo sobre os contatos e houve intensificação de culpa e supressão de discriminações. Medidas distintas podem divergir.",
+          "recognize": "Compare o alvo com registro, autoconhecimento e efeitos colaterais. Uma melhora aparente numa medida exige ser interpretada junto às demais."
+        },
+        {
+          "wrong": "A história de trauma prova a causa única dos comportamentos e autoriza reproduzir a rememoração descrita.",
+          "whyPlausible": "A narrativa histórica pode parecer explicação completa, e um procedimento publicado pode parecer validado para qualquer pessoa.",
+          "correct": "A história orienta hipóteses, sem eliminar a análise das funções atuais. Um estudo de caso não estabelece adequação universal de procedimentos, sobretudo para autoaplicação.",
+          "recognize": "Separe compreensão contextual de prescrição. Aqui a tarefa é analisar decisões acadêmicas, sem solicitar relatos traumáticos nem executar rememoração pessoal."
+        }
+      ]
+    },
+    "bia": {
+      "prerequisites": [
+        "Revisar reforçamento negativo, consequências de curto e longo prazo e análise molar.",
+        "Conhecer a distinção entre diagnóstico descritivo e explicação funcional.",
+        "Lembrar que o material apresenta critérios diagnósticos históricos."
+      ],
+      "misconceptions": [
+        {
+          "wrong": "Os critérios e subtipos do PDF são uma lista diagnóstica atual.",
+          "whyPlausible": "O material cita uma classificação reconhecida e organiza sinais em uma apresentação didática.",
+          "correct": "Os slides reproduzem a APA de 2002. Amenorreia, limiares e subtipos citados precisam de contextualização histórica e não devem ser utilizados para autodiagnóstico atual.",
+          "recognize": "Confira a edição da referência e a marcação de conteúdo histórico. Não conclua presença ou ausência de um quadro por peso ou frequência isolados."
+        },
+        {
+          "wrong": "Uma resposta prejudicial não pode estar sendo reforçada.",
+          "whyPlausible": "Reforço é confundido com algo saudável ou benéfico em todos os prazos.",
+          "correct": "Reforçamento descreve fortalecimento de uma classe, não aprovação moral nem benefício global. No caso, alívio imediato sustenta a hipótese de reforçamento negativo apesar dos prejuízos posteriores.",
+          "recognize": "Separe o que acontece logo após a resposta dos resultados tardios. No ciclo de Bia, investigue o papel do alívio sem transformar a explicação em instrução."
+        },
+        {
+          "wrong": "Alegria por um amigo e tristeza por sua partida são sentimentos incompatíveis.",
+          "whyPlausible": "Uma norma social pode sugerir que apoiar alguém exige demonstrar apenas felicidade.",
+          "correct": "Aspectos diferentes de uma mesma situação podem se relacionar a sentimentos diferentes. Discriminá-los amplia autoconhecimento sem convertê-los em falha moral.",
+          "recognize": "No episódio do amigo que deixou a escola, identifique a conquista dele e a perda do convívio como relações distintas que podem coexistir."
+        }
+      ]
+    }
+  }
+}

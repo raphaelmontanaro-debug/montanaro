@@ -1,0 +1,3990 @@
+[
+  {
+    "id": "aba-1-practice-1",
+    "lessonId": "aba-1",
+    "moduleId": "aba",
+    "level": 1,
+    "pages": [
+      3,
+      9
+    ],
+    "type": "choice",
+    "prompt": "Qual relação entre os três campos corresponde à organização apresentada no material?",
+    "options": [
+      "Behaviorismo Radical é a filosofia; Análise do Comportamento é a ciência; ABA investiga aplicações a problemas socialmente relevantes.",
+      "ABA é a filosofia; Behaviorismo Radical é uma técnica exclusiva para autismo; Análise do Comportamento é um diagnóstico.",
+      "Os três nomes designam o mesmo procedimento clínico, independentemente de investigação."
+    ],
+    "answer": 0,
+    "rationales": [
+      "Distingue a base filosófica, o campo científico e a investigação aplicada.",
+      "Troca os níveis de análise e restringe indevidamente o campo ao autismo.",
+      "Uma técnica particular não abrange uma filosofia e uma ciência."
+    ],
+    "clues": [
+      "filosofia",
+      "ciência",
+      "aplicações socialmente relevantes"
+    ],
+    "reasoning": [
+      "Identifique se cada nome designa pressupostos, investigação científica ou campo aplicado.",
+      "Relacione ABA à análise de comportamentos de importância social, sem limitar a um diagnóstico."
+    ],
+    "misconception": "Tratar ABA como uma técnica única ou como sinônimo de atendimento ao autismo.",
+    "followUp": {
+      "prompt": "Uma pesquisa sobre segurança no trabalho pode pertencer à ABA? Por quê?",
+      "answer": "Pode, quando investiga princípios comportamentais, mede comportamentos relevantes e avalia relações entre procedimentos e resultados."
+    }
+  },
+  {
+    "id": "aba-1-practice-2",
+    "lessonId": "aba-1",
+    "moduleId": "aba",
+    "level": 2,
+    "pages": [
+      3,
+      9
+    ],
+    "type": "short",
+    "prompt": "Exemplo hipotético: uma equipe quer melhorar a participação de adultos em um curso. Proponha um comportamento observável e duas informações necessárias para avaliar uma intervenção comportamental.",
+    "rubric": [
+      "Descrevi uma ação observável, como iniciar uma atividade, em vez de apenas motivação.",
+      "Indiquei uma medida inicial e posterior ou acompanhamento repetido do comportamento.",
+      "Indiquei quais condições ou procedimentos mudariam e como investigar sua relação com os resultados."
+    ],
+    "modelAnswer": "Poderíamos registrar a proporção de atividades iniciadas no prazo. Precisamos medir o desempenho antes e durante a intervenção e descrever as mudanças realizadas, verificando se os dados sustentam sua relação com a participação. A relevância para os participantes também precisa ser considerada.",
+    "clues": [
+      "participação de adultos",
+      "comportamento observável",
+      "avaliar uma intervenção"
+    ],
+    "reasoning": [
+      "Converta o objetivo amplo em uma ação que possa ser registrada.",
+      "Escolha dados de comparação e descreva a intervenção.",
+      "Diferencie desejar uma melhora de demonstrar o que mudou."
+    ],
+    "misconception": "Supor que um objetivo socialmente desejável basta para caracterizar uma intervenção analítico-comportamental.",
+    "followUp": {
+      "prompt": "A satisfação dos participantes substitui a medida do comportamento-alvo?",
+      "answer": "Não. Ela pode informar relevância e aceitação, mas não substitui a medida do comportamento e a investigação dos efeitos."
+    }
+  },
+  {
+    "id": "aba-1-practice-3",
+    "lessonId": "aba-1",
+    "moduleId": "aba",
+    "level": 3,
+    "pages": [
+      3,
+      9
+    ],
+    "type": "choice",
+    "prompt": "Exemplo hipotético: dois projetos pretendem reduzir atrasos no trabalho. Um atribui o resultado à “nova mentalidade” sem registros; outro mede atrasos, descreve procedimentos e investiga a relação com a mudança. Qual conclusão é mais sustentada?",
+    "options": [
+      "O primeiro pertence à ABA porque usa uma explicação psicológica.",
+      "O segundo apresenta condições mais compatíveis com investigação aplicada; a relevância do alvo, sozinha, não decide.",
+      "Nenhum pode pertencer à ABA, pois os participantes não têm diagnóstico de autismo."
+    ],
+    "answer": 1,
+    "rationales": [
+      "A expressão nova mentalidade não substitui medidas nem análise das variáveis.",
+      "Medir, explicitar procedimentos e investigar relações aproxima o projeto dos critérios do campo.",
+      "O campo inclui problemas humanos em diferentes contextos e não exige esse diagnóstico."
+    ],
+    "clues": [
+      "sem registros",
+      "mede atrasos",
+      "investiga a relação"
+    ],
+    "reasoning": [
+      "O problema relevante é comum aos dois projetos.",
+      "Compare as evidências disponíveis, em vez de escolher pelo vocabulário.",
+      "Evite concluir mais do que o relato permite: compatibilidade não prova todas as dimensões."
+    ],
+    "misconception": "Classificar uma intervenção pelo rótulo ou população em vez de examinar seu método.",
+    "followUp": {
+      "prompt": "O que ainda seria necessário avaliar no segundo projeto?",
+      "answer": "Entre outros pontos, importância prática dos resultados, replicabilidade dos procedimentos e manutenção ou generalização das mudanças."
+    }
+  },
+  {
+    "id": "aba-2-practice-1",
+    "lessonId": "aba-2",
+    "moduleId": "aba",
+    "level": 1,
+    "pages": [
+      7,
+      9
+    ],
+    "type": "choice",
+    "prompt": "Uma equipe registra diretamente quantas vezes uma criança inicia uma tarefa. Qual dimensão da ABA esse dado exemplifica mais diretamente?",
+    "options": [
+      "Tecnológica.",
+      "Comportamental.",
+      "Generalizável."
+    ],
+    "answer": 1,
+    "rationales": [
+      "Tecnológica diz respeito à descrição replicável do procedimento, não ao simples registro do alvo.",
+      "A dimensão comportamental exige observar e medir o comportamento de interesse.",
+      "Generalização exige avaliar manutenção, outros contextos ou outras respostas, ausentes no enunciado."
+    ],
+    "clues": [
+      "registra diretamente",
+      "quantas vezes",
+      "inicia uma tarefa"
+    ],
+    "reasoning": [
+      "Localize o que foi feito: medição direta.",
+      "Associe a evidência à dimensão correspondente, sem inferir outras verificações."
+    ],
+    "misconception": "Confundir medir um comportamento com demonstrar generalização ou descrever um procedimento.",
+    "followUp": {
+      "prompt": "Esse registro demonstra, sozinho, que a intervenção causou a mudança?",
+      "answer": "Não. A demonstração de relação entre intervenção e mudança corresponde à dimensão analítica."
+    }
+  },
+  {
+    "id": "aba-2-practice-2",
+    "lessonId": "aba-2",
+    "moduleId": "aba",
+    "level": 2,
+    "pages": [
+      7,
+      9
+    ],
+    "type": "short",
+    "prompt": "Exemplo hipotético: um manual descreve exatamente como entregar pontos por tarefas concluídas, mas não relaciona o procedimento a princípios comportamentais. Diferencie a dimensão tecnológica da conceitualmente sistemática neste caso.",
+    "rubric": [
+      "Associei tecnológica à descrição suficientemente precisa para replicar o procedimento.",
+      "Associei conceitualmente sistemática à relação explícita com princípios comportamentais.",
+      "Expliquei que detalhar etapas não comprova, por si, a fundamentação conceitual."
+    ],
+    "modelAnswer": "A descrição de quando e como entregar pontos atende à exigência tecnológica se permitir replicação. A dimensão conceitualmente sistemática requer explicar a relação com princípios como reforçamento, apoiada nos efeitos observados. Uma receita detalhada pode continuar sem fundamentação conceitual explícita.",
+    "clues": [
+      "descreve exatamente",
+      "não relaciona",
+      "princípios comportamentais"
+    ],
+    "reasoning": [
+      "Separe a pergunta como fazer da pergunta em quais princípios se apoia.",
+      "Use o que já existe no manual e a informação que ainda falta."
+    ],
+    "misconception": "Acreditar que um procedimento detalhado é automaticamente conceitualmente fundamentado.",
+    "followUp": {
+      "prompt": "Citar a palavra reforço garante a dimensão conceitualmente sistemática?",
+      "answer": "Não. É preciso explicar a relação funcional entre o procedimento e o princípio, e não apenas acrescentar um termo técnico."
+    }
+  },
+  {
+    "id": "aba-2-practice-3",
+    "lessonId": "aba-2",
+    "moduleId": "aba",
+    "level": 3,
+    "pages": [
+      7,
+      9
+    ],
+    "type": "choice",
+    "prompt": "Exemplo hipotético: uma intervenção produziu melhora importante na sala de treino. Não se mediu o desempenho em casa nem depois do término. Qual avaliação é mais adequada?",
+    "options": [
+      "A melhora importante comprova também a generalização.",
+      "A falta de dados fora da sala prova que o efeito desapareceu.",
+      "Há evidência de importância prática nesse contexto, mas a generalização permanece sem avaliação."
+    ],
+    "answer": 2,
+    "rationales": [
+      "Efetividade e generalização são dimensões diferentes: importância prática não assegura transferência.",
+      "Ausência de avaliação não equivale a evidência de ausência de efeito.",
+      "Distingue o resultado observado da manutenção e transferência ainda não verificadas."
+    ],
+    "clues": [
+      "melhora importante",
+      "sala de treino",
+      "não se mediu"
+    ],
+    "reasoning": [
+      "Reconheça o resultado que realmente foi observado.",
+      "Localize quais contextos e períodos faltam nos dados.",
+      "Mantenha a conclusão restrita às evidências disponíveis."
+    ],
+    "misconception": "Confundir resultado expressivo em um ambiente com manutenção e generalização demonstradas.",
+    "followUp": {
+      "prompt": "Que dado acrescentaria evidência de generalização?",
+      "answer": "Medidas do comportamento em situações relevantes fora do treino e após o término, comparáveis às medidas anteriores."
+    }
+  },
+  {
+    "id": "aba-3-practice-1",
+    "lessonId": "aba-3",
+    "moduleId": "aba",
+    "level": 1,
+    "pages": [
+      12,
+      20
+    ],
+    "type": "choice",
+    "prompt": "Duas pessoas recusam apresentações públicas. O que é possível concluir apenas dessa descrição?",
+    "options": [
+      "As respostas têm uma forma semelhante, mas sua função ainda precisa ser investigada.",
+      "As duas necessariamente escapam de críticas.",
+      "As duas têm a mesma história e precisam da mesma intervenção."
+    ],
+    "answer": 0,
+    "rationales": [
+      "Recusar descreve a topografia; antecedentes, história e consequências ainda podem diferir.",
+      "Escapar de críticas é uma hipótese possível, não uma função demonstrada pela forma.",
+      "A mesma resposta aparente não assegura história nem variáveis mantenedoras iguais."
+    ],
+    "clues": [
+      "duas pessoas",
+      "recusam",
+      "apenas dessa descrição"
+    ],
+    "reasoning": [
+      "Pergunte se o enunciado informa forma ou relações com o contexto.",
+      "Evite preencher antecedentes e consequências que não foram apresentados."
+    ],
+    "misconception": "Deduzir a função de um comportamento apenas pela topografia.",
+    "followUp": {
+      "prompt": "Qual pergunta ajuda a avançar da forma para a função?",
+      "answer": "O que antecede a recusa e o que muda depois dela, em cada contexto e para cada pessoa?"
+    }
+  },
+  {
+    "id": "aba-3-practice-2",
+    "lessonId": "aba-3",
+    "moduleId": "aba",
+    "level": 2,
+    "pages": [
+      12,
+      20
+    ],
+    "type": "short",
+    "prompt": "Exemplo hipotético: alguém explica “ele evita reuniões porque tem transtorno X” e usa as próprias esquivas para comprovar X. Explique a limitação desse raciocínio e proponha uma pergunta funcional.",
+    "rubric": [
+      "Mostrei que o rótulo resume sinais, mas não identifica sozinho as variáveis que mantêm a esquiva.",
+      "Identifiquei o risco de circularidade entre usar a esquiva como evidência e o diagnóstico como causa da mesma esquiva.",
+      "Formulei uma pergunta sobre antecedentes, consequências ou história de aprendizagem."
+    ],
+    "modelAnswer": "Se a esquiva sustenta o rótulo e o rótulo é usado como toda a explicação da esquiva, pouco se acrescenta sobre as relações funcionais. O diagnóstico pode ser descritivamente útil, mas é preciso investigar, por exemplo, se recusar reuniões reduz contato com críticas e como isso afeta recusas futuras.",
+    "clues": [
+      "usa as próprias esquivas",
+      "comprovar X",
+      "porque tem"
+    ],
+    "reasoning": [
+      "Separe descrição classificatória de explicação de relações.",
+      "Procure uma variável que possa ser investigada para além do próprio nome do problema."
+    ],
+    "misconception": "Tratar um diagnóstico como explicação funcional suficiente.",
+    "followUp": {
+      "prompt": "Criticar esse uso do diagnóstico exige negar todos os fatores biológicos?",
+      "answer": "Não. Reconhecer fatores biológicos é compatível com investigar história, contexto e consequências."
+    }
+  },
+  {
+    "id": "aba-3-practice-3",
+    "lessonId": "aba-3",
+    "moduleId": "aba",
+    "level": 3,
+    "pages": [
+      12,
+      20
+    ],
+    "type": "choice",
+    "prompt": "Exemplo hipotético: há evidência de uma condição biológica relevante para o sofrimento de uma pessoa. Um estudante conclui que investigar suas relações e condições de trabalho seria inútil. Como avaliar o argumento?",
+    "options": [
+      "Está correto: uma variável biológica exclui variáveis ambientais.",
+      "É insuficiente: fatores biológicos e relações ambientais podem participar do caso, exigindo investigação individual.",
+      "Está errado porque condições biológicas nunca contribuem para comportamentos."
+    ],
+    "answer": 1,
+    "rationales": [
+      "A presença de um fator não elimina a participação de outros níveis e condições.",
+      "A formulação pode reconhecer fatores biológicos e investigar as contingências relevantes.",
+      "Substitui uma exclusão injustificada pela exclusão oposta e igualmente inadequada."
+    ],
+    "clues": [
+      "evidência de uma condição biológica",
+      "seria inútil"
+    ],
+    "reasoning": [
+      "Reconheça o dado biológico sem extrapolar seu alcance.",
+      "Questione a passagem de há um fator para nenhum outro fator importa.",
+      "Identifique o que precisa ser observado na vida da pessoa."
+    ],
+    "misconception": "Tratar explicações biológicas e ambientais como mutuamente excludentes.",
+    "followUp": {
+      "prompt": "Um comportamento prejudicial pode persistir mesmo causando sofrimento?",
+      "answer": "Sim. Consequências imediatas, como alívio ou acesso a algo importante, podem contribuir para sua manutenção apesar de custos posteriores."
+    }
+  },
+  {
+    "id": "aba-4-practice-1",
+    "lessonId": "aba-4",
+    "moduleId": "aba",
+    "level": 1,
+    "pages": [
+      22,
+      40
+    ],
+    "type": "choice",
+    "prompt": "Na lógica experimental do desamparo aprendido, qual característica distingue a história crítica de exposição?",
+    "options": [
+      "A mera presença de qualquer estímulo desagradável.",
+      "A intensidade subjetiva descrita pelo participante, independentemente do controle.",
+      "A incontrolabilidade dos eventos aversivos na história anterior."
+    ],
+    "answer": 2,
+    "rationales": [
+      "Eventos desagradáveis também podem ocorrer em condições controláveis, com efeitos diferentes.",
+      "O modelo destaca a relação entre respostas e eventos, não somente intensidade.",
+      "A ausência de controle prévio é a dimensão decisiva investigada no modelo."
+    ],
+    "clues": [
+      "desamparo aprendido",
+      "distingue",
+      "história"
+    ],
+    "reasoning": [
+      "Diferencie evento aversivo de possibilidade de agir sobre sua ocorrência.",
+      "Localize a variável comparada entre histórias experimentais."
+    ],
+    "misconception": "Reduzir desamparo aprendido à exposição a dificuldades de qualquer tipo.",
+    "followUp": {
+      "prompt": "Por que comparar choques controláveis e incontroláveis?",
+      "answer": "Para investigar o papel da controlabilidade, em vez de atribuir todo efeito à simples exposição a choques."
+    }
+  },
+  {
+    "id": "aba-4-practice-2",
+    "lessonId": "aba-4",
+    "moduleId": "aba",
+    "level": 2,
+    "pages": [
+      22,
+      40
+    ],
+    "type": "short",
+    "prompt": "Um experimento compara grupos com eventos aversivos controláveis, incontroláveis e sem exposição prévia, avaliando depois a aprendizagem de fuga. O que essa comparação permite investigar e qual limite deve ser mantido ao relacioná-la ao sofrimento humano?",
+    "rubric": [
+      "Expliquei que a comparação investiga o papel da controlabilidade anterior na aprendizagem posterior.",
+      "Mencionei que a condição sem exposição ajuda a interpretar os efeitos da história experimental.",
+      "Diferenciei um análogo de processos de uma reprodução completa da experiência humana ou receita terapêutica."
+    ],
+    "modelAnswer": "A comparação investiga se histórias distintas de controle sobre eventos aversivos afetam a aprendizagem posterior de fuga. O grupo sem exposição oferece uma referência adicional. O resultado informa processos em condições delimitadas; não reproduz toda a experiência humana nem fornece diretamente um tratamento.",
+    "clues": [
+      "controláveis",
+      "incontroláveis",
+      "depois a aprendizagem de fuga"
+    ],
+    "reasoning": [
+      "Identifique a variável da história e a medida posterior.",
+      "Explique o papel da comparação, sem transformar grupos em diagnósticos.",
+      "Delimite o alcance da analogia experimental."
+    ],
+    "misconception": "Converter um modelo experimental em explicação integral ou tratamento direto de sofrimento humano.",
+    "followUp": {
+      "prompt": "Um resultado posterior de fuga pode ser interpretado sem considerar a história de controle?",
+      "answer": "A história é central nessa comparação: justamente se investiga como ela altera a aprendizagem posterior."
+    }
+  },
+  {
+    "id": "aba-4-practice-3",
+    "lessonId": "aba-4",
+    "moduleId": "aba",
+    "level": 3,
+    "pages": [
+      22,
+      40
+    ],
+    "type": "choice",
+    "prompt": "Exemplo hipotético: após um protocolo CMS, um grupo reduz sua preferência por solução adocicada. Qual interpretação respeita o alcance desse dado?",
+    "options": [
+      "O resultado pode funcionar como indicador experimental de menor sensibilidade a reforçadores; não equivale a diagnosticar depressão humana.",
+      "O resultado comprova que todos os participantes desenvolveram uma experiência humana idêntica de depressão.",
+      "O resultado permite aplicar o mesmo protocolo de estressores como tratamento de pessoas."
+    ],
+    "answer": 0,
+    "rationales": [
+      "Relaciona o indicador ao processo investigado e mantém o limite do modelo.",
+      "Uma medida experimental não demonstra equivalência completa com uma experiência humana.",
+      "O protocolo de investigação de efeitos de estressores não se transforma em recomendação clínica."
+    ],
+    "clues": [
+      "protocolo CMS",
+      "reduz sua preferência",
+      "alcance desse dado"
+    ],
+    "reasoning": [
+      "Reconheça o que foi medido: preferência por uma solução.",
+      "Relacione a medida ao processo que o modelo pretende investigar.",
+      "Evite confundir indicador análogo, diagnóstico e intervenção."
+    ],
+    "misconception": "Tomar uma medida do modelo CMS como diagnóstico completo ou recomendação terapêutica.",
+    "followUp": {
+      "prompt": "Por que medir antes e depois do protocolo?",
+      "answer": "Para comparar a medida com a condição anterior e acompanhar sua alteração; a interpretação também depende do desenho e das condições de comparação."
+    }
+  },
+  {
+    "id": "aba-5-practice-1",
+    "lessonId": "aba-5",
+    "moduleId": "aba",
+    "level": 1,
+    "pages": [
+      41,
+      53
+    ],
+    "type": "choice",
+    "prompt": "Um sinal, após pareamento com um evento aversivo, passa a acompanhar redução de um operante mantido por reforço positivo. Que fenômeno o exemplo descreve?",
+    "options": [
+      "Modelagem por aproximações sucessivas.",
+      "Supressão condicionada.",
+      "Reforçamento positivo do operante pelo sinal."
+    ],
+    "answer": 1,
+    "rationales": [
+      "Não há descrição de reforço diferencial de aproximações a uma resposta-alvo.",
+      "O condicionamento respondente do sinal pode interferir no desempenho operante.",
+      "O operante diminui durante o sinal; não se descreve uma consequência que o fortaleça."
+    ],
+    "clues": [
+      "após pareamento",
+      "evento aversivo",
+      "redução de um operante"
+    ],
+    "reasoning": [
+      "Separe a história de pareamento do sinal da relação operante já existente.",
+      "Identifique a interação entre respostas emocionais condicionadas e o operante."
+    ],
+    "misconception": "Explicar qualquer redução de um operante como punição contingente à resposta.",
+    "followUp": {
+      "prompt": "O evento aversivo precisa ser produzido por esse operante para haver supressão condicionada?",
+      "answer": "Não. O ponto descrito é o sinal adquirir função por pareamento e interferir no operante; não se exige que o operante produza o evento aversivo."
+    }
+  },
+  {
+    "id": "aba-5-practice-2",
+    "lessonId": "aba-5",
+    "moduleId": "aba",
+    "level": 2,
+    "pages": [
+      41,
+      53
+    ],
+    "type": "short",
+    "prompt": "Exemplo hipotético: administrações sucessivas produzem efeitos menores de uma substância; após interrupção surgem sintomas, e voltar a usá-la os alivia. Diferencie tolerância, abstinência e a possível função de reforçamento negativo.",
+    "rubric": [
+      "Associei tolerância à redução de efeitos ao longo de administrações sucessivas.",
+      "Associei abstinência aos sintomas após redução ou interrupção.",
+      "Expliquei que o alívio pode fortalecer o consumo futuro, hipótese de reforçamento negativo a ser avaliada."
+    ],
+    "modelAnswer": "Tolerância se refere à redução dos efeitos ao longo de administrações. Abstinência se refere aos sintomas após redução ou interrupção. Se consumir remove esses sintomas e aumenta a probabilidade de consumo futuro, há uma relação de reforçamento negativo; o alívio isolado ainda exige investigação do efeito sobre o responder.",
+    "clues": [
+      "efeitos menores",
+      "após interrupção",
+      "os alivia"
+    ],
+    "reasoning": [
+      "Associe cada trecho a um processo distinto.",
+      "Para reforçamento, acrescente a pergunta sobre aumento futuro da resposta."
+    ],
+    "misconception": "Usar tolerância, abstinência e reforçamento negativo como nomes intercambiáveis.",
+    "followUp": {
+      "prompt": "Negativo significa que o efeito do consumo é moralmente ruim?",
+      "answer": "Não. Nesse termo, negativo indica retirada ou prevenção de uma condição; reforçamento indica fortalecimento da resposta."
+    }
+  },
+  {
+    "id": "aba-5-practice-3",
+    "lessonId": "aba-5",
+    "moduleId": "aba",
+    "level": 3,
+    "pages": [
+      41,
+      53
+    ],
+    "type": "choice",
+    "prompt": "Exemplo hipotético: o responder diminui durante um sinal condicionado aversivo, embora continue produzindo a mesma consequência reforçadora. Qual informação impede chamar isso automaticamente de extinção operante?",
+    "options": [
+      "O sinal é percebido pela pessoa.",
+      "O comportamento mudou de frequência.",
+      "A relação entre o operante e seu reforçador continua disponível."
+    ],
+    "answer": 2,
+    "rationales": [
+      "Ser percebido não distingue extinção de outros processos.",
+      "Mudanças de frequência ocorrem em vários processos; sozinhas não definem extinção.",
+      "Extinção operante exige descontinuação da consequência que mantinha a resposta, ausente nessa descrição."
+    ],
+    "clues": [
+      "continue produzindo",
+      "mesma consequência reforçadora",
+      "automaticamente"
+    ],
+    "reasoning": [
+      "Identifique qual relação foi alterada e qual permaneceu.",
+      "Separe queda no desempenho de suspensão do reforço.",
+      "Considere o efeito de um estímulo condicionado sobre um operante ainda reforçado."
+    ],
+    "misconception": "Classificar qualquer queda na frequência como extinção operante.",
+    "followUp": {
+      "prompt": "O que seria necessário para falar em extinção respondente do sinal?",
+      "answer": "Apresentações do estímulo condicionado sem o evento com que foi pareado, com avaliação dos efeitos dessa mudança."
+    }
+  },
+  {
+    "id": "basicos-1-practice-1",
+    "lessonId": "basicos-1",
+    "moduleId": "basicos",
+    "level": 1,
+    "pages": [
+      3,
+      13
+    ],
+    "type": "choice",
+    "prompt": "Qual exemplo corresponde mais diretamente à ontogênese?",
+    "options": [
+      "A aquisição individual de um trajeto após várias experiências.",
+      "A seleção de características da espécie ao longo de gerações.",
+      "A transmissão de uma prática de ensino entre grupos de pessoas."
+    ],
+    "answer": 0,
+    "rationales": [
+      "Ontogênese diz respeito à história de aprendizagem durante a vida do indivíduo.",
+      "Esse exemplo se refere à filogênese.",
+      "Esse exemplo destaca práticas culturais, embora também envolva aprendizagens individuais."
+    ],
+    "clues": [
+      "ontogênese",
+      "aquisição individual",
+      "experiências"
+    ],
+    "reasoning": [
+      "Pergunte em qual escala a história é descrita: espécie, indivíduo ou práticas sociais.",
+      "Escolha a história individual sem negar sua interação com os demais níveis."
+    ],
+    "misconception": "Confundir história individual com seleção da espécie ou transmissão cultural.",
+    "followUp": {
+      "prompt": "Um repertório aprendido individualmente depende de um organismo com história filogenética?",
+      "answer": "Sim. Os níveis se articulam; distingui-los não significa que funcionem isoladamente."
+    }
+  },
+  {
+    "id": "basicos-1-practice-2",
+    "lessonId": "basicos-1",
+    "moduleId": "basicos",
+    "level": 2,
+    "pages": [
+      3,
+      13
+    ],
+    "type": "short",
+    "prompt": "Exemplo hipotético: uma criança aprende a pedir ajuda numa escola cuja comunidade valoriza colaboração. Explique como história individual e práticas culturais podem participar, sem reduzir a aprendizagem a um único nível.",
+    "rubric": [
+      "Relacionei a história individual às experiências e consequências de pedir ajuda.",
+      "Relacionei a cultura às práticas de ensino e respostas sociais compartilhadas e transmitidas.",
+      "Expliquei que os níveis interagem, em vez de serem explicações exclusivas."
+    ],
+    "modelAnswer": "Na história individual, pedir ajuda pode ter produzido orientação e participação nas atividades. Na dimensão cultural, práticas de colaboração organizam como colegas e professores respondem e como ensinam esse repertório. Essas práticas se realizam nas experiências individuais, em um organismo com história da espécie; não é necessário escolher um único nível.",
+    "clues": [
+      "aprende a pedir ajuda",
+      "comunidade valoriza colaboração",
+      "único nível"
+    ],
+    "reasoning": [
+      "Localize as consequências na vida da criança.",
+      "Localize a prática social que organiza e transmite essas oportunidades.",
+      "Conecte as duas escalas sem transformá-las em sinônimos."
+    ],
+    "misconception": "Escolher um nível de seleção como se os demais deixassem de participar.",
+    "followUp": {
+      "prompt": "A expressão é da cultura, sozinha, explica como a criança aprendeu?",
+      "answer": "Não. É preciso descrever práticas concretas e a história de contato da criança com elas."
+    }
+  },
+  {
+    "id": "basicos-1-practice-3",
+    "lessonId": "basicos-1",
+    "moduleId": "basicos",
+    "level": 3,
+    "pages": [
+      3,
+      13
+    ],
+    "type": "choice",
+    "prompt": "Exemplo hipotético: um estudante afirma “se houve seleção por consequências, não foi necessário haver variação”. Que avaliação corresponde ao modelo?",
+    "options": [
+      "A afirmação é válida, pois seleção cria todas as possibilidades sem variação.",
+      "A afirmação é inadequada: variação oferece possibilidades sobre as quais processos seletivos podem atuar.",
+      "A afirmação é inadequada porque apenas a genética, nunca a aprendizagem, envolve seleção."
+    ],
+    "answer": 1,
+    "rationales": [
+      "Seleção não dispensa a existência de variantes sobre as quais atua.",
+      "O modelo articula variação e seleção nos níveis apresentados.",
+      "O material discute seleção também na ontogênese e em práticas culturais."
+    ],
+    "clues": [
+      "seleção por consequências",
+      "não foi necessário",
+      "variação"
+    ],
+    "reasoning": [
+      "Identifique a relação proposta entre os dois termos.",
+      "Recorde que selecionar supõe possibilidades diferentes, e não uma resposta fixa sem alternativas."
+    ],
+    "misconception": "Pensar seleção como criação direta de toda resposta, sem variação.",
+    "followUp": {
+      "prompt": "A pessoa pode ser explicada apenas pelo repertório aprendido em uma semana?",
+      "answer": "Não. Esse recorte é limitado diante da articulação entre histórias da espécie, da vida individual e das práticas culturais."
+    }
+  },
+  {
+    "id": "basicos-2-practice-1",
+    "lessonId": "basicos-2",
+    "moduleId": "basicos",
+    "level": 1,
+    "pages": [
+      15,
+      21
+    ],
+    "type": "choice",
+    "prompt": "No exemplo do hospital, a quimioterapia elicia náusea antes de qualquer aprendizagem de pareamento com o contexto. Nessa relação inicial, a náusea é classificada como:",
+    "options": [
+      "Estímulo condicionado.",
+      "Resposta incondicionada.",
+      "Estímulo discriminativo."
+    ],
+    "answer": 1,
+    "rationales": [
+      "A náusea é uma resposta, e não o estímulo contextual que pode adquirir função condicionada.",
+      "Nessa relação descrita, a resposta é eliciada sem depender do pareamento individual com o hospital.",
+      "Um estímulo discriminativo sinaliza uma relação operante de reforço; não é a resposta de náusea."
+    ],
+    "clues": [
+      "quimioterapia elicia",
+      "antes de qualquer aprendizagem",
+      "náusea"
+    ],
+    "reasoning": [
+      "Diferencie o evento que elicia da resposta eliciada.",
+      "Verifique se a relação considerada depende do pareamento aprendido."
+    ],
+    "misconception": "Trocar estímulo por resposta ou condicionado por incondicionado.",
+    "followUp": {
+      "prompt": "Se depois o contexto do hospital elicia náusea sem tratamento, qual relação nova interessa?",
+      "answer": "O contexto pode ter se tornado estímulo condicionado, e a náusea diante dele pode ser uma resposta condicionada."
+    }
+  },
+  {
+    "id": "basicos-2-practice-2",
+    "lessonId": "basicos-2",
+    "moduleId": "basicos",
+    "level": 2,
+    "pages": [
+      15,
+      21
+    ],
+    "type": "short",
+    "prompt": "Exemplo hipotético: uma luz antes neutra é pareada a um evento que elicia uma resposta; depois, a luz passa a eliciar resposta semelhante. Identifique o que mudou e diferencie esse processo de uma luz que apenas sinaliza quando apertar um botão produz pontos.",
+    "rubric": [
+      "Descrevi a aquisição de função eliciadora pela luz após pareamentos.",
+      "Diferenciei a relação respondente da relação operante em que a resposta produz pontos.",
+      "Expliquei que sinalizar uma consequência disponível não é o mesmo que eliciar uma resposta."
+    ],
+    "modelAnswer": "No primeiro caso, a luz adquire função de estímulo condicionado por sua relação com outro evento eliciador. No segundo, a luz pode exercer controle discriminativo se uma história de reforçamento diferencial ligar apertar o botão aos pontos nessa condição. Eliciação respondente e sinalização de reforço operante são relações diferentes.",
+    "clues": [
+      "antes neutra",
+      "pareada",
+      "apertar um botão produz pontos"
+    ],
+    "reasoning": [
+      "No primeiro arranjo, localize a relação entre estímulos e a resposta eliciada.",
+      "No segundo, localize a consequência produzida pelo operante."
+    ],
+    "misconception": "Chamar todo antecedente de estímulo condicionado ou todo sinal de estímulo discriminativo.",
+    "followUp": {
+      "prompt": "Um mesmo contexto pode participar de relações respondentes e operantes?",
+      "answer": "Pode. É preciso especificar cada relação e sua história, em vez de atribuir uma única função ao contexto."
+    }
+  },
+  {
+    "id": "basicos-2-practice-3",
+    "lessonId": "basicos-2",
+    "moduleId": "basicos",
+    "level": 3,
+    "pages": [
+      15,
+      21
+    ],
+    "type": "choice",
+    "prompt": "Exemplo hipotético: após condicionamento, um sinal é apresentado repetidamente sem o evento com que foi pareado. Qual conclusão é tecnicamente mais cuidadosa?",
+    "options": [
+      "A resposta deixa de existir imediatamente e nunca pode retornar.",
+      "Isso é extinção operante porque uma resposta ficou sem prêmio.",
+      "O arranjo corresponde à extinção respondente; seus efeitos sobre a resposta devem ser medidos."
+    ],
+    "answer": 2,
+    "rationales": [
+      "O procedimento não autoriza prever desaparecimento imediato ou apagamento definitivo da história.",
+      "O enunciado descreve a relação entre um estímulo condicionado e outro evento, não a suspensão de consequência operante.",
+      "Identifica o procedimento e evita confundi-lo com um resultado garantido."
+    ],
+    "clues": [
+      "sinal",
+      "sem o evento com que foi pareado",
+      "repetidamente"
+    ],
+    "reasoning": [
+      "Identifique qual relação é descontinuada.",
+      "Classifique o procedimento antes de prever sua magnitude ou duração.",
+      "Separe extinção respondente de extinção operante."
+    ],
+    "misconception": "Tratar extinção como apagamento instantâneo e definitivo de uma aprendizagem.",
+    "followUp": {
+      "prompt": "Por que observar a resposta durante o procedimento?",
+      "answer": "Porque a alteração do arranjo é uma descrição do procedimento; os efeitos e seu curso precisam de avaliação."
+    }
+  },
+  {
+    "id": "basicos-3-practice-1",
+    "lessonId": "basicos-3",
+    "moduleId": "basicos",
+    "level": 1,
+    "pages": [
+      22,
+      39
+    ],
+    "type": "choice",
+    "prompt": "Exemplo hipotético: enviar uma mensagem encerra uma cobrança e, em situações semelhantes, enviar mensagens passa a ocorrer mais. Qual relação foi descrita?",
+    "options": [
+      "Reforçamento negativo da resposta de enviar a mensagem.",
+      "Punição negativa porque algo foi retirado.",
+      "Reforçamento positivo porque o resultado parece bom."
+    ],
+    "answer": 0,
+    "rationales": [
+      "A retirada da cobrança foi seguida de fortalecimento da resposta, caracterizando a relação descrita.",
+      "Punição negativa envolve retirada contingente de reforçador positivo; o exemplo descreve remoção de cobrança e aumento do responder.",
+      "Positivo e negativo se referem à adição e retirada, e não ao julgamento bom ou ruim."
+    ],
+    "clues": [
+      "encerra uma cobrança",
+      "passa a ocorrer mais"
+    ],
+    "reasoning": [
+      "Localize a resposta: enviar a mensagem.",
+      "Identifique a retirada de uma condição e o aumento futuro do responder."
+    ],
+    "misconception": "Confundir reforçamento negativo com punição ou com avaliação moral do resultado.",
+    "followUp": {
+      "prompt": "Se a mensagem não aumentasse no futuro, bastaria haver alívio para afirmar reforçamento?",
+      "answer": "Não. É necessário avaliar o efeito de fortalecimento sobre respostas da classe."
+    }
+  },
+  {
+    "id": "basicos-3-practice-2",
+    "lessonId": "basicos-3",
+    "moduleId": "basicos",
+    "level": 2,
+    "pages": [
+      22,
+      39
+    ],
+    "type": "short",
+    "prompt": "No exemplo do supermercado, entregar o doce pode produzir cessação do choro, e chorar pode produzir o doce. Separe as duas análises: de quem é cada resposta, qual sua consequência e que dado falta para afirmar reforçamento?",
+    "rubric": [
+      "Separei chorar, da criança, de entregar o doce, do adulto.",
+      "Relacionei doce ao choro e cessação do choro à entrega, sem misturar as unidades.",
+      "Indiquei que é necessário verificar aumento futuro de cada classe de respostas."
+    ],
+    "modelAnswer": "Para a criança, a resposta é chorar e a consequência pode ser receber o doce: hipótese de reforçamento positivo. Para o adulto, a resposta é entregar o doce e a consequência pode ser cessar o choro: hipótese de reforçamento negativo. Para afirmar reforçamento, precisamos verificar fortalecimento futuro de cada resposta nas condições pertinentes.",
+    "clues": [
+      "entregar o doce",
+      "cessação do choro",
+      "chorar pode produzir o doce"
+    ],
+    "reasoning": [
+      "Faça uma análise por organismo, em vez de uma única cadeia com duas respostas misturadas.",
+      "Classifique adição ou retirada para cada resposta.",
+      "Investigue o efeito futuro antes de concluir."
+    ],
+    "misconception": "Identificar uma consequência para duas pessoas sem especificar qual comportamento ela pode manter.",
+    "followUp": {
+      "prompt": "O doce é necessariamente reforçador para toda criança?",
+      "answer": "Não. A função depende do efeito na resposta, da pessoa, da história e das condições presentes."
+    }
+  },
+  {
+    "id": "basicos-3-practice-3",
+    "lessonId": "basicos-3",
+    "moduleId": "basicos",
+    "level": 3,
+    "pages": [
+      22,
+      39
+    ],
+    "type": "choice",
+    "prompt": "Exemplo hipotético: elogios ocorreram depois de algumas respostas, mas a frequência dessas respostas permaneceu estável. Qual conclusão é sustentada apenas por esses dados?",
+    "options": [
+      "Todo elogio é reforçador positivo por definição.",
+      "A sucessão temporal não basta para demonstrar reforçamento; é preciso investigar a relação e o efeito sobre o responder.",
+      "Os elogios foram necessariamente punição, porque não houve aumento."
+    ],
+    "answer": 1,
+    "rationales": [
+      "Ser socialmente agradável não define função reforçadora.",
+      "A consequência ser posterior não prova contingência nem fortalecimento da classe de respostas.",
+      "Não haver aumento não demonstra apresentação aversiva ou retirada de reforçador."
+    ],
+    "clues": [
+      "ocorreram depois",
+      "frequência permaneceu estável",
+      "apenas por esses dados"
+    ],
+    "reasoning": [
+      "Separe ordem temporal de relação funcional.",
+      "Procure o critério de fortalecimento da classe de respostas.",
+      "Evite atribuir automaticamente uma função alternativa quando os dados são insuficientes."
+    ],
+    "misconception": "Definir reforçador pela aparência agradável ou pela intenção de quem o apresenta.",
+    "followUp": {
+      "prompt": "Qual medida ajudaria a avaliar o efeito dos elogios?",
+      "answer": "Registros repetidos da resposta em condições comparáveis, com investigação da relação entre elogio contingente e mudanças no responder."
+    }
+  },
+  {
+    "id": "basicos-4-practice-1",
+    "lessonId": "basicos-4",
+    "moduleId": "basicos",
+    "level": 1,
+    "pages": [
+      30,
+      47
+    ],
+    "type": "choice",
+    "prompt": "Por que dinheiro é apresentado como exemplo de reforçador condicionado generalizado?",
+    "options": [
+      "Porque sua função depende exclusivamente da fome.",
+      "Porque é agradável para todas as pessoas em qualquer situação.",
+      "Porque sua história o relaciona a múltiplos outros reforçadores."
+    ],
+    "answer": 2,
+    "rationales": [
+      "O caráter generalizado envolve múltiplas relações, não dependência exclusiva de uma privação.",
+      "Nenhum objeto tem efeito universal garantido em todo contexto.",
+      "A relação com diversos reforçadores sustenta essa classificação, sujeita à história e às condições."
+    ],
+    "clues": [
+      "condicionado",
+      "generalizado",
+      "dinheiro"
+    ],
+    "reasoning": [
+      "Condicionado remete à aquisição de função na história.",
+      "Generalizado remete à relação com múltiplos reforçadores."
+    ],
+    "misconception": "Tratar generalizado como sinônimo de universal ou independente de qualquer contexto.",
+    "followUp": {
+      "prompt": "Generalizado significa totalmente independente de condições motivacionais?",
+      "answer": "Não. Significa relativamente menos dependente de uma única privação, sem eliminar a importância do contexto."
+    }
+  },
+  {
+    "id": "basicos-4-practice-2",
+    "lessonId": "basicos-4",
+    "moduleId": "basicos",
+    "level": 2,
+    "pages": [
+      30,
+      47
+    ],
+    "type": "short",
+    "prompt": "Exemplo hipotético: uma pessoa aprende a tocar um trecho e continua praticando pelo som produzido, sem alguém entregar uma recompensa. Diferencie mediação automática e origem condicionada ou incondicionada da função reforçadora.",
+    "rubric": [
+      "Associei automático à consequência sem mediação direta de outra pessoa.",
+      "Expliquei que condicionado ou incondicionado se refere à origem da função.",
+      "Indiquei que o exemplo não permite deduzir toda a origem da função apenas pela ausência de outra pessoa."
+    ],
+    "modelAnswer": "A consequência sonora pode ser automática por não depender da mediação direta de outra pessoa. Isso não resolve se sua função é condicionada ou incondicionada: essa classificação envolve a origem da função na história. São eixos diferentes, e ainda é preciso verificar se o som fortalece a prática.",
+    "clues": [
+      "som produzido",
+      "sem alguém entregar",
+      "origem"
+    ],
+    "reasoning": [
+      "Pergunte quem ou o que produz a consequência.",
+      "Separe essa pergunta da história pela qual a consequência adquiriu função.",
+      "Mantenha a função reforçadora como uma relação a avaliar."
+    ],
+    "misconception": "Usar automático como sinônimo de incondicionado ou natural.",
+    "followUp": {
+      "prompt": "Uma consequência automática pode ter função aprendida?",
+      "answer": "Pode. A ausência de mediação direta de outra pessoa não elimina uma história de aprendizagem da função."
+    }
+  },
+  {
+    "id": "basicos-4-practice-3",
+    "lessonId": "basicos-4",
+    "moduleId": "basicos",
+    "level": 3,
+    "pages": [
+      30,
+      47
+    ],
+    "type": "choice",
+    "prompt": "Exemplo hipotético: uma ficha só passou a fortalecer respostas depois de ser trocada por várias atividades valorizadas. Qual classificação está melhor fundamentada?",
+    "options": [
+      "Condicionada e potencialmente generalizada, se ligada a múltiplos reforçadores; o efeito ainda depende das condições.",
+      "Incondicionada, porque agora aumenta a resposta.",
+      "Automática, porque toda ficha dispensa mediação social."
+    ],
+    "answer": 0,
+    "rationales": [
+      "A aquisição por trocas informa a origem condicionada, e a multiplicidade informa o caráter generalizado.",
+      "Aumento de resposta informa função reforçadora, mas não torna sua origem incondicionada.",
+      "A troca pode depender de pessoas; fichas não são automaticamente consequências sem mediação social."
+    ],
+    "clues": [
+      "só passou",
+      "depois de ser trocada",
+      "várias atividades"
+    ],
+    "reasoning": [
+      "Use a história descrita para classificar a origem da função.",
+      "Use a variedade de relações para considerar a generalização.",
+      "Evite acrescentar mediação automática, que não foi demonstrada."
+    ],
+    "misconception": "Deduzir a origem do reforçador apenas por seu efeito atual.",
+    "followUp": {
+      "prompt": "Se a ficha deixar de poder ser trocada, seu efeito necessariamente permanecerá igual?",
+      "answer": "Não. Mudanças nas relações e condições podem alterar seu valor e seu efeito sobre as respostas."
+    }
+  },
+  {
+    "id": "basicos-5-practice-1",
+    "lessonId": "basicos-5",
+    "moduleId": "basicos",
+    "level": 1,
+    "pages": [
+      48,
+      57
+    ],
+    "type": "choice",
+    "prompt": "Qual situação descreve extinção operante?",
+    "options": [
+      "Retirar um objeto agradável sem relação com uma resposta anteriormente reforçada.",
+      "Uma resposta antes produtora de reforço deixa de produzir esse reforço.",
+      "Apresentar um estímulo aversivo depois de qualquer comportamento."
+    ],
+    "answer": 1,
+    "rationales": [
+      "Uma retirada aleatória não identifica a descontinuação da relação que mantinha a resposta.",
+      "A história de reforço e a suspensão de sua produção definem o procedimento descrito.",
+      "Apresentação aversiva contingente corresponde a outro arranjo, não à extinção operante."
+    ],
+    "clues": [
+      "antes produtora",
+      "deixa de produzir",
+      "esse reforço"
+    ],
+    "reasoning": [
+      "Verifique se existia relação de reforçamento.",
+      "Identifique se exatamente essa produção de reforço foi descontinuada."
+    ],
+    "misconception": "Confundir extinção com qualquer retirada ou com simples redução de frequência.",
+    "followUp": {
+      "prompt": "É possível definir extinção operante sem saber o que mantinha a resposta?",
+      "answer": "Não com precisão: a relação de reforçamento anterior é necessária para identificar o que foi descontinuado."
+    }
+  },
+  {
+    "id": "basicos-5-practice-2",
+    "lessonId": "basicos-5",
+    "moduleId": "basicos",
+    "level": 2,
+    "pages": [
+      48,
+      57
+    ],
+    "type": "short",
+    "prompt": "Exemplo hipotético: um botão deixa de produzir a bebida que antes produzia. A pessoa aperta mais vezes no começo e depois reduz as tentativas. Explique o aumento inicial e por que isso não significa que a história foi apagada.",
+    "rubric": [
+      "Identifiquei o aumento inicial como um possível burst, sem tratá-lo como obrigatório.",
+      "Relacionei a mudança à suspensão da consequência que antes reforçava apertar.",
+      "Expliquei que redução posterior não equivale a apagar a história de aprendizagem."
+    ],
+    "modelAnswer": "Ao deixar de produzir a bebida, apertar entra em um arranjo de extinção operante. O aumento inicial pode ser um burst, efeito possível e não necessário. A redução posterior do responder é um resultado a acompanhar; não autoriza concluir que a história anterior deixou de existir.",
+    "clues": [
+      "antes produzia",
+      "aperta mais vezes no começo",
+      "depois reduz"
+    ],
+    "reasoning": [
+      "Comece pela relação que mudou, não pela aparência da curva.",
+      "Interprete o aumento inicial como possibilidade do processo.",
+      "Separe mudança no desempenho de apagamento da história."
+    ],
+    "misconception": "Concluir que extinção sempre reduz a resposta imediatamente ou apaga definitivamente a aprendizagem.",
+    "followUp": {
+      "prompt": "A ausência de aumento inicial prova que não houve extinção?",
+      "answer": "Não. O burst é possível, mas não obrigatório; o arranjo e os demais dados precisam ser considerados."
+    }
+  },
+  {
+    "id": "basicos-5-practice-3",
+    "lessonId": "basicos-5",
+    "moduleId": "basicos",
+    "level": 3,
+    "pages": [
+      48,
+      57
+    ],
+    "type": "choice",
+    "prompt": "Exemplo hipotético: em um gráfico cumulativo de respostas, a linha continua subindo, mas fica cada vez menos inclinada após suspensão do reforço. Como interpretar?",
+    "options": [
+      "A taxa aumentou porque a linha ainda sobe.",
+      "O gráfico está errado, pois deveria descer quando há menos respostas.",
+      "O total acumulado ainda cresce, mas a menor inclinação indica menor taxa de respostas."
+    ],
+    "answer": 2,
+    "rationales": [
+      "Subir informa acréscimo ao total; a taxa depende da inclinação por unidade de tempo.",
+      "Um acumulado não perde as respostas já contabilizadas.",
+      "Distingue contagem acumulada de velocidade de emissão das respostas."
+    ],
+    "clues": [
+      "cumulativo",
+      "menos inclinada",
+      "suspensão do reforço"
+    ],
+    "reasoning": [
+      "Identifique que o eixo apresenta total acumulado, não frequência isolada por intervalo.",
+      "Compare a inclinação ao longo do tempo.",
+      "Relacione menor inclinação a menor acréscimo por intervalo."
+    ],
+    "misconception": "Ler um registro cumulativo como se fosse uma curva de frequência que deve descer.",
+    "followUp": {
+      "prompt": "Como ficaria o segmento se nenhuma resposta ocorresse durante um intervalo?",
+      "answer": "Ficaria horizontal nesse intervalo: o total permaneceria constante."
+    }
+  },
+  {
+    "id": "basicos-6-practice-1",
+    "lessonId": "basicos-6",
+    "moduleId": "basicos",
+    "level": 1,
+    "pages": [
+      59,
+      68
+    ],
+    "type": "choice",
+    "prompt": "O que caracteriza a função de estímulo discriminativo, Sd, em uma relação operante?",
+    "options": [
+      "Uma história em que sua presença sinaliza disponibilidade de reforço para determinada resposta.",
+      "A obrigação de responder sempre que o estímulo aparece.",
+      "O pareamento com um estímulo incondicionado, independentemente das consequências da resposta."
+    ],
+    "answer": 0,
+    "rationales": [
+      "A função discriminativa depende de história de reforçamento diferencial.",
+      "Sd não força mecanicamente a resposta nem garante sua emissão.",
+      "Esse arranjo descreve uma história respondente e não basta para definir Sd."
+    ],
+    "clues": [
+      "função",
+      "operante",
+      "discriminativo"
+    ],
+    "reasoning": [
+      "Procure a relação entre antecedente, resposta e consequência.",
+      "Diferencie sinalização de reforço de elicitação ou obrigação."
+    ],
+    "misconception": "Pensar Sd como comando que obriga a resposta.",
+    "followUp": {
+      "prompt": "SΔ significa que nenhum comportamento é possível naquele contexto?",
+      "answer": "Não. Refere-se à indisponibilidade da consequência para a classe de respostas considerada nessa história."
+    }
+  },
+  {
+    "id": "basicos-6-practice-2",
+    "lessonId": "basicos-6",
+    "moduleId": "basicos",
+    "level": 2,
+    "pages": [
+      59,
+      68
+    ],
+    "type": "short",
+    "prompt": "Exemplo hipotético: após treino para responder diante do vermelho, um pombo também responde diante do laranja, sem treino direto nessa cor. Diferencie generalização de discriminação e indique qual processo o novo responder ilustra.",
+    "rubric": [
+      "Defini generalização como extensão do controle a estímulos com propriedades comuns.",
+      "Defini discriminação como responder diferencial relacionado a uma história de reforçamento diferencial.",
+      "Relacionei o responder ao laranja sem treino direto à generalização, sem afirmar ausência de toda discriminação."
+    ],
+    "modelAnswer": "Generalização é a extensão do controle a estímulos com propriedades comuns, como pode ocorrer com o laranja após treino no vermelho. Discriminação é o responder diferencial diante de condições com histórias distintas de reforço. O novo responder ilustra generalização, mas não permite concluir que o pombo não discrimine nenhuma cor.",
+    "clues": [
+      "após treino",
+      "laranja",
+      "sem treino direto"
+    ],
+    "reasoning": [
+      "Observe onde houve treino e onde surgiu o novo responder.",
+      "Compare extensão do controle com diferenciação entre condições."
+    ],
+    "misconception": "Tratar generalização como simples falha ou ausência absoluta de discriminação.",
+    "followUp": {
+      "prompt": "Responder igualmente em toda situação é a única forma de generalização?",
+      "answer": "Não. O controle pode se estender em graus diferentes conforme propriedades compartilhadas e a história."
+    }
+  },
+  {
+    "id": "basicos-6-practice-3",
+    "lessonId": "basicos-6",
+    "moduleId": "basicos",
+    "level": 3,
+    "pages": [
+      59,
+      68
+    ],
+    "type": "choice",
+    "prompt": "Exemplo hipotético: um cliente aprende a discordar em ensaios na sessão. O terapeuta conclui que o repertório já ocorre no trabalho, sem coletar dados. Qual crítica é mais precisa?",
+    "options": [
+      "Se aprendeu na sessão, a transferência é garantida.",
+      "Generalização para o trabalho precisa ser investigada; a história e as consequências desse contexto podem diferir.",
+      "Responder no trabalho só poderia ser respondente, pois há antecedentes diferentes."
+    ],
+    "answer": 1,
+    "rationales": [
+      "Aprendizagem num ambiente não demonstra emissão em outro.",
+      "O contexto real pode apresentar outros controles, tornando necessária a avaliação da transferência.",
+      "Antecedentes diferentes não transformam uma relação operante em respondente."
+    ],
+    "clues": [
+      "na sessão",
+      "já ocorre no trabalho",
+      "sem coletar dados"
+    ],
+    "reasoning": [
+      "Localize o contexto em que o repertório foi observado.",
+      "Separe a expectativa de transferência da evidência de sua ocorrência.",
+      "Considere condições e consequências no ambiente novo."
+    ],
+    "misconception": "Pressupor generalização clínica automática após aprendizagem em sessão.",
+    "followUp": {
+      "prompt": "Que informação ajudaria a verificar a transferência?",
+      "answer": "Registros de oportunidades de discordância no trabalho, respostas emitidas e consequências, respeitando as condições reais do cliente."
+    }
+  },
+  {
+    "id": "basicos-7-practice-1",
+    "lessonId": "basicos-7",
+    "moduleId": "basicos",
+    "level": 1,
+    "pages": [
+      69,
+      89
+    ],
+    "type": "choice",
+    "prompt": "Exemplo hipotético: sair da sala encerra um som desagradável que já estava tocando. Se essa consequência fortalece sair, trata-se de:",
+    "options": [
+      "Esquiva, pois o som nunca chegou a ocorrer.",
+      "Punição negativa, porque a pessoa saiu.",
+      "Fuga mantida por reforçamento negativo."
+    ],
+    "answer": 2,
+    "rationales": [
+      "O som já estava presente; esquiva envolve prevenção ou adiamento.",
+      "O que define a relação é a consequência da resposta, não o verbo sair.",
+      "A resposta remove estimulação aversiva presente e é fortalecida por isso."
+    ],
+    "clues": [
+      "já estava tocando",
+      "encerra",
+      "fortalece sair"
+    ],
+    "reasoning": [
+      "Verifique se a estimulação já começou.",
+      "Identifique remoção e aumento futuro da resposta."
+    ],
+    "misconception": "Chamar toda prevenção ou remoção de aversivos de fuga, sem distinguir o momento.",
+    "followUp": {
+      "prompt": "O que mudaria se sair antes do horário prevenisse o som?",
+      "answer": "A relação poderia ser de esquiva, se a resposta prevenisse ou adiasse o evento e fosse fortalecida por isso."
+    }
+  },
+  {
+    "id": "basicos-7-practice-2",
+    "lessonId": "basicos-7",
+    "moduleId": "basicos",
+    "level": 2,
+    "pages": [
+      69,
+      89
+    ],
+    "type": "short",
+    "prompt": "O material usa uma definição procedural skinneriana de punição. Diferencie punição positiva, punição negativa e reforçamento negativo, incluindo por que a classificação de punição nos slides não exige redução duradoura comprovada.",
+    "rubric": [
+      "Descrevi punição positiva como apresentação contingente de estímulo aversivo e negativa como retirada contingente de reforçador positivo.",
+      "Descrevi reforçamento negativo como fortalecimento pela remoção ou prevenção de uma condição aversiva.",
+      "Explicitei que, na convenção procedural dos slides, procedimento punitivo e seus efeitos devem ser distinguidos."
+    ],
+    "modelAnswer": "Na definição procedural adotada, punição positiva apresenta contingentemente um estímulo aversivo e punição negativa retira contingentemente um reforçador positivo. Reforçamento negativo fortalece a resposta que remove ou previne uma condição aversiva. Os slides classificam a punição pelo arranjo, sem exigir redução duradoura como parte dessa definição; seus efeitos precisam ser avaliados separadamente.",
+    "clues": [
+      "definição procedural",
+      "incluindo por que",
+      "redução duradoura"
+    ],
+    "reasoning": [
+      "Declare a convenção adotada pelo material.",
+      "Separe apresentação ou retirada de estímulos do efeito de fortalecimento.",
+      "Não importe silenciosamente outra definição de punição."
+    ],
+    "misconception": "Confundir reforçamento negativo com punição ou ignorar a definição procedural do material.",
+    "followUp": {
+      "prompt": "Se a resposta não cai de modo duradouro, o arranjo deixa automaticamente de ser punição nessa definição?",
+      "answer": "Não. Nessa convenção, a classificação procedural permanece; ausência de redução duradoura informa os efeitos observados."
+    }
+  },
+  {
+    "id": "basicos-7-practice-3",
+    "lessonId": "basicos-7",
+    "moduleId": "basicos",
+    "level": 3,
+    "pages": [
+      69,
+      89
+    ],
+    "type": "choice",
+    "prompt": "Exemplo hipotético: uma reprimenda aversiva é apresentada contingentemente a atrasos. Depois, a pessoa passa a esconder os atrasos e evitar quem repreende. Considerando a definição dos slides, qual análise é mais adequada?",
+    "options": [
+      "O procedimento pode ser punitivo, e a esquiva é um possível efeito a investigar; a intenção de corrigir não garante benefício.",
+      "A esquiva demonstra que o procedimento foi reforçamento positivo de pontualidade.",
+      "Como surgiu outro comportamento, já não é necessário investigar os atrasos."
+    ],
+    "answer": 0,
+    "rationales": [
+      "A análise distingue apresentação aversiva contingente, efeito sobre atrasos e possíveis respostas de fuga ou esquiva.",
+      "Não há dado de aumento de pontualidade por adição reforçadora; esconder atrasos não demonstra isso.",
+      "Medir apenas um subproduto deixaria de avaliar o alvo e os demais efeitos."
+    ],
+    "clues": [
+      "reprimenda aversiva",
+      "contingentemente",
+      "esconder e evitar"
+    ],
+    "reasoning": [
+      "Classifique o arranjo conforme a convenção procedural.",
+      "Examine separadamente mudanças no alvo e novos repertórios.",
+      "Não use a intenção de corrigir como evidência dos efeitos."
+    ],
+    "misconception": "Avaliar controle aversivo apenas pela intenção ou por uma supressão aparente do problema.",
+    "followUp": {
+      "prompt": "Que medidas distinguiriam melhora de simples ocultação?",
+      "answer": "Dados dos atrasos reais, dos registros e das interações de esquiva, além das condições em que cada resposta ocorre."
+    }
+  },
+  {
+    "id": "basicos-8-practice-1",
+    "lessonId": "basicos-8",
+    "moduleId": "basicos",
+    "level": 1,
+    "pages": [
+      90,
+      107
+    ],
+    "type": "choice",
+    "prompt": "A expressão “água” é emitida sob sede e produz a entrega de água por um ouvinte. Que classificação é mais compatível com essa descrição?",
+    "options": [
+      "Tato, porque toda palavra que nomeia um objeto é tato.",
+      "Mando, pelo controle motivacional e pela consequência específica.",
+      "Reflexo incondicionado, porque há uma necessidade biológica."
+    ],
+    "answer": 1,
+    "rationales": [
+      "A topografia da palavra não basta; as variáveis descritas são características de mando.",
+      "A sede e a entrega específica de água sustentam essa classificação funcional.",
+      "Uma condição motivacional não transforma automaticamente uma resposta verbal aprendida em reflexo."
+    ],
+    "clues": [
+      "sob sede",
+      "produz a entrega",
+      "por um ouvinte"
+    ],
+    "reasoning": [
+      "Localize o controle antecedente e a consequência.",
+      "Classifique a função da emissão, sem se apoiar apenas no nome do objeto."
+    ],
+    "misconception": "Classificar mando e tato pelo formato da frase.",
+    "followUp": {
+      "prompt": "Quando a mesma palavra poderia funcionar como tato?",
+      "answer": "Quando, por exemplo, estivesse sob controle de uma figura de água e produzisse reforço social generalizado, em uma história apropriada."
+    }
+  },
+  {
+    "id": "basicos-8-practice-2",
+    "lessonId": "basicos-8",
+    "moduleId": "basicos",
+    "level": 2,
+    "pages": [
+      90,
+      107
+    ],
+    "type": "short",
+    "prompt": "Exemplo hipotético: uma pessoa diz “estou triste” para obter concordância, enquanto outra aprende a descrever mudanças privadas relacionadas ao que viveu. Explique por que a frase, sozinha, não assegura autoconhecimento nem a mesma função verbal.",
+    "rubric": [
+      "Expliquei que funções verbais dependem de variáveis de controle e consequências, não só da frase.",
+      "Diferenciei atender expectativas do ouvinte de discriminar aspectos da própria experiência.",
+      "Relacionei autodescrição e aprendizagem social sem exigir acesso externo direto ao evento privado."
+    ],
+    "modelAnswer": "A mesma frase pode ocorrer sob controles diferentes. Se depende sobretudo de obter concordância, não demonstra por si discriminação dos próprios eventos. Aprender a relacionar o contexto e mudanças privadas a descrições pode ampliar autoconhecimento. A comunidade verbal participa dessa aprendizagem, mas a função de cada emissão precisa ser investigada.",
+    "clues": [
+      "obter concordância",
+      "mudanças privadas",
+      "frase, sozinha"
+    ],
+    "reasoning": [
+      "Compare o que controla a emissão em cada situação.",
+      "Separe a aparência de uma autodescrição do repertório de discriminar o próprio comportamento."
+    ],
+    "misconception": "Tomar qualquer relato de sentimento como evidência suficiente de autoconhecimento.",
+    "followUp": {
+      "prompt": "Eventos privados ficam fora da análise por não serem públicos?",
+      "answer": "Não. Eles fazem parte das relações estudadas, embora sua observação e a aprendizagem de descrições tenham particularidades."
+    }
+  },
+  {
+    "id": "basicos-8-practice-3",
+    "lessonId": "basicos-8",
+    "moduleId": "basicos",
+    "level": 3,
+    "pages": [
+      90,
+      107
+    ],
+    "type": "choice",
+    "prompt": "Exemplo hipotético: diante de uma figura, um aluno diz “água” e recebe reconhecimento social. Em outro momento, diz a mesma palavra para receber uma bebida. O que a comparação mostra?",
+    "options": [
+      "A primeira palavra é necessariamente mais verdadeira que a segunda.",
+      "Uma palavra só pode pertencer a uma classe verbal em toda a vida.",
+      "A mesma topografia pode integrar tato ou mando conforme controle e consequência."
+    ],
+    "answer": 2,
+    "rationales": [
+      "A distinção funcional não é uma escala de verdade nem de mérito.",
+      "A história permite a mesma forma sob controles distintos.",
+      "A figura e o reconhecimento social diferem do controle motivacional e reforço específico do pedido."
+    ],
+    "clues": [
+      "diante de uma figura",
+      "reconhecimento social",
+      "receber uma bebida"
+    ],
+    "reasoning": [
+      "Mantenha constante a forma da palavra.",
+      "Compare as variáveis que mudaram entre os episódios.",
+      "Associe cada relação à classe funcional correspondente."
+    ],
+    "misconception": "Supor que a palavra determina sua categoria verbal independentemente do contexto.",
+    "followUp": {
+      "prompt": "Para classificar uma fala longa, basta procurar verbos de pedir?",
+      "answer": "Não. É necessário investigar variáveis motivacionais, estímulos antecedentes e consequências; a forma gramatical não decide sozinha."
+    }
+  },
+  {
+    "id": "historia-1-practice-1",
+    "lessonId": "historia-1",
+    "moduleId": "historia",
+    "level": 1,
+    "pages": [
+      2,
+      20
+    ],
+    "type": "choice",
+    "prompt": "Qual associação resume melhor as ênfases históricas apresentadas para primeira e segunda ondas?",
+    "options": [
+      "Primeira: aprendizagem e validação experimental; segunda: ampliação de abordagens cognitivas e processamento de informação.",
+      "Primeira: exclusivamente ACT; segunda: exclusivamente reflexos incondicionados.",
+      "Primeira: rejeição de experimentação; segunda: um único modelo denominado TCC."
+    ],
+    "answer": 0,
+    "rationales": [
+      "A associação reconhece as ênfases sem transformar cada onda em tradição única.",
+      "ACT é discutida na terceira onda; a segunda não se restringe a reflexos.",
+      "O material destaca validação experimental na primeira e diversidade sob o conjunto TCC."
+    ],
+    "clues": [
+      "ênfases históricas",
+      "primeira",
+      "segunda"
+    ],
+    "reasoning": [
+      "Compare pressupostos e métodos predominantes.",
+      "Evite tratar uma onda como bloco homogêneo sem diferenças internas."
+    ],
+    "misconception": "Imaginar que cada onda equivale a uma única teoria ou técnica.",
+    "followUp": {
+      "prompt": "A primeira onda é sinônimo exclusivo de Behaviorismo Radical?",
+      "answer": "Não. O material reúne tradições distintas dentro dessa classificação histórica."
+    }
+  },
+  {
+    "id": "historia-1-practice-2",
+    "lessonId": "historia-1",
+    "moduleId": "historia",
+    "level": 2,
+    "pages": [
+      2,
+      20
+    ],
+    "type": "short",
+    "prompt": "Diferencie o conjunto amplo chamado TCC da terapia cognitiva de Beck e explique por que a metáfora das ondas não deve ser usada como calendário obrigatório de todo terapeuta ou país.",
+    "rubric": [
+      "Identifiquei a terapia cognitiva de Beck como proposta específica dentro de um campo mais amplo.",
+      "Associei essa proposta ao trabalho com interpretações, crenças ou esquemas, sem atribuir uma única teoria a todas as TCCs.",
+      "Expliquei que ondas organizam tendências históricas e não uma sequência universal obrigatória."
+    ],
+    "modelAnswer": "TCC nomeia um conjunto amplo de abordagens. A terapia cognitiva de Beck é uma proposta específica, que relaciona interpretações, esquemas e crenças às emoções e ações. Ondas organizam ênfases históricas; não descrevem obrigatoriamente o percurso de cada profissional ou a história de cada país.",
+    "clues": [
+      "conjunto amplo",
+      "proposta específica",
+      "calendário obrigatório"
+    ],
+    "reasoning": [
+      "Separe uma categoria abrangente de uma de suas propostas.",
+      "Considere o alcance e os limites de uma classificação histórica."
+    ],
+    "misconception": "Usar TCC como sinônimo exato da terapia de Beck ou ondas como cronologia universal.",
+    "followUp": {
+      "prompt": "Citar reestruturação de crenças identifica todas as práticas de toda TCC?",
+      "answer": "Não. Essa é uma característica importante da terapia cognitiva, mas o conjunto TCC é mais amplo."
+    }
+  },
+  {
+    "id": "historia-1-practice-3",
+    "lessonId": "historia-1",
+    "moduleId": "historia",
+    "level": 3,
+    "pages": [
+      2,
+      20
+    ],
+    "type": "choice",
+    "prompt": "Um debate sobre a contribuição de componentes cognitivos é apresentado no material. Um leitor conclui: “logo, toda TCC é ineficaz”. Qual avaliação é mais rigorosa?",
+    "options": [
+      "A conclusão decorre necessariamente de qualquer debate sobre componentes.",
+      "A conclusão generaliza indevidamente: discutir mecanismos ou componentes não prova ineficácia de todo um conjunto de terapias.",
+      "Não se pode discutir componentes de uma terapia em pesquisa."
+    ],
+    "answer": 1,
+    "rationales": [
+      "Questionar um componente não equivale a demonstrar ausência de resultados em todas as abordagens.",
+      "Distingue debate sobre explicações e componentes de uma conclusão geral sobre eficácia.",
+      "Analisar contribuições de componentes é uma questão legítima; o problema é extrapolar o resultado."
+    ],
+    "clues": [
+      "contribuição de componentes",
+      "toda TCC",
+      "logo"
+    ],
+    "reasoning": [
+      "Identifique o objeto do debate: componentes e explicações.",
+      "Compare esse objeto com a amplitude da conclusão.",
+      "Rejeite a generalização sem inventar resultados externos."
+    ],
+    "misconception": "Converter uma discussão sobre mecanismos em prova de ineficácia geral.",
+    "followUp": {
+      "prompt": "Que tipo de informação seria necessário para avaliar uma afirmação de eficácia?",
+      "answer": "Evidências sobre intervenção, população, comparação, medidas e resultados pertinentes à afirmação, em vez de uma conclusão baseada apenas no rótulo da onda."
+    }
+  },
+  {
+    "id": "historia-2-practice-1",
+    "lessonId": "historia-2",
+    "moduleId": "historia",
+    "level": 1,
+    "pages": [
+      21,
+      31
+    ],
+    "type": "choice",
+    "prompt": "Na apresentação da ACT, qual objetivo expressa melhor flexibilidade psicológica?",
+    "options": [
+      "Eliminar qualquer pensamento desconfortável antes de agir.",
+      "Aceitar toda situação externa sem tentar mudá-la.",
+      "Ampliar contato com o presente e agir ou ajustar ações em função de valores, mesmo com desconforto."
+    ],
+    "answer": 2,
+    "rationales": [
+      "A eliminação obrigatória da experiência interna pode manter a espera e não define o objetivo apresentado.",
+      "Aceitação da experiência interna não equivale a resignação diante de toda condição externa.",
+      "A alternativa conecta contato com a experiência e ação orientada por valores."
+    ],
+    "clues": [
+      "flexibilidade psicológica",
+      "objetivo",
+      "ACT"
+    ],
+    "reasoning": [
+      "Diferencie relação com a experiência interna de obrigação de eliminá-la.",
+      "Conecte valores a ações mantidas ou modificadas conforme o contexto."
+    ],
+    "misconception": "Confundir aceitação com resignação ou ausência total de sofrimento.",
+    "followUp": {
+      "prompt": "Uma ação importante ainda pode ser acompanhada de ansiedade?",
+      "answer": "Sim. A proposta não exige que toda ansiedade desapareça antes de agir."
+    }
+  },
+  {
+    "id": "historia-2-practice-2",
+    "lessonId": "historia-2",
+    "moduleId": "historia",
+    "level": 2,
+    "pages": [
+      21,
+      31
+    ],
+    "type": "short",
+    "prompt": "Exemplo hipotético: alguém pensa “só posso me aproximar de amigos quando não sentir ansiedade”. Reformule o problema a partir de aceitação, valores e ação comprometida, sem prescrever que a pessoa suporte qualquer situação.",
+    "rubric": [
+      "Distingui ter ansiedade de precisar obedecer à regra de esperar seu desaparecimento.",
+      "Identifiquei um valor ou direção, como cultivar vínculos, e uma ação contextualizada coerente com ele.",
+      "Esclareci que aceitação não exige aceitar riscos, abusos ou toda condição externa."
+    ],
+    "modelAnswer": "A pessoa pode aprender a perceber a ansiedade sem fazer de sua ausência uma condição absoluta para cultivar vínculos. Se amizade for uma direção valorizada, uma ação possível seria iniciar um contato escolhido e ajustado ao contexto. Isso não exige permanecer em toda situação nem aceitar condições danosas; a ação é avaliada pelas circunstâncias e pelos valores da própria pessoa.",
+    "clues": [
+      "só posso",
+      "quando não sentir",
+      "aproximar de amigos"
+    ],
+    "reasoning": [
+      "Identifique a regra que restringe a ação.",
+      "Separe desconforto de direção de vida e escolha uma ação compatível com o contexto.",
+      "Declare o limite da aceitação para evitar resignação."
+    ],
+    "misconception": "Transformar aceitação em ordem para suportar qualquer situação.",
+    "followUp": {
+      "prompt": "Valores são uma promessa de que a ação sempre será prazerosa?",
+      "answer": "Não. Orientam escolhas e persistência ou mudança de ações, sem garantir conforto constante."
+    }
+  },
+  {
+    "id": "historia-2-practice-3",
+    "lessonId": "historia-2",
+    "moduleId": "historia",
+    "level": 3,
+    "pages": [
+      21,
+      31
+    ],
+    "type": "choice",
+    "prompt": "Exemplo hipotético: um estudante repete uma frase de aceitação para tentar fazer um pensamento desaparecer imediatamente. Qual questão ajuda mais a avaliar a função dessa estratégia?",
+    "options": [
+      "A repetição amplia a possibilidade de agir conforme valores ou se tornou outra tentativa rígida de eliminar a experiência?",
+      "A frase contém obrigatoriamente todos os nomes do hexaflex?",
+      "A pessoa conseguiu provar que o pensamento é falso antes de fazer qualquer coisa?"
+    ],
+    "answer": 0,
+    "rationales": [
+      "A análise focaliza função e flexibilidade, em vez da aparência de uma técnica.",
+      "Memorizar os seis nomes não demonstra a função da estratégia na vida da pessoa.",
+      "Exigir refutação prévia de todo pensamento não define a proposta apresentada de flexibilidade."
+    ],
+    "clues": [
+      "para tentar fazer",
+      "desaparecer imediatamente",
+      "função"
+    ],
+    "reasoning": [
+      "Observe o objetivo funcional da repetição.",
+      "Compare ampliação de repertório com nova exigência rígida de controle interno.",
+      "Avalie ações e contexto, não apenas a palavra aceitação."
+    ],
+    "misconception": "Supor que usar o vocabulário da ACT garante flexibilidade psicológica.",
+    "followUp": {
+      "prompt": "Repetir uma frase pode ser classificado apenas pela frase?",
+      "answer": "Não. As condições em que ocorre e seus efeitos sobre a ação precisam ser considerados."
+    }
+  },
+  {
+    "id": "historia-3-practice-1",
+    "lessonId": "historia-3",
+    "moduleId": "historia",
+    "level": 1,
+    "pages": [
+      32,
+      35
+    ],
+    "type": "choice",
+    "prompt": "Na FAP, o que torna clinicamente relevante uma resposta que ocorre na sessão?",
+    "options": [
+      "Ela parecer agradável ou educada ao terapeuta.",
+      "Sua função e relação com padrões-problema ou repertórios de melhora do caso.",
+      "Ela mencionar obrigatoriamente o nome de uma emoção."
+    ],
+    "answer": 1,
+    "rationales": [
+      "Agradar pode inclusive repetir um padrão-problema; a aparência não decide.",
+      "A relação funcional com a formulação individual orienta a relevância clínica.",
+      "Nomear uma emoção pode ter diversas funções e não é critério suficiente."
+    ],
+    "clues": [
+      "clinicamente relevante",
+      "na sessão",
+      "FAP"
+    ],
+    "reasoning": [
+      "Compare a resposta com o padrão funcional do caso.",
+      "Não substitua essa comparação por preferência pessoal do terapeuta."
+    ],
+    "misconception": "Equivaler cooperação agradável a melhora clínica.",
+    "followUp": {
+      "prompt": "Discordar do terapeuta pode ser uma melhora?",
+      "answer": "Pode, se ampliar um repertório relevante de expressão e romper um padrão de silenciamento ou esquiva no caso."
+    }
+  },
+  {
+    "id": "historia-3-practice-2",
+    "lessonId": "historia-3",
+    "moduleId": "historia",
+    "level": 2,
+    "pages": [
+      32,
+      35
+    ],
+    "type": "short",
+    "prompt": "Um cliente que costuma evitar rejeição expressa uma discordância ao terapeuta. Relacione esse episódio a observar CCRs, reforçar melhoras e verificar os efeitos da própria resposta do terapeuta.",
+    "rubric": [
+      "Tratei a discordância como possível melhora dependente da função e da história do caso.",
+      "Descrevi uma resposta do terapeuta que acolha ou favoreça essa expressão sem exigir concordância.",
+      "Indiquei a necessidade de observar se a consequência realmente favorece o repertório e sua extensão fora da sessão."
+    ],
+    "modelAnswer": "O terapeuta observa se discordar representa uma mudança em relação ao silenciamento habitual. Pode responder com interesse e abertura, criando uma consequência compatível com a expressão do cliente. Deve verificar os efeitos dessa resposta, em vez de presumir reforço por intenção, e investigar oportunidades de expressão em outros vínculos.",
+    "clues": [
+      "costuma evitar rejeição",
+      "expressa uma discordância",
+      "verificar os efeitos"
+    ],
+    "reasoning": [
+      "Formule a hipótese de melhora a partir da linha de base.",
+      "Relacione a resposta do terapeuta à possível seleção desse repertório.",
+      "Confira o efeito e planeje a investigação da generalização."
+    ],
+    "misconception": "Presumir que toda consequência considerada acolhedora funciona como reforço.",
+    "followUp": {
+      "prompt": "Qual regra da FAP exige olhar para o efeito da resposta do terapeuta?",
+      "answer": "A regra 4: observar os efeitos das respostas do terapeuta."
+    }
+  },
+  {
+    "id": "historia-3-practice-3",
+    "lessonId": "historia-3",
+    "moduleId": "historia",
+    "level": 3,
+    "pages": [
+      32,
+      35
+    ],
+    "type": "choice",
+    "prompt": "Exemplo hipotético: um cliente com padrão de agradar passa a elogiar mais o terapeuta. Este chama isso de CCR2 sem investigar o contexto. Qual risco foi ignorado?",
+    "options": [
+      "Elogios nunca podem ser uma melhora em nenhum caso.",
+      "Comportamentos de sessão são irrelevantes para a FAP.",
+      "A aparente cooperação pode repetir esquiva de rejeição; a função precisa ser comparada com o padrão do caso."
+    ],
+    "answer": 2,
+    "rationales": [
+      "O mesmo formato pode ter funções diferentes; a afirmação universal também seria indevida.",
+      "A interação terapêutica é um contexto central da abordagem apresentada.",
+      "A topografia elogiosa não permite concluir melhora funcional, especialmente nessa história."
+    ],
+    "clues": [
+      "padrão de agradar",
+      "sem investigar",
+      "chama isso de CCR2"
+    ],
+    "reasoning": [
+      "Use a formulação apresentada: agradar pode fazer parte do problema.",
+      "Avalie o que os elogios produzem na interação.",
+      "Evite tanto validar quanto condenar a resposta só por sua forma."
+    ],
+    "misconception": "Rotular uma resposta de CCR2 porque ela é agradável ao terapeuta.",
+    "followUp": {
+      "prompt": "Que dado ajudaria a diferenciar expressão autêntica de esquiva de rejeição?",
+      "answer": "A relação com oportunidades de discordar, expressar preferências e tolerar reações do outro, considerando antecedentes e consequências na interação."
+    }
+  },
+  {
+    "id": "historia-4-practice-1",
+    "lessonId": "historia-4",
+    "moduleId": "historia",
+    "level": 1,
+    "pages": [
+      36,
+      43
+    ],
+    "type": "choice",
+    "prompt": "Qual contribuição é associada à chegada de Fred Keller ao Brasil em 1961?",
+    "options": [
+      "Fortalecimento de ensino, pesquisa, laboratórios e formação de analistas do comportamento.",
+      "Criação de um diagnóstico clínico chamado TAC.",
+      "Importação de uma sequência clínica única que todos os profissionais passaram a seguir."
+    ],
+    "answer": 0,
+    "rationales": [
+      "O material destaca essa articulação de formação e investigação.",
+      "TAC é uma denominação de abordagem clínica proposta posteriormente, não um diagnóstico criado por Keller.",
+      "A história apresentada ressalta uma trajetória brasileira própria, sem modelo clínico único importado."
+    ],
+    "clues": [
+      "Fred Keller",
+      "1961",
+      "contribuição"
+    ],
+    "reasoning": [
+      "Localize a atuação histórica no ensino e na pesquisa.",
+      "Diferencie essa contribuição de propostas de nomeação clínica posteriores."
+    ],
+    "misconception": "Atribuir toda a clínica brasileira a um modelo pronto trazido por um único autor.",
+    "followUp": {
+      "prompt": "A chegada de Keller torna a história brasileira cópia exata das ondas norte-americanas?",
+      "answer": "Não. O material apresenta condições institucionais e construção clínica próprias no Brasil."
+    }
+  },
+  {
+    "id": "historia-4-practice-2",
+    "lessonId": "historia-4",
+    "moduleId": "historia",
+    "level": 2,
+    "pages": [
+      36,
+      43
+    ],
+    "type": "short",
+    "prompt": "Qual a importância da denominação Terapia Analítico-Comportamental, proposta por Tourinho e Cavalcante em 2001, e por que ela não deve ser tratada como um diagnóstico?",
+    "rubric": [
+      "Indiquei que a denominação explicita a fundamentação da prática na Análise do Comportamento.",
+      "Diferenciei essa base de pressupostos cognitivistas sem afirmar que toda terapia comportamental é igual.",
+      "Distingui nome de uma abordagem ou prática clínica de classificação diagnóstica de uma pessoa."
+    ],
+    "modelAnswer": "A denominação explicita a base da prática clínica na Análise do Comportamento e ajuda a distinguir seus pressupostos de propostas cognitivistas. Nomeia uma abordagem ou tradição de trabalho, não uma condição da pessoa. Sua proposição também situa um desenvolvimento histórico brasileiro, em vez de uma técnica isolada.",
+    "clues": [
+      "denominação",
+      "2001",
+      "não deve ser tratada como diagnóstico"
+    ],
+    "reasoning": [
+      "Identifique o objeto nomeado: uma prática clínica.",
+      "Relacione o nome à fundamentação teórica que pretende explicitar."
+    ],
+    "misconception": "Confundir denominação de abordagem com diagnóstico ou técnica única.",
+    "followUp": {
+      "prompt": "Duas práticas podem usar a mesma técnica e ter fundamentações diferentes?",
+      "answer": "Podem. A escolha, a explicação funcional e a avaliação do procedimento dependem da fundamentação e da formulação."
+    }
+  },
+  {
+    "id": "historia-4-practice-3",
+    "lessonId": "historia-4",
+    "moduleId": "historia",
+    "level": 3,
+    "pages": [
+      36,
+      43
+    ],
+    "type": "choice",
+    "prompt": "Exemplo hipotético: uma linha do tempo afirma que a clínica brasileira apenas repetiu, nos mesmos períodos, a sequência norte-americana das três ondas. Qual revisão é mais coerente com o material?",
+    "options": [
+      "Manter a frase, porque classificações históricas sempre se aplicam igualmente a todos os países.",
+      "Incluir a formação acadêmica, o contexto político-universitário e a construção de modelos clínicos locais, sem impor equivalência exata.",
+      "Excluir a contribuição de pesquisadores de outros países, pois uma história própria não pode ter intercâmbio."
+    ],
+    "answer": 1,
+    "rationales": [
+      "A classificação não elimina diferenças nacionais, institucionais e de desenvolvimento clínico.",
+      "A revisão reconhece relações internacionais e as condições particulares da trajetória brasileira.",
+      "Ter características próprias é compatível com intercâmbios e contribuições externas."
+    ],
+    "clues": [
+      "apenas repetiu",
+      "nos mesmos períodos",
+      "clínica brasileira"
+    ],
+    "reasoning": [
+      "Identifique a generalização histórica feita pela frase.",
+      "Compare-a com os marcos locais e as condições institucionais apresentados.",
+      "Inclua intercâmbio sem reduzir a história a uma cópia."
+    ],
+    "misconception": "Usar ondas como uma sequência histórica universal, ignorando contextos locais.",
+    "followUp": {
+      "prompt": "O que a referência ao contexto político e universitário acrescenta?",
+      "answer": "Ajuda a compreender condições que favoreceram ou dificultaram a continuidade de projetos de formação e pesquisa."
+    }
+  },
+  {
+    "id": "funcional-1-practice-1",
+    "lessonId": "funcional-1",
+    "moduleId": "funcional",
+    "level": 1,
+    "pages": [
+      2,
+      5
+    ],
+    "type": "choice",
+    "prompt": "Para iniciar uma análise molecular, qual descrição de resposta é mais operacional?",
+    "options": [
+      "É uma pessoa insegura.",
+      "Tem baixa autoestima porque se sente insegura.",
+      "Recusou o convite e encerrou a conversa."
+    ],
+    "answer": 2,
+    "rationales": [
+      "O rótulo não informa suficientemente o que a pessoa faz no episódio.",
+      "A descrição continua vaga e pode se tornar circular, sem especificar a resposta.",
+      "A descrição permite localizar ações e investigar antecedentes e mudanças produzidas."
+    ],
+    "clues": [
+      "análise molecular",
+      "descrição de resposta",
+      "operacional"
+    ],
+    "reasoning": [
+      "Procure uma ação localizável em um episódio.",
+      "Separe a resposta a investigar de rótulos que pretendem explicá-la."
+    ],
+    "misconception": "Usar traços ou explicações circulares como se fossem descrição de resposta.",
+    "followUp": {
+      "prompt": "Uma descrição operacional demonstra, por si, a função?",
+      "answer": "Não. Ela torna o alvo mais claro, mas a função depende das relações a investigar."
+    }
+  },
+  {
+    "id": "funcional-1-practice-2",
+    "lessonId": "funcional-1",
+    "moduleId": "funcional",
+    "level": 2,
+    "pages": [
+      2,
+      5
+    ],
+    "type": "short",
+    "prompt": "Exemplo hipotético: uma pessoa recebe um convite, recusa e, em seguida, o interlocutor encerra a insistência. Organize A–R–C e explique por que essa sequência ainda não prova reforçamento negativo.",
+    "rubric": [
+      "Separei o convite ou insistência como antecedente, a recusa como resposta e o fim da insistência como consequência possível.",
+      "Expliquei a hipótese de remoção de uma condição aversiva sem tratá-la como fato demonstrado.",
+      "Indiquei a necessidade de investigar contingência e fortalecimento futuro da recusa."
+    ],
+    "modelAnswer": "A: convite e eventual insistência; R: recusar; C: fim da insistência. Se essa mudança depende da recusa, tem função de alívio e fortalece recusas futuras, a hipótese de reforçamento negativo ganha apoio. Apenas observar que a conversa terminou depois não comprova contingência nem o efeito de fortalecimento.",
+    "clues": [
+      "recebe um convite",
+      "recusa",
+      "em seguida"
+    ],
+    "reasoning": [
+      "Coloque cada evento na unidade de análise.",
+      "Diferencie sucessão temporal de produção da consequência.",
+      "Investigue a probabilidade futura da classe de respostas."
+    ],
+    "misconception": "Tomar qualquer sequência A–R–C como demonstração causal suficiente.",
+    "followUp": {
+      "prompt": "O que observar em episódios seguintes?",
+      "answer": "As condições da recusa, se ela encerra a insistência e se tende a ocorrer mais diante de situações semelhantes."
+    }
+  },
+  {
+    "id": "funcional-1-practice-3",
+    "lessonId": "funcional-1",
+    "moduleId": "funcional",
+    "level": 3,
+    "pages": [
+      2,
+      5
+    ],
+    "type": "choice",
+    "prompt": "Exemplo hipotético: ficar horas sem acesso a companhia aumenta o valor de uma conversa; a luz acesa da sala sinaliza que há alguém disponível para conversar. Qual distinção é mais adequada?",
+    "options": [
+      "A restrição de contato pode atuar como operação motivadora; a luz pode ter função discriminativa conforme a história.",
+      "A luz necessariamente aumenta o valor da companhia, e toda privação é um Sd.",
+      "Ambos são reflexos, porque ocorrem antes da resposta."
+    ],
+    "answer": 0,
+    "rationales": [
+      "Distingue alteração de valor da consequência de sinalização de sua disponibilidade, mantendo a dependência da história.",
+      "Troca funções diferentes e atribui função automaticamente a uma condição.",
+      "Ser antecedente não basta para classificar uma relação como respondente."
+    ],
+    "clues": [
+      "aumenta o valor",
+      "sinaliza",
+      "alguém disponível"
+    ],
+    "reasoning": [
+      "Procure a condição que altera o valor da consequência.",
+      "Procure o sinal ligado à disponibilidade daquela consequência para a resposta.",
+      "Lembre que funções devem ser investigadas na história e no contexto."
+    ],
+    "misconception": "Confundir operação motivadora e estímulo discriminativo porque ambos são antecedentes.",
+    "followUp": {
+      "prompt": "Uma lista de antecedentes já define qual é OM e qual é Sd?",
+      "answer": "Não. É preciso investigar suas funções, incluindo alterações de valor e histórias de disponibilidade de consequências."
+    }
+  },
+  {
+    "id": "funcional-2-practice-1",
+    "lessonId": "funcional-2",
+    "moduleId": "funcional",
+    "level": 1,
+    "pages": [
+      6,
+      13
+    ],
+    "type": "choice",
+    "prompt": "No episódio em que Patrícia recusa ajudar uma colega, recebe crítica pública e preserva tempo para sua família e tarefa. O que esse conjunto evidencia?",
+    "options": [
+      "A crítica elimina necessariamente qualquer benefício da recusa.",
+      "Uma mesma resposta pode produzir consequências diferentes, inclusive custos e benefícios.",
+      "Preservar tempo prova que a crítica nunca teve qualquer efeito."
+    ],
+    "answer": 1,
+    "rationales": [
+      "Consequências distintas podem coexistir; não há regra de cancelamento entre elas.",
+      "A análise precisa discriminar cada mudança e seus possíveis processos.",
+      "Benefício numa dimensão não demonstra ausência de efeito da crítica."
+    ],
+    "clues": [
+      "crítica pública",
+      "preserva tempo",
+      "mesma recusa"
+    ],
+    "reasoning": [
+      "Liste separadamente as mudanças produzidas.",
+      "Evite resumir o episódio a uma única consequência global boa ou ruim."
+    ],
+    "misconception": "Supor que cada episódio tem apenas uma consequência e uma função simples.",
+    "followUp": {
+      "prompt": "É suficiente chamar o episódio inteiro de punição ou de reforço?",
+      "answer": "Não. É preciso relacionar cada consequência à resposta e avaliar processos e efeitos pertinentes."
+    }
+  },
+  {
+    "id": "funcional-2-practice-2",
+    "lessonId": "funcional-2",
+    "moduleId": "funcional",
+    "level": 2,
+    "pages": [
+      6,
+      13
+    ],
+    "type": "short",
+    "prompt": "Patrícia pode evitar falar com amigos após experiências de crítica. Formule uma hipótese de efeito imediato e uma possível perda posterior, sem concluir que a hipótese já foi comprovada.",
+    "rubric": [
+      "Indiquei possível redução imediata do contato com críticas ou invalidação.",
+      "Indiquei possível restrição de apoio, intimidade ou contatos reforçadores no futuro.",
+      "Usei linguagem de hipótese e apontei a necessidade de dados sobre contexto e consequências."
+    ],
+    "modelAnswer": "Evitar conversar pode reduzir no curto prazo a exposição a críticas, favorecendo a hipótese de esquiva mantida por alívio. Em prazos maiores, pode restringir apoio e experiências de vínculo. É preciso investigar se essas consequências ocorrem, como dependem da resposta e como alteram o comportamento, em vez de tomar o relato como prova final.",
+    "clues": [
+      "após experiências de crítica",
+      "imediato",
+      "perda posterior"
+    ],
+    "reasoning": [
+      "Separe o resultado de curto prazo das mudanças acumuladas.",
+      "Relacione ambos ao padrão de evitar falar.",
+      "Declare o que ainda exige investigação."
+    ],
+    "misconception": "Pensar que uma resposta prejudicial no longo prazo não pode ser mantida por alívio imediato.",
+    "followUp": {
+      "prompt": "O custo posterior impede a existência de reforçamento negativo imediato?",
+      "answer": "Não. Consequências em diferentes prazos podem exercer efeitos distintos e coexistir."
+    }
+  },
+  {
+    "id": "funcional-2-practice-3",
+    "lessonId": "funcional-2",
+    "moduleId": "funcional",
+    "level": 3,
+    "pages": [
+      6,
+      13
+    ],
+    "type": "choice",
+    "prompt": "Exemplo hipotético a partir do caso: após recusar um pedido, Patrícia recebe crítica e dispõe de mais tempo. O analista conclui que deve eliminar toda recusa. Qual problema central há nessa conclusão?",
+    "options": [
+      "A análise deveria considerar somente a crítica, pois ela é social.",
+      "Recusar é sempre um repertório saudável, qualquer que seja a situação.",
+      "A decisão ignora funções, custos e benefícios do limite, além das alternativas relevantes para Patrícia."
+    ],
+    "answer": 2,
+    "rationales": [
+      "Desconsiderar tempo e atividades significativas empobrece a análise das consequências.",
+      "Também seria indevido atribuir valor universal à topografia recusar.",
+      "O alvo deve ser formulado a partir das relações e da importância para a cliente, não da simples presença de crítica."
+    ],
+    "clues": [
+      "crítica",
+      "mais tempo",
+      "eliminar toda recusa"
+    ],
+    "reasoning": [
+      "Identifique as consequências simultâneas.",
+      "Pergunte quais repertórios e condições ampliariam possibilidades para a cliente.",
+      "Evite transformar desaprovação social em critério único de mudança."
+    ],
+    "misconception": "Eleger um comportamento-alvo apenas pela desaprovação de terceiros.",
+    "followUp": {
+      "prompt": "Qual pergunta ajudaria a escolher um alvo de intervenção?",
+      "answer": "Em quais condições recusar ou aceitar produz quais efeitos, e que alternativas permitiriam proteger atividades importantes e relações relevantes para Patrícia?"
+    }
+  },
+  {
+    "id": "funcional-3-practice-1",
+    "lessonId": "funcional-3",
+    "moduleId": "funcional",
+    "level": 1,
+    "pages": [
+      14,
+      17
+    ],
+    "type": "choice",
+    "prompt": "O que distingue a análise molar do recorte molecular no material?",
+    "options": [
+      "A análise molar articula padrões entre contextos, história e consequências em diferentes prazos.",
+      "A análise molar substitui relações funcionais por um traço fixo de personalidade.",
+      "A análise molar considera apenas o último evento de um episódio."
+    ],
+    "answer": 0,
+    "rationales": [
+      "Ela amplia o recorte e complementa a descrição de episódios.",
+      "Rótulos fixos não substituem investigação de padrões funcionais e condições.",
+      "Um episódio imediato corresponde ao recorte mais próximo da análise molecular."
+    ],
+    "clues": [
+      "molar",
+      "padrões",
+      "recorte molecular"
+    ],
+    "reasoning": [
+      "Compare a escala temporal e contextual das perguntas.",
+      "Reconheça complementaridade, sem transformar um recorte em substituto absoluto do outro."
+    ],
+    "misconception": "Confundir análise molar com rótulo amplo sobre a pessoa.",
+    "followUp": {
+      "prompt": "A análise molar dispensa examinar episódios concretos?",
+      "answer": "Não. Episódios ajudam a sustentar ou revisar hipóteses sobre os padrões mais amplos."
+    }
+  },
+  {
+    "id": "funcional-3-practice-2",
+    "lessonId": "funcional-3",
+    "moduleId": "funcional",
+    "level": 2,
+    "pages": [
+      14,
+      17
+    ],
+    "type": "short",
+    "prompt": "Exemplo hipotético: alguém aprendeu a concordar para evitar críticas na infância e hoje concorda com colegas que lhe dão mais tarefas. Diferencie hipótese de aquisição e hipótese de manutenção atual; cite um dado que ajudaria a investigar cada uma.",
+    "rubric": [
+      "Associei aquisição às experiências anteriores que podem ter estabelecido o repertório.",
+      "Associei manutenção às consequências e condições presentes, que não podem ser deduzidas automaticamente do passado.",
+      "Propus dados da história e dados atuais de episódios e consequências, sem tratar memória como prova causal definitiva."
+    ],
+    "modelAnswer": "A experiência infantil pode informar uma hipótese de aquisição do repertório. Para manutenção atual, é necessário investigar o que acontece hoje quando concorda ou recusa, como alívio de cobranças ou aprovação. Relatos históricos podem ajudar a reconstruir a aquisição, enquanto registros de situações atuais ajudam a testar a manutenção; um passado de críticas não decide sozinho a função presente.",
+    "clues": [
+      "na infância",
+      "hoje",
+      "diferencie"
+    ],
+    "reasoning": [
+      "Localize a época de estabelecimento possível do repertório.",
+      "Formule uma pergunta independente sobre condições atuais.",
+      "Selecione evidências adequadas a cada pergunta."
+    ],
+    "misconception": "Usar a história de aquisição como explicação automática da manutenção presente.",
+    "followUp": {
+      "prompt": "O mesmo comportamento pode persistir hoje por consequências diferentes das iniciais?",
+      "answer": "Pode. As condições mudam e a manutenção atual precisa de investigação própria."
+    }
+  },
+  {
+    "id": "funcional-3-practice-3",
+    "lessonId": "funcional-3",
+    "moduleId": "funcional",
+    "level": 3,
+    "pages": [
+      14,
+      17
+    ],
+    "type": "choice",
+    "prompt": "Exemplo hipotético: dizer sim ocorre no trabalho, com amigos e na família. Um estudante chama isso de uma única classe funcional apenas porque a frase se repete. Qual informação falta principalmente?",
+    "options": [
+      "O número de palavras de cada resposta.",
+      "Se as respostas participam de relações funcionais semelhantes, e não só de formas semelhantes.",
+      "Uma prova de que a pessoa nunca diz não."
+    ],
+    "answer": 1,
+    "rationales": [
+      "O tamanho da frase não estabelece equivalência funcional.",
+      "Um padrão funcional precisa ser sustentado por antecedentes, consequências e história, não pela forma isolada.",
+      "Não é necessário haver ausência absoluta de outra resposta para investigar um padrão."
+    ],
+    "clues": [
+      "trabalho, amigos e família",
+      "porque a frase se repete",
+      "classe funcional"
+    ],
+    "reasoning": [
+      "Reconheça a semelhança topográfica disponível.",
+      "Pergunte se as relações com aprovação, desaprovação ou outras consequências também se repetem.",
+      "Evite definir a classe por frequência ou aparência sozinhas."
+    ],
+    "misconception": "Construir uma classe funcional somente pela semelhança das palavras usadas.",
+    "followUp": {
+      "prompt": "Duas respostas de formas diferentes podem integrar um mesmo padrão?",
+      "answer": "Sim, se a investigação sustentar relações funcionais comuns, como evitar desaprovação em diferentes situações."
+    }
+  },
+  {
+    "id": "funcional-4-practice-1",
+    "lessonId": "funcional-4",
+    "moduleId": "funcional",
+    "level": 1,
+    "pages": [
+      18,
+      21
+    ],
+    "type": "choice",
+    "prompt": "Qual informação identifica corretamente o João do módulo de análise funcional?",
+    "options": [
+      "Tem 31 anos e é o mesmo caso do módulo de intervenções 2.",
+      "Sua orientação sexual é tratada como o problema clínico central a ser eliminado.",
+      "Tem 55 anos, é militar aposentado, e o caso investiga sofrimento, assertividade e contexto social."
+    ],
+    "answer": 2,
+    "rationales": [
+      "O material diferencia explicitamente esse caso do João de 31 anos.",
+      "O foco são sofrimento e relações de controle; orientação sexual não é patologia.",
+      "A descrição identifica o caso e preserva o foco funcional."
+    ],
+    "clues": [
+      "módulo de análise funcional",
+      "identifica corretamente",
+      "João"
+    ],
+    "reasoning": [
+      "Use idade e contexto de vida para distinguir os casos.",
+      "Separe orientação sexual de problemas e contingências investigados."
+    ],
+    "misconception": "Misturar os dois casos chamados João ou patologizar a orientação sexual.",
+    "followUp": {
+      "prompt": "Por que a distinção entre os dois Joões importa para a formulação?",
+      "answer": "Porque histórias, condições atuais e respostas descritas pertencem a casos diferentes e não devem ser transferidas entre eles."
+    }
+  },
+  {
+    "id": "funcional-4-practice-2",
+    "lessonId": "funcional-4",
+    "moduleId": "funcional",
+    "level": 2,
+    "pages": [
+      18,
+      21
+    ],
+    "type": "short",
+    "prompt": "No caso de João, 55 anos, ameaças conjugais, medo de rejeição e apoio da filha aparecem no relato. Explique como esses dados ampliam uma formulação que dissesse apenas “ele não sabe se impor”.",
+    "rubric": [
+      "Mostrei que o rótulo individual não descreve as consequências reais de se expressar.",
+      "Incluí ameaças e rejeição como condições sociais a investigar, sem culpar João por elas.",
+      "Reconheci o apoio da filha como possível contexto protetivo e oportunidade de repertórios alternativos."
+    ],
+    "modelAnswer": "Dizer que ele não sabe se impor omite condições em que se expressar pode produzir ameaças ou rejeição. A formulação precisa investigar esses custos e a história do repertório, sem atribuir a ele a responsabilidade pelas ameaças. O apoio da filha também é relevante por indicar um contexto possivelmente mais favorável à expressão e ao vínculo.",
+    "clues": [
+      "ameaças conjugais",
+      "medo de rejeição",
+      "apoio da filha"
+    ],
+    "reasoning": [
+      "Troque o rótulo por perguntas sobre condições e efeitos.",
+      "Inclua contextos aversivos e também fontes de apoio.",
+      "Considere repertório e ambiente conjuntamente."
+    ],
+    "misconception": "Reduzir dificuldade de assertividade a déficit pessoal, ignorando ameaças e apoio social.",
+    "followUp": {
+      "prompt": "Assertividade deve ser treinada como a mesma resposta em qualquer relação?",
+      "answer": "Não. Função, segurança, possibilidades e consequências do contexto precisam orientar o trabalho."
+    }
+  },
+  {
+    "id": "funcional-4-practice-3",
+    "lessonId": "funcional-4",
+    "moduleId": "funcional",
+    "level": 3,
+    "pages": [
+      18,
+      21
+    ],
+    "type": "choice",
+    "prompt": "Exemplo hipotético de discussão acadêmica: um estudante propõe eliminar a orientação sexual de João, 55 anos, para reduzir conflitos. Qual revisão é coerente com o material?",
+    "options": [
+      "Redefinir o foco para sofrimento, ameaças, medo de rejeição, vínculos e repertórios relevantes, sem tratar a orientação como doença.",
+      "Manter o alvo, porque conflito social comprova patologia da orientação.",
+      "Retirar todos os fatores sociais da análise para evitar temas controversos."
+    ],
+    "answer": 0,
+    "rationales": [
+      "A proposta passa a examinar condições concretas e repertórios sem patologizar a orientação sexual.",
+      "Preconceito ou conflito não transformam a orientação da pessoa em doença.",
+      "Excluir fatores sociais apagaria justamente relações relevantes para a formulação."
+    ],
+    "clues": [
+      "eliminar a orientação",
+      "reduzir conflitos",
+      "revisão"
+    ],
+    "reasoning": [
+      "Identifique a suposição de patologia embutida no alvo.",
+      "Separe características da pessoa das condições que produzem sofrimento.",
+      "Reformule perguntas sobre contingências e possibilidades de vida."
+    ],
+    "misconception": "Tomar a orientação sexual como causa patológica que deve ser modificada.",
+    "followUp": {
+      "prompt": "Investigar expectativas religiosas e familiares exige julgá-las de forma global?",
+      "answer": "Não. Exige examinar como práticas e relações concretas participam do sofrimento, do apoio e das escolhas possíveis no caso."
+    }
+  },
+  {
+    "id": "funcional-5-practice-1",
+    "lessonId": "funcional-5",
+    "moduleId": "funcional",
+    "level": 1,
+    "pages": [
+      22,
+      26
+    ],
+    "type": "choice",
+    "prompt": "No caso de Laura, por que não basta chamar o trabalho excessivo de dedicação?",
+    "options": [
+      "Porque dedicação é sempre uma doença.",
+      "Porque elogios, esquiva de situações sociais e restrição de lazer são relações que precisam ser investigadas.",
+      "Porque trabalhar muitas horas demonstra uma única função em qualquer pessoa."
+    ],
+    "answer": 1,
+    "rationales": [
+      "O problema não é transformar um rótulo positivo em diagnóstico negativo.",
+      "A mesma atividade pode produzir reconhecimento e afastamento de contextos aversivos; essas são hipóteses, não certezas.",
+      "Carga horária isolada não determina função nem a totalidade do caso."
+    ],
+    "clues": [
+      "Laura",
+      "trabalho excessivo",
+      "não basta"
+    ],
+    "reasoning": [
+      "Separe a avaliação social da atividade das consequências que ela produz.",
+      "Investigue reconhecimento, esquiva e custos sem presumir uma única função."
+    ],
+    "misconception": "Confundir valorização social de uma atividade com análise de suas funções e custos.",
+    "followUp": {
+      "prompt": "Receber elogios exclui a possibilidade de esquiva ao trabalhar?",
+      "answer": "Não. Consequências distintas podem participar simultaneamente da manutenção da atividade."
+    }
+  },
+  {
+    "id": "funcional-5-practice-2",
+    "lessonId": "funcional-5",
+    "moduleId": "funcional",
+    "level": 2,
+    "pages": [
+      22,
+      26
+    ],
+    "type": "short",
+    "prompt": "Laura relata zombarias do sotaque, exclusão e pressão por padrões estéticos. Como esses dados devem entrar numa hipótese funcional, e por que seria inadequado explicar tudo como “pensamento negativo dela”?",
+    "rubric": [
+      "Incluí práticas discriminatórias e contingências culturais concretas na história e no contexto.",
+      "Diferenciei as relações sociais reais das interpretações e respostas da cliente.",
+      "Expliquei que investigar repertórios não significa culpabilizar Laura pela discriminação sofrida."
+    ],
+    "modelAnswer": "Zombarias e exclusão são eventos sociais relevantes que podem participar da história de esquiva, pertencimento e busca de reconhecimento. As respostas e interpretações de Laura também podem ser investigadas, mas não substituem essas condições. Reduzir o caso a pensamento negativo apagaria práticas discriminatórias e deslocaria indevidamente sua responsabilidade para a cliente.",
+    "clues": [
+      "zombarias",
+      "exclusão",
+      "padrões estéticos"
+    ],
+    "reasoning": [
+      "Nomeie as práticas do ambiente, não apenas uma reação individual.",
+      "Relacione história, condições presentes e consequências como hipóteses.",
+      "Preserve a diferença entre compreender repertórios e atribuir culpa."
+    ],
+    "misconception": "Individualizar discriminação social, tratando-a apenas como interpretação da cliente.",
+    "followUp": {
+      "prompt": "A análise cultural impede estudar as consequências imediatas do trabalho?",
+      "answer": "Não. Os níveis se articulam: consequências imediatas precisam ser compreendidas junto das condições sociais e da história."
+    }
+  },
+  {
+    "id": "funcional-5-practice-3",
+    "lessonId": "funcional-5",
+    "moduleId": "funcional",
+    "level": 3,
+    "pages": [
+      22,
+      26
+    ],
+    "type": "choice",
+    "prompt": "Exemplo hipotético de formulação do caso: horas extras são seguidas de elogios e reduzem oportunidades de contato social; o relato também inclui práticas alimentares de risco. Qual próximo passo acadêmico é mais sustentado?",
+    "options": [
+      "Prescrever mais horas extras porque os elogios mostram benefício integral.",
+      "Usar a prática alimentar de risco como técnica para elevar autoestima.",
+      "Investigar separadamente as possíveis funções do trabalho e reconhecer os sinais de risco sem convertê-los em estratégia de intervenção."
+    ],
+    "answer": 2,
+    "rationales": [
+      "Elogios não anulam custos nem demonstram benefício global do padrão.",
+      "Um comportamento de risco descrito no caso não é procedimento terapêutico.",
+      "A opção preserva hipóteses múltiplas, avaliação e a distinção entre dado clínico e recomendação."
+    ],
+    "clues": [
+      "elogios",
+      "reduzem oportunidades",
+      "práticas de risco"
+    ],
+    "reasoning": [
+      "Separe mudanças simultâneas decorrentes do trabalho.",
+      "Não tome um sinal de risco como recurso de tratamento.",
+      "Reconheça o que precisa de investigação e avaliação apropriada."
+    ],
+    "misconception": "Transformar sinais de risco ou recompensas imediatas em recomendações sem formulação.",
+    "followUp": {
+      "prompt": "O enunciado demonstra que todas as horas extras têm função de esquiva?",
+      "answer": "Não. Essa é uma hipótese a investigar em episódios, condições e consequências específicos."
+    }
+  },
+  {
+    "id": "intervencao-1-practice-1",
+    "lessonId": "intervencao-1",
+    "moduleId": "intervencao",
+    "level": 1,
+    "pages": [
+      2,
+      3
+    ],
+    "type": "choice",
+    "prompt": "Qual sequência é mais compatível com a escolha de intervenção apresentada no material?",
+    "options": [
+      "Obter dados, definir e operacionalizar alvos, selecionar estratégias coerentes e avaliar seus efeitos continuamente.",
+      "Escolher a técnica preferida e interpretar todos os resultados como confirmação.",
+      "Aplicar a mesma estratégia sempre que duas pessoas recebem o mesmo diagnóstico."
+    ],
+    "answer": 0,
+    "rationales": [
+      "A sequência integra formulação, intervenção e revisão a partir de dados.",
+      "Preferência por uma técnica não substitui análise e avaliação; resultados podem exigir revisão.",
+      "Diagnósticos semelhantes não garantem funções nem necessidades idênticas."
+    ],
+    "clues": [
+      "escolha de intervenção",
+      "dados",
+      "continuamente"
+    ],
+    "reasoning": [
+      "Identifique se a técnica aparece como consequência da formulação ou seu substituto.",
+      "Inclua avaliação como processo contínuo."
+    ],
+    "misconception": "Escolher técnica apenas por familiaridade, diagnóstico ou intenção.",
+    "followUp": {
+      "prompt": "A análise funcional termina quando começa a intervenção?",
+      "answer": "Não. Novos resultados e informações podem alterar hipóteses e escolhas."
+    }
+  },
+  {
+    "id": "intervencao-1-practice-2",
+    "lessonId": "intervencao-1",
+    "moduleId": "intervencao",
+    "level": 2,
+    "pages": [
+      2,
+      3
+    ],
+    "type": "short",
+    "prompt": "Exemplo hipotético: antes de propor ensaio de assertividade a alguém que se cala, quais três perguntas conectariam a técnica à análise funcional?",
+    "rubric": [
+      "Perguntei em quais situações e diante de quais pessoas o silêncio ocorre.",
+      "Perguntei o que o silêncio produz ou evita, incluindo consequências imediatas e posteriores.",
+      "Perguntei qual resposta alternativa seria relevante e viável, e como avaliar seus efeitos."
+    ],
+    "modelAnswer": "Em quais situações a pessoa deixa de expressar opinião? O que muda quando ela se cala ou quando tenta falar? Que forma alternativa de expressão teria importância e viabilidade nesse contexto, e como acompanharíamos seus efeitos? Essas perguntas ligam o ensaio à função e à avaliação, em vez de presumir déficit em toda situação.",
+    "clues": [
+      "antes de propor",
+      "se cala",
+      "conectariam a técnica"
+    ],
+    "reasoning": [
+      "Descreva o contexto e a resposta.",
+      "Investigue consequências que podem manter o silêncio.",
+      "Defina uma alternativa e critérios de avaliação coerentes com o caso."
+    ],
+    "misconception": "Inferir um déficit de habilidade apenas porque uma resposta não aparece.",
+    "followUp": {
+      "prompt": "Saber falar em um ambiente garante que falar terá consequências favoráveis em outro?",
+      "answer": "Não. Repertório disponível e condições para emiti-lo são perguntas relacionadas, mas diferentes."
+    }
+  },
+  {
+    "id": "intervencao-1-practice-3",
+    "lessonId": "intervencao-1",
+    "moduleId": "intervencao",
+    "level": 3,
+    "pages": [
+      2,
+      3
+    ],
+    "type": "choice",
+    "prompt": "Exemplo hipotético: uma técnica produz melhora na medida principal, mas também aumenta esquiva e prejudica uma relação importante. Qual decisão respeita a avaliação funcional contínua?",
+    "options": [
+      "Ignorar os outros efeitos porque a medida principal melhorou.",
+      "Reavaliar custos, condições e alternativas, incluindo os efeitos sobre o alvo e sobre outros repertórios.",
+      "Concluir que toda técnica semelhante é sempre ineficaz."
+    ],
+    "answer": 1,
+    "rationales": [
+      "A melhora de uma medida não torna irrelevantes os demais efeitos para a pessoa.",
+      "A avaliação deve incluir efeitos esperados e outros resultados importantes para reformular a intervenção.",
+      "Um resultado particular exige análise delimitada, não generalização para toda técnica ou população."
+    ],
+    "clues": [
+      "melhora na medida principal",
+      "aumenta esquiva",
+      "relação importante"
+    ],
+    "reasoning": [
+      "Liste os resultados positivos e os custos.",
+      "Relacione-os às metas e à vida da pessoa.",
+      "Reveja a hipótese e o procedimento sem generalizar além dos dados."
+    ],
+    "misconception": "Julgar uma intervenção por uma única medida, ignorando outros efeitos relevantes.",
+    "followUp": {
+      "prompt": "A intenção de ajudar compensa a ausência de avaliação desses efeitos?",
+      "answer": "Não. A intenção não demonstra benefício; é preciso acompanhar resultados e rever a intervenção quando necessário."
+    }
+  },
+  {
+    "id": "intervencao-2-practice-1",
+    "lessonId": "intervencao-2",
+    "moduleId": "intervencao",
+    "level": 1,
+    "pages": [
+      4,
+      11
+    ],
+    "type": "choice",
+    "prompt": "Qual descrição corresponde mais diretamente a um possível CCR3?",
+    "options": [
+      "O cliente deixa de expressar uma discordância na sessão.",
+      "O cliente expressa uma discordância que antes evitava, sem analisar o episódio.",
+      "O cliente relaciona seu silêncio diante de críticas à tentativa de evitar rejeição, incluindo exemplos da sessão."
+    ],
+    "answer": 2,
+    "rationales": [
+      "Pode ser CCR1 conforme o caso, mas não descreve interpretação funcional.",
+      "Pode ser CCR2 conforme a formulação, mas emitir uma melhora não é o mesmo que interpretá-la.",
+      "A interpretação das variáveis do próprio comportamento é o elemento central do CCR3."
+    ],
+    "clues": [
+      "CCR3",
+      "relaciona seu silêncio",
+      "evitar rejeição"
+    ],
+    "reasoning": [
+      "Diferencie emitir um padrão, emitir uma melhora e interpretar relações.",
+      "Localize a descrição funcional do próprio comportamento."
+    ],
+    "misconception": "Confundir CCR3 com qualquer relato ou com a emissão de uma melhora.",
+    "followUp": {
+      "prompt": "Toda explicação que o cliente dá de si é automaticamente um CCR3 funcional?",
+      "answer": "Não. A interpretação precisa relacionar o comportamento a variáveis de controle pertinentes, e sua função também deve ser considerada."
+    }
+  },
+  {
+    "id": "intervencao-2-practice-2",
+    "lessonId": "intervencao-2",
+    "moduleId": "intervencao",
+    "level": 2,
+    "pages": [
+      4,
+      11
+    ],
+    "type": "short",
+    "prompt": "Exemplo hipotético: num caso em que evitar discordância é o padrão-problema, o cliente relata que discordou no trabalho e depois discorda do terapeuta na sessão. Diferencie o relato de uma melhora fora da sessão da emissão de um possível CCR2.",
+    "rubric": [
+      "Distingui narrar um episódio do trabalho de efetivamente discordar na interação terapêutica.",
+      "Classifiquei a discordância em sessão como possível CCR2 por sua relação com o padrão do caso.",
+      "Evitei concluir que qualquer relato ou qualquer discordância é melhora sem analisar sua função."
+    ],
+    "modelAnswer": "Contar que discordou no trabalho é um comportamento de relato em sessão e um dado sobre a vida cotidiana. Discordar do terapeuta é a emissão da resposta na própria relação e pode ser CCR2 se romper a esquiva relevante. O relato não se torna a mesma ocorrência só por descrevê-la; ambos precisam de análise contextual.",
+    "clues": [
+      "relata que discordou",
+      "depois discorda do terapeuta",
+      "na sessão"
+    ],
+    "reasoning": [
+      "Separe o episódio narrado do comportamento que ocorre enquanto ele é narrado.",
+      "Compare a resposta emitida na sessão com a linha de base individual.",
+      "Mantenha a classificação dependente da função."
+    ],
+    "misconception": "Confundir falar sobre uma resposta com emiti-la na sessão.",
+    "followUp": {
+      "prompt": "O ato de relatar também pode ser clinicamente relevante?",
+      "answer": "Pode, se sua função na interação se relacionar à formulação; isso é diferente de tratar o episódio narrado como observado em sessão."
+    }
+  },
+  {
+    "id": "intervencao-2-practice-3",
+    "lessonId": "intervencao-2",
+    "moduleId": "intervencao",
+    "level": 3,
+    "pages": [
+      4,
+      11
+    ],
+    "type": "choice",
+    "prompt": "Exemplo hipotético: em um caso, dizer “não concordo” amplia expressão antes evitada; em outro, a mesma frase serve para encerrar qualquer conversa sobre vulnerabilidade. Qual conclusão é mais sustentada?",
+    "options": [
+      "A frase pode integrar melhora no primeiro caso e padrão-problema no segundo, conforme suas funções e efeitos.",
+      "A frase é sempre CCR2 porque demonstra independência.",
+      "A frase é sempre CCR1 porque é uma oposição."
+    ],
+    "answer": 0,
+    "rationales": [
+      "A comparação mostra por que a classificação depende da formulação individual.",
+      "Aparência de independência não estabelece melhora quando a função é evitar contato relevante.",
+      "Discordância não é problema por definição e pode representar progresso importante."
+    ],
+    "clues": [
+      "expressão antes evitada",
+      "encerrar qualquer conversa",
+      "mesma frase"
+    ],
+    "reasoning": [
+      "Mantenha a topografia constante e compare as relações.",
+      "Avalie se o episódio amplia ou repete o padrão relevante de cada caso.",
+      "Evite usar concordância ou oposição como critérios universais."
+    ],
+    "misconception": "Definir CCR1 ou CCR2 pela forma da resposta em vez de sua função no caso.",
+    "followUp": {
+      "prompt": "Qual referência ajuda a decidir se houve progresso?",
+      "answer": "A linha de base e a formulação individual, incluindo as consequências e a ampliação de repertórios relevantes."
+    }
+  },
+  {
+    "id": "intervencao-3-practice-1",
+    "lessonId": "intervencao-3",
+    "moduleId": "intervencao",
+    "level": 1,
+    "pages": [
+      13,
+      22
+    ],
+    "type": "choice",
+    "prompt": "Qual diferença entre modelagem e modelação está correta?",
+    "options": [
+      "Modelagem é observar um modelo; modelação é punir toda aproximação incompleta.",
+      "Modelagem seleciona aproximações sucessivas por reforçamento diferencial; modelação envolve aprendizagem por observação de um modelo.",
+      "Os termos são sinônimos e não ajudam a distinguir procedimentos."
+    ],
+    "answer": 1,
+    "rationales": [
+      "A primeira definição troca os conceitos, e a segunda não corresponde à modelação.",
+      "Distingue o processo de seleção gradual do recurso de observar modelos.",
+      "Os nomes próximos correspondem a processos distintos, que podem ser articulados."
+    ],
+    "clues": [
+      "modelagem",
+      "modelação",
+      "diferença"
+    ],
+    "reasoning": [
+      "Procure reforçamento diferencial e progressão de critérios para modelagem.",
+      "Procure observação de exemplos para modelação."
+    ],
+    "misconception": "Trocar modelagem e modelação por semelhança dos nomes.",
+    "followUp": {
+      "prompt": "Mostrar um vídeo de uma habilidade define, sozinho, modelagem?",
+      "answer": "Não. Oferece um modelo; para modelagem é necessário reforçamento diferencial de aproximações sucessivas."
+    }
+  },
+  {
+    "id": "intervencao-3-practice-2",
+    "lessonId": "intervencao-3",
+    "moduleId": "intervencao",
+    "level": 2,
+    "pages": [
+      13,
+      22
+    ],
+    "type": "short",
+    "prompt": "Exemplo hipotético: o alvo final é pedir esclarecimento numa conversa difícil. A pessoa já permanece na conversa, mas ainda não faz a pergunta. Proponha uma aproximação selecionável e explique como ajustar o critério, sem exigir o desempenho final de imediato.",
+    "rubric": [
+      "Parti de uma resposta disponível, como permanecer ou iniciar uma frase de dúvida.",
+      "Descrevi reforçamento diferencial de uma aproximação relevante ao alvo.",
+      "Expliquei progressão gradual do critério e acompanhamento dos efeitos, sem tratar qualquer resposta como progresso."
+    ],
+    "modelAnswer": "Podemos começar por uma aproximação disponível e relevante, como permanecer e sinalizar que não compreendeu. Após essa resposta se estabelecer, o critério pode avançar para formular uma pergunta específica. O feedback deve selecionar aproximações ao alvo e seus efeitos devem ser acompanhados; exigir de saída a pergunta completa pode não encontrar repertório selecionável.",
+    "clues": [
+      "já permanece",
+      "ainda não faz a pergunta",
+      "ajustar o critério"
+    ],
+    "reasoning": [
+      "Defina a resposta final.",
+      "Escolha uma aproximação realmente presente.",
+      "Aumente a exigência com base no desempenho, preservando a direção do alvo."
+    ],
+    "misconception": "Confundir modelagem com elogiar qualquer resposta ou exigir o alvo final desde o início.",
+    "followUp": {
+      "prompt": "Manter para sempre o critério inicial caracteriza progressão por aproximações?",
+      "answer": "Não. A modelagem inclui ajustes graduais do critério em direção à resposta-alvo."
+    }
+  },
+  {
+    "id": "intervencao-3-practice-3",
+    "lessonId": "intervencao-3",
+    "moduleId": "intervencao",
+    "level": 3,
+    "pages": [
+      13,
+      22
+    ],
+    "type": "choice",
+    "prompt": "Exemplo hipotético: a terapeuta demonstra como pedir esclarecimento; depois, o cliente ensaia e recebe consequências diferentes conforme se aproxima do pedido-alvo. Como analisar o conjunto?",
+    "options": [
+      "É exclusivamente modelação; observar um modelo impede qualquer outro processo.",
+      "É exclusivamente modelagem; demonstrações não podem participar da aprendizagem.",
+      "Pode articular modelação na demonstração e modelagem no reforçamento diferencial das aproximações."
+    ],
+    "answer": 2,
+    "rationales": [
+      "Oferecer um modelo não exclui o processo posterior de seleção de aproximações.",
+      "O reforçamento diferencial não elimina o papel da observação descrita.",
+      "A análise separa os componentes e admite sua combinação na mesma intervenção."
+    ],
+    "clues": [
+      "demonstra",
+      "cliente ensaia",
+      "consequências diferentes"
+    ],
+    "reasoning": [
+      "Associe cada etapa ao processo que a caracteriza.",
+      "Evite classificar todo o conjunto por apenas uma etapa.",
+      "Confira se há realmente aproximações e critério diferencial."
+    ],
+    "misconception": "Imaginar que modelagem e modelação não podem coexistir numa intervenção.",
+    "followUp": {
+      "prompt": "Qual dado mostraria que a consequência foi de fato reforçadora?",
+      "answer": "O fortalecimento das aproximações relevantes em condições comparáveis, e não apenas a intenção positiva do feedback."
+    }
+  },
+  {
+    "id": "intervencao-4-practice-1",
+    "lessonId": "intervencao-4",
+    "moduleId": "intervencao",
+    "level": 1,
+    "pages": [
+      23,
+      25
+    ],
+    "type": "choice",
+    "prompt": "Qual descrição caracteriza melhor role-play no material?",
+    "options": [
+      "Criar uma situação análoga para ensaiar respostas, ajustar o desempenho e planejar a transferência ao contexto real.",
+      "Substituir toda situação real por um diálogo decorado.",
+      "Exigir que a pessoa apenas ouça uma explicação sem praticar."
+    ],
+    "answer": 0,
+    "rationales": [
+      "A definição reúne ensaio, feedback e relação com situações fora da sessão.",
+      "Decorar um diálogo não assegura flexibilidade nem generalização.",
+      "A explicação pode apoiar o procedimento, mas não substitui o ensaio de respostas."
+    ],
+    "clues": [
+      "role-play",
+      "ensaiar",
+      "contexto real"
+    ],
+    "reasoning": [
+      "Identifique a oportunidade ativa de resposta.",
+      "Inclua feedback e avaliação da transferência, não somente representação."
+    ],
+    "misconception": "Confundir role-play com decorar uma fala ou apenas escutar instruções.",
+    "followUp": {
+      "prompt": "Troca de papéis pode participar do procedimento?",
+      "answer": "Sim. É um dos recursos descritos, selecionado conforme o objetivo e o caso."
+    }
+  },
+  {
+    "id": "intervencao-4-practice-2",
+    "lessonId": "intervencao-4",
+    "moduleId": "intervencao",
+    "level": 2,
+    "pages": [
+      23,
+      25
+    ],
+    "type": "short",
+    "prompt": "Exemplo hipotético inspirado na situação da louça: transforme “ninguém faz nada” em uma fala que descreva a situação e faça um pedido específico. Depois, indique como verificar se o ensaio foi útil fora da sessão.",
+    "rubric": [
+      "Produzi uma descrição específica da situação, evitando uma acusação global como ninguém ou sempre.",
+      "Incluí um pedido observável e contextualizado, podendo nomear o sentimento sem tratá-lo como imposição.",
+      "Indiquei observar oportunidades reais, respostas e consequências, sem garantir generalização só pelo ensaio."
+    ],
+    "modelAnswer": "Uma possibilidade é: “A louça ficou na pia depois do jantar; estou sobrecarregado. Você pode lavar os pratos de hoje?”. O ensaio permite ajustar clareza e contexto, mas a utilidade deve ser acompanhada em situações reais: se houve oportunidade, qual resposta foi emitida e como a outra pessoa reagiu.",
+    "clues": [
+      "ninguém faz nada",
+      "pedido específico",
+      "fora da sessão"
+    ],
+    "reasoning": [
+      "Troque a generalização por eventos observáveis.",
+      "Defina a ação solicitada.",
+      "Planeje medidas de transferência e consequências reais."
+    ],
+    "misconception": "Tomar uma fala considerada correta no ensaio como garantia de efeito no ambiente real.",
+    "followUp": {
+      "prompt": "Uma recusa do interlocutor prova automaticamente que o cliente ensaiou mal?",
+      "answer": "Não. O resultado depende também das condições e respostas do outro; o desempenho e as contingências devem ser examinados separadamente."
+    }
+  },
+  {
+    "id": "intervencao-4-practice-3",
+    "lessonId": "intervencao-4",
+    "moduleId": "intervencao",
+    "level": 3,
+    "pages": [
+      23,
+      25
+    ],
+    "type": "choice",
+    "prompt": "Exemplo hipotético: o cliente executa perfeitamente uma fala ensaiada, mas se cala em casa diante de ameaças. Qual análise evita uma conclusão precipitada?",
+    "options": [
+      "A sessão demonstra que não há nenhuma barreira real; basta mandar repetir a frase.",
+      "Há repertório demonstrado no ensaio, mas ameaças e outras condições do ambiente real precisam entrar no planejamento e na avaliação.",
+      "A diferença prova que role-play nunca funciona."
+    ],
+    "answer": 1,
+    "rationales": [
+      "O desempenho em condição análoga não elimina riscos ou contingências diferentes em casa.",
+      "Distingue habilidade no ensaio de condições reais de emissão e consequência.",
+      "Um caso de transferência não observada não demonstra ineficácia universal do procedimento."
+    ],
+    "clues": [
+      "perfeitamente",
+      "em casa",
+      "diante de ameaças"
+    ],
+    "reasoning": [
+      "Compare os ambientes, não apenas as falas.",
+      "Reconheça o repertório que já foi observado.",
+      "Investigue condições reais antes de atribuir a dificuldade à pessoa ou à técnica em geral."
+    ],
+    "misconception": "Explicar toda ausência de generalização como falta de esforço ou déficit individual.",
+    "followUp": {
+      "prompt": "O próximo ensaio deveria ignorar as consequências reais para simplificar?",
+      "answer": "Não. As condições reais precisam orientar objetivos, alternativas e avaliação, sem pressupor que repetir a fala resolve todo o contexto."
+    }
+  },
+  {
+    "id": "intervencao-5-practice-1",
+    "lessonId": "intervencao-5",
+    "moduleId": "intervencao",
+    "level": 1,
+    "pages": [
+      12,
+      35
+    ],
+    "type": "choice",
+    "prompt": "Qual pergunta favorece mais diretamente a discriminação das consequências de uma ação?",
+    "options": [
+      "Por que você é assim?",
+      "Você não acha que deveria estar feliz?",
+      "O que mudou na situação depois que você fez isso?"
+    ],
+    "answer": 2,
+    "rationales": [
+      "A pergunta é vaga e pode favorecer um rótulo em lugar de relações observáveis.",
+      "A pergunta induz um sentimento esperado pelo ouvinte.",
+      "A formulação direciona a observação às mudanças posteriores relacionadas à resposta."
+    ],
+    "clues": [
+      "consequências",
+      "depois",
+      "mudou"
+    ],
+    "reasoning": [
+      "Identifique qual pergunta aponta para uma relação entre ação e ambiente.",
+      "Descarte perguntas que impõem um sentimento ou apenas um traço pessoal."
+    ],
+    "misconception": "Confundir treino de autoconhecimento com indução de uma resposta emocional considerada correta.",
+    "followUp": {
+      "prompt": "Uma resposta a essa pergunta demonstra causalidade automaticamente?",
+      "answer": "Não. Pode produzir dados e hipóteses que precisam ser investigados junto de outras informações."
+    }
+  },
+  {
+    "id": "intervencao-5-practice-2",
+    "lessonId": "intervencao-5",
+    "moduleId": "intervencao",
+    "level": 2,
+    "pages": [
+      12,
+      35
+    ],
+    "type": "short",
+    "prompt": "Exemplo hipotético: um cliente diz que conhece seu comportamento porque sabe que costuma sair das conversas. Explique o que ainda falta para conhecer variáveis de controle e proponha duas perguntas que ampliem a análise.",
+    "rubric": [
+      "Distingui nomear a resposta de identificar relações que influenciam sua ocorrência.",
+      "Perguntei sobre condições antecedentes ou mudanças motivacionais.",
+      "Perguntei sobre consequências e possíveis diferenças entre contextos."
+    ],
+    "modelAnswer": "Saber que sai descreve a resposta, mas não explica em quais condições ocorre nem o que produz. Poderíamos perguntar: “O que estava acontecendo e sendo dito antes de você sair?” e “O que mudou depois, e isso se repete em outras conversas?”. As respostas podem ajudar a investigar funções, sem presumir que sair seja sempre esquiva.",
+    "clues": [
+      "sabe que costuma sair",
+      "variáveis de controle",
+      "duas perguntas"
+    ],
+    "reasoning": [
+      "Separe descrição da própria ação de explicação funcional.",
+      "Acrescente antecedentes e consequências.",
+      "Mantenha hipóteses abertas até considerar os dados."
+    ],
+    "misconception": "Equiparar reconhecer o que faz a conhecer por que e em quais condições faz.",
+    "followUp": {
+      "prompt": "Nomear uma emoção substitui observar o contexto?",
+      "answer": "Não. O vocabulário emocional pode ajudar, mas a discriminação inclui situações, respostas e mudanças relacionadas."
+    }
+  },
+  {
+    "id": "intervencao-5-practice-3",
+    "lessonId": "intervencao-5",
+    "moduleId": "intervencao",
+    "level": 3,
+    "pages": [
+      12,
+      35
+    ],
+    "type": "choice",
+    "prompt": "Exemplo hipotético: sempre que o terapeuta sugere uma emoção, o cliente concorda rapidamente, mas não relaciona o nome a situações ou sensações. Qual hipótese merece investigação?",
+    "options": [
+      "A concordância pode estar mais sob controle das expectativas do terapeuta do que da discriminação da própria experiência.",
+      "A rapidez prova autoconhecimento preciso e torna desnecessárias outras perguntas.",
+      "Para aprender, o cliente precisa adotar exatamente a emoção escolhida pelo terapeuta."
+    ],
+    "answer": 0,
+    "rationales": [
+      "A hipótese diferencia agradar ao ouvinte de ampliar autodescrição contextualizada.",
+      "Rapidez e concordância não comprovam controle pelos eventos descritos.",
+      "Modelos devem ampliar possibilidades de discriminação, sem impor uma experiência correta."
+    ],
+    "clues": [
+      "sempre que sugere",
+      "concorda rapidamente",
+      "não relaciona"
+    ],
+    "reasoning": [
+      "Observe a relação entre sugestão e resposta verbal.",
+      "Procure evidência de discriminação para além da concordância.",
+      "Considere outras perguntas ou modelos sem exigir o mesmo rótulo."
+    ],
+    "misconception": "Tomar concordância com um modelo de emoção como prova de tato preciso.",
+    "followUp": {
+      "prompt": "Como oferecer um modelo sem impor o sentimento?",
+      "answer": "Apresentando-o como possibilidade e convidando a pessoa a comparar contexto e experiência, admitindo descrições diferentes."
+    }
+  },
+  {
+    "id": "joao-1-practice-1",
+    "lessonId": "joao-1",
+    "moduleId": "joao",
+    "level": 1,
+    "pages": [
+      2,
+      7
+    ],
+    "type": "choice",
+    "prompt": "Qual descrição preserva o foco funcional do caso João, 31 anos?",
+    "options": [
+      "Sua orientação sexual é a doença que explica todos os conflitos.",
+      "O sofrimento é examinado em relação à história de violência, aprovação social, compromissos e dificuldades de intimidade.",
+      "Os acontecimentos da infância determinam todas as respostas atuais, dispensando análise das condições presentes."
+    ],
+    "answer": 1,
+    "rationales": [
+      "A orientação homossexual não é a explicação patológica adotada no aplicativo.",
+      "A descrição articula história e relações relevantes sem transformar identidade em doença.",
+      "A história importa, mas não substitui a investigação da manutenção atual."
+    ],
+    "clues": [
+      "João, 31 anos",
+      "foco funcional",
+      "história"
+    ],
+    "reasoning": [
+      "Diferencie condições e relações investigadas de juízos sobre a pessoa.",
+      "Inclua a história sem presumir determinação automática de todo comportamento."
+    ],
+    "misconception": "Explicar o sofrimento pela orientação sexual ou por um passado tomado como destino.",
+    "followUp": {
+      "prompt": "Esse João é o militar aposentado de 55 anos?",
+      "answer": "Não. São casos diferentes, com histórias e contextos próprios."
+    }
+  },
+  {
+    "id": "joao-1-practice-2",
+    "lessonId": "joao-1",
+    "moduleId": "joao",
+    "level": 2,
+    "pages": [
+      2,
+      7
+    ],
+    "type": "short",
+    "prompt": "O relato contém autodescrições moralizantes de João. Explique como estudá-las como dados do caso sem adotá-las como diagnóstico ou como explicação funcional.",
+    "rubric": [
+      "Tratei os termos como falas e formas de avaliar a si mesmo, não como verdades clínicas sobre a pessoa.",
+      "Propus investigar em quais contextos surgem e que efeitos produzem.",
+      "Distingui juízo moral de relações entre história, resposta e consequências."
+    ],
+    "modelAnswer": "Os termos podem revelar práticas sociais, regras e formas de autorrecriminação aprendidas por João. É possível investigar quando ele os usa, o que antecede essas falas e como afetam suas ações ou relações. Repeti-los como diagnóstico confundiria julgamento com análise e não explicaria as contingências do caso.",
+    "clues": [
+      "autodescrições moralizantes",
+      "como dados",
+      "sem adotá-las"
+    ],
+    "reasoning": [
+      "Identifique quem emite o julgamento e em qual contexto.",
+      "Transforme o julgamento em objeto de investigação.",
+      "Procure relações funcionais em vez de confirmar o rótulo."
+    ],
+    "misconception": "Reproduzir a linguagem moralizante do relato como classificação científica do cliente.",
+    "followUp": {
+      "prompt": "Reconhecer a autocrítica significa concordar com seu conteúdo?",
+      "answer": "Não. Significa reconhecer que essa fala ocorre e investigar sua aprendizagem, função e efeitos."
+    }
+  },
+  {
+    "id": "joao-1-practice-3",
+    "lessonId": "joao-1",
+    "moduleId": "joao",
+    "level": 3,
+    "pages": [
+      2,
+      7
+    ],
+    "type": "choice",
+    "prompt": "Exemplo hipotético de debate sobre o caso: uma equipe observa conflito entre condutas, compromissos e formação religiosa e decide que basta escolher quem está moralmente certo. Qual reformulação favorece a análise?",
+    "options": [
+      "Identificar situações, regras, consequências e repertórios envolvidos, incluindo o que é importante para João e as condições de sofrimento.",
+      "Excluir toda referência à religião, mesmo quando participa das contingências descritas.",
+      "Adotar os julgamentos mais severos do cliente como critério objetivo de saúde."
+    ],
+    "answer": 0,
+    "rationales": [
+      "A reformulação permite investigar os conflitos sem transformar o estudo em julgamento da pessoa.",
+      "Uma condição relevante não precisa ser omitida; deve ser analisada em suas relações concretas.",
+      "A intensidade de uma autocrítica não estabelece critério clínico nem demonstra função."
+    ],
+    "clues": [
+      "conflito",
+      "escolher quem está moralmente certo",
+      "reformulação"
+    ],
+    "reasoning": [
+      "Separe o problema de análise da decisão moral proposta.",
+      "Inclua práticas e regras relevantes sem julgar uma tradição de modo global.",
+      "Defina perguntas sobre ações e consequências para o cliente."
+    ],
+    "misconception": "Substituir formulação funcional por julgamento moral dos conflitos do caso.",
+    "followUp": {
+      "prompt": "É possível analisar uma regra religiosa sem declarar toda religião benéfica ou prejudicial?",
+      "answer": "Sim. A análise examina a função e os efeitos de regras e práticas concretas na história e nas condições do caso."
+    }
+  },
+  {
+    "id": "joao-2-practice-1",
+    "lessonId": "joao-2",
+    "moduleId": "joao",
+    "level": 1,
+    "pages": [
+      8,
+      27
+    ],
+    "type": "choice",
+    "prompt": "O que significa tratar as quatro classes descritas no caso como funcionais?",
+    "options": [
+      "São quatro traços imutáveis que explicam qualquer ação de João.",
+      "Toda resposta com palavras parecidas pertence necessariamente à mesma classe.",
+      "São agrupamentos hipotéticos de respostas por relações de controle, sustentados e revistos a partir dos dados."
+    ],
+    "answer": 2,
+    "rationales": [
+      "Uma classe funcional não é uma essência fixa da pessoa.",
+      "Semelhança de forma não estabelece semelhança de função.",
+      "A classificação organiza a formulação sem dispensar investigação ou revisão."
+    ],
+    "clues": [
+      "classes",
+      "funcionais",
+      "caso"
+    ],
+    "reasoning": [
+      "Diferencie agrupamento funcional de traço de personalidade.",
+      "Considere antecedentes, consequências e história na sustentação das classes."
+    ],
+    "misconception": "Reificar uma classe funcional como característica interna e imutável.",
+    "followUp": {
+      "prompt": "Respostas de formas diferentes podem participar da busca de admiração?",
+      "answer": "Podem, se os dados sustentarem relações funcionais comuns, como relatos de conquistas e ações para obter reconhecimento."
+    }
+  },
+  {
+    "id": "joao-2-practice-2",
+    "lessonId": "joao-2",
+    "moduleId": "joao",
+    "level": 2,
+    "pages": [
+      8,
+      27
+    ],
+    "type": "short",
+    "prompt": "Exemplo hipotético: João muda o assunto quando a conversa se aproxima de vulnerabilidade e também negocia repetidamente o horário. Explique por que não se deve atribuir automaticamente a mesma função às duas respostas e quais dados comparar.",
+    "rubric": [
+      "Distingui topografias diferentes de uma eventual função comum, que ainda precisa ser investigada.",
+      "Propus comparar antecedentes e consequências de cada resposta.",
+      "Considerei hipóteses de esquiva, controle da relação ou outras condições, sem apresentar uma como certa."
+    ],
+    "modelAnswer": "As duas respostas podem participar de esquiva ou controle da interação, mas também podem ter relações diferentes. É preciso comparar o que acontece antes de cada uma e o que muda depois: se o tema aversivo termina, se há aprovação, se existe uma dificuldade prática de horário. A classe deve resultar dos dados, não do simples fato de ambas ocorrerem na terapia.",
+    "clues": [
+      "muda o assunto",
+      "negocia o horário",
+      "automaticamente"
+    ],
+    "reasoning": [
+      "Descreva cada resposta separadamente.",
+      "Mapeie suas condições e consequências.",
+      "Só então avalie se há equivalência funcional."
+    ],
+    "misconception": "Encaixar qualquer comportamento de sessão numa classe já formulada sem checar as relações.",
+    "followUp": {
+      "prompt": "Uma mudança de assunto é sempre esquiva de intimidade?",
+      "answer": "Não. Essa função depende da história e dos efeitos do episódio, não do formato da resposta."
+    }
+  },
+  {
+    "id": "joao-2-practice-3",
+    "lessonId": "joao-2",
+    "moduleId": "joao",
+    "level": 3,
+    "pages": [
+      8,
+      27
+    ],
+    "type": "choice",
+    "prompt": "Ao estudar a classe relacionada a baixo repertório autodiscriminativo, alguém atribui toda sonolência de João exclusivamente à esquiva. Qual conclusão é mais rigorosa?",
+    "options": [
+      "O rótulo dissociativo torna qualquer avaliação adicional desnecessária.",
+      "Sinais somáticos exigem avaliação apropriada; uma hipótese funcional não autoriza excluir outras condições sem investigação.",
+      "Como pode haver fatores orgânicos, nenhuma relação funcional pode ser investigada."
+    ],
+    "answer": 1,
+    "rationales": [
+      "Um termo descritivo não estabelece a causa nem elimina outras condições.",
+      "A formulação deve reconhecer limites e investigar possibilidades relevantes sem exclusividade injustificada.",
+      "Considerar outras condições é compatível com estudar relações comportamentais."
+    ],
+    "clues": [
+      "toda sonolência",
+      "exclusivamente",
+      "sem investigação"
+    ],
+    "reasoning": [
+      "Identifique a atribuição exclusiva que ultrapassa os dados.",
+      "Mantenha a hipótese funcional como hipótese.",
+      "Reconheça a necessidade de avaliação de outras condições pertinentes."
+    ],
+    "misconception": "Dar explicação funcional exclusiva a um sinal somático sem avaliação apropriada.",
+    "followUp": {
+      "prompt": "O relato de um contato sexual fora da sessão é, por si, um CCR observado?",
+      "answer": "Não. É um dado relatado do cotidiano; o comportamento de relatar pode ser analisado na sessão, mas não equivale à observação do episódio narrado."
+    }
+  },
+  {
+    "id": "joao-3-practice-1",
+    "lessonId": "joao-3",
+    "moduleId": "joao",
+    "level": 1,
+    "pages": [
+      28,
+      33
+    ],
+    "type": "choice",
+    "prompt": "Por que expressar frustração à terapeuta pode ser uma melhora no caso João?",
+    "options": [
+      "Porque pode ampliar autoexposição e romper o padrão de esquiva de vulnerabilidade descrito no caso.",
+      "Porque toda emoção desagradável deve ser aumentada em qualquer pessoa.",
+      "Porque ser uma melhora exige sempre concordar mais com a terapeuta."
+    ],
+    "answer": 0,
+    "rationales": [
+      "A avaliação se apoia na relação da resposta com a formulação individual.",
+      "O alvo não é aumentar desconforto por si; é ampliar repertórios relevantes.",
+      "Expressão de divergência pode ser importante justamente quando agradar faz parte do problema."
+    ],
+    "clues": [
+      "expressar frustração",
+      "no caso João",
+      "melhora"
+    ],
+    "reasoning": [
+      "Compare a expressão com o padrão anterior de distanciamento ou esquiva.",
+      "Separe melhora funcional de agradabilidade imediata."
+    ],
+    "misconception": "Equivaler melhora à obediência ou à ausência de emoções desagradáveis.",
+    "followUp": {
+      "prompt": "Uma fala simpática pode repetir o padrão-problema?",
+      "answer": "Pode, se sua função for impressionar e evitar vulnerabilidade, conforme as relações do caso."
+    }
+  },
+  {
+    "id": "joao-3-practice-2",
+    "lessonId": "joao-3",
+    "moduleId": "joao",
+    "level": 2,
+    "pages": [
+      28,
+      33
+    ],
+    "type": "short",
+    "prompt": "O caso diferencia realizar tarefas para impressionar a terapeuta de realizá-las sob controle de benefícios próprios. Explique por que a mesma tarefa concluída não permite concluir a mesma mudança funcional.",
+    "rubric": [
+      "Identifiquei a semelhança observável do resultado: tarefa concluída.",
+      "Diferenciei obter aprovação da terapeuta de entrar em contato com consequências relevantes da própria atividade.",
+      "Propus investigar condições, relatos e efeitos fora da sessão, sem supor acesso direto e infalível à motivação."
+    ],
+    "modelAnswer": "Concluir a tarefa mostra um resultado, mas pode ocorrer sob controles diferentes. Se a função é sobretudo impressionar, pode repetir a busca de aprovação; se há contato com consequências próprias relevantes, pode indicar ampliação de repertório. Essa distinção exige observar condições e efeitos, incluindo o que ocorre sem a presença da terapeuta, e não apenas aceitar uma intenção declarada.",
+    "clues": [
+      "mesma tarefa",
+      "impressionar",
+      "benefícios próprios"
+    ],
+    "reasoning": [
+      "Separe resultado topográfico de relações de controle.",
+      "Compare consequências possíveis.",
+      "Procure dados que diferenciem as hipóteses."
+    ],
+    "misconception": "Tomar cumprimento de tarefa como prova suficiente de autonomia ou mudança funcional.",
+    "followUp": {
+      "prompt": "Fazer uma tarefa para obter aprovação é sempre um problema?",
+      "answer": "Não. Sua relevância depende da formulação, das alternativas e dos efeitos; no caso, é preciso comparar com o padrão de busca de admiração."
+    }
+  },
+  {
+    "id": "joao-3-practice-3",
+    "lessonId": "joao-3",
+    "moduleId": "joao",
+    "level": 3,
+    "pages": [
+      28,
+      33
+    ],
+    "type": "choice",
+    "prompt": "A autorregra “ser mais honesto” teve efeitos distintos no trabalho e no namoro de João. Qual inferência o caso favorece?",
+    "options": [
+      "Uma regra considerada boa produz o mesmo efeito em qualquer contexto.",
+      "Como houve um resultado difícil, toda autoexposição deve ser evitada.",
+      "O efeito de uma regra depende do contexto, das habilidades e das consequências; a generalização precisa ser acompanhada."
+    ],
+    "answer": 2,
+    "rationales": [
+      "A avaliação abstrata da regra não substitui análise das situações em que é aplicada.",
+      "Um resultado não sustenta uma proibição geral de autoexposição.",
+      "A comparação mostra o limite de aplicar uma autorregra de modo indiferenciado."
+    ],
+    "clues": [
+      "efeitos distintos",
+      "trabalho",
+      "namoro"
+    ],
+    "reasoning": [
+      "Mantenha constante a regra e compare as condições.",
+      "Considere o que foi dito, como e a quem, além das consequências.",
+      "Evite transformar um lema em prescrição universal."
+    ],
+    "misconception": "Supor que uma autorregra útil num contexto funciona igualmente em todos os outros.",
+    "followUp": {
+      "prompt": "Que pergunta seria melhor que apenas “João foi honesto?”?",
+      "answer": "Que resposta ele emitiu, em qual situação, com quais habilidades e consequências, e como isso se relacionou ao objetivo do caso?"
+    }
+  },
+  {
+    "id": "joao-4-practice-1",
+    "lessonId": "joao-4",
+    "moduleId": "joao",
+    "level": 1,
+    "pages": [
+      34,
+      36
+    ],
+    "type": "choice",
+    "prompt": "Qual resultado central torna problemática a avaliação do registro proposto para antecipar culpa?",
+    "options": [
+      "Todos os comportamentos-alvo melhoraram sem efeitos indesejados.",
+      "Diminuíram os pensamentos relatados, sem efeito significativo nos contatos descritos, e houve prejuízo às discriminações privadas.",
+      "A diminuição dos registros prova que a necessidade de terapia desapareceu."
+    ],
+    "answer": 1,
+    "rationales": [
+      "O material descreve resultados ambíguos e efeitos indesejados, não melhora global.",
+      "A distinção entre medidas é central: menos relato não demonstrou mudança do alvo e houve custos relevantes.",
+      "A queda no registro não informa sozinha o que ocorreu com o comportamento ou com a observação."
+    ],
+    "clues": [
+      "registro",
+      "antecipar culpa",
+      "resultado central"
+    ],
+    "reasoning": [
+      "Separe pensamentos relatados, contatos e discriminação de eventos privados.",
+      "Compare as medidas antes de julgar o resultado global."
+    ],
+    "misconception": "Confundir supressão de relato com melhora no comportamento-alvo.",
+    "followUp": {
+      "prompt": "Uma medida favorável torna os efeitos indesejados irrelevantes?",
+      "answer": "Não. A avaliação deve incluir resultados e custos importantes para a pessoa."
+    }
+  },
+  {
+    "id": "joao-4-practice-2",
+    "lessonId": "joao-4",
+    "moduleId": "joao",
+    "level": 2,
+    "pages": [
+      34,
+      36
+    ],
+    "type": "short",
+    "prompt": "Exemplo hipotético de avaliação: os registros semanais caem, mas não há dado independente de redução do comportamento-alvo e o cliente passa a evitar observar seus sentimentos. Quais duas interpretações precisam ser distinguidas e que informação ajudaria?",
+    "rubric": [
+      "Distingui redução real do alvo de redução na observação ou no relato.",
+      "Incluí o possível custo de esquiva e perda de discriminação.",
+      "Propus uma medida adicional do alvo e das condições do registro, sem concluir melhora só pela queda das anotações."
+    ],
+    "modelAnswer": "A queda pode refletir menor ocorrência do alvo ou menor observação e relato. A esquiva dos sentimentos sugere que o registro pode ter custos sobre a discriminação. Precisamos acompanhar o alvo por medidas apropriadas e investigar como o procedimento afeta observar e relatar, em vez de usar o total de anotações como substituto automático do comportamento.",
+    "clues": [
+      "registros caem",
+      "sem dado independente",
+      "evitar observar"
+    ],
+    "reasoning": [
+      "Pergunte o que a medida registra diretamente.",
+      "Liste explicações alternativas para sua queda.",
+      "Busque dados que diferenciem essas interpretações."
+    ],
+    "misconception": "Usar a própria adesão ao registro como medida inequívoca da mudança clínica.",
+    "followUp": {
+      "prompt": "O relato de menos pensamentos demonstra necessariamente menos pensamentos ocorridos?",
+      "answer": "Não. Pode refletir mudanças de ocorrência, discriminação ou disposição para relatar; é preciso investigar."
+    }
+  },
+  {
+    "id": "joao-4-practice-3",
+    "lessonId": "joao-4",
+    "moduleId": "joao",
+    "level": 3,
+    "pages": [
+      34,
+      36
+    ],
+    "type": "choice",
+    "prompt": "Um estudante conclui que o procedimento que intensificou culpa deve ser mantido porque sua intenção era reduzir o comportamento-alvo. Qual avaliação decorre do caso?",
+    "options": [
+      "Intenção não comprova benefício; resultados e custos indicam necessidade de revisão da estratégia.",
+      "O fato de haver culpa prova eficácia, independentemente da medida do alvo.",
+      "Se o cliente se autorrecrimina, o analista pode dispensar avaliação."
+    ],
+    "answer": 0,
+    "rationales": [
+      "A decisão deve considerar medidas distintas e efeitos indesejados, inclusive desamparo e prejuízo ao repertório.",
+      "Uma reação emocional não demonstra mudança útil no alvo e pode representar custo.",
+      "Autorrecriminação não substitui dados nem torna o procedimento adequado."
+    ],
+    "clues": [
+      "intenção",
+      "deve ser mantido",
+      "intensificou culpa"
+    ],
+    "reasoning": [
+      "Separe a meta do procedimento dos resultados observados.",
+      "Inclua efeitos sobre outros repertórios e sofrimento.",
+      "Use o conjunto de dados para decidir sobre revisão."
+    ],
+    "misconception": "Justificar a continuidade de uma intervenção por sua intenção ou intensidade emocional.",
+    "followUp": {
+      "prompt": "Rever a técnica significa que a avaliação funcional fracassou?",
+      "answer": "Não. Revisar hipóteses e procedimentos diante de dados é parte da avaliação funcional contínua."
+    }
+  },
+  {
+    "id": "joao-5-practice-1",
+    "lessonId": "joao-5",
+    "moduleId": "joao",
+    "level": 1,
+    "pages": [
+      37,
+      42
+    ],
+    "type": "choice",
+    "prompt": "Qual interpretação é coerente com a abordagem contextual da história de trauma apresentada?",
+    "options": [
+      "O sofrimento atual demonstra culpa da criança pelos eventos sofridos.",
+      "Uma estratégia que teve função protetiva no passado é necessariamente ideal hoje.",
+      "Um repertório pode ter reduzido perigo numa história adversa e hoje ter custos, exigindo análise e ampliação de alternativas."
+    ],
+    "answer": 2,
+    "rationales": [
+      "A responsabilidade pelo abuso não é da criança.",
+      "Função anterior não assegura adequação atual em todo contexto.",
+      "A interpretação reconhece a história sem culpabilizar e permite investigar condições presentes."
+    ],
+    "clues": [
+      "história de trauma",
+      "função protetiva",
+      "custos atuais"
+    ],
+    "reasoning": [
+      "Separe responsabilidade pelo evento da função de respostas de sobrevivência.",
+      "Compare condições antigas e atuais.",
+      "Considere ampliação de repertório sem julgamento moral."
+    ],
+    "misconception": "Culpabilizar a pessoa por repertórios adquiridos em ambientes adversos ou supor que nunca podem mudar.",
+    "followUp": {
+      "prompt": "Compreender a função passada obriga a manter a resposta para sempre?",
+      "answer": "Não. Ajuda a formular sua história e a investigar alternativas nas condições atuais."
+    }
+  },
+  {
+    "id": "joao-5-practice-2",
+    "lessonId": "joao-5",
+    "moduleId": "joao",
+    "level": 2,
+    "pages": [
+      37,
+      42
+    ],
+    "type": "short",
+    "prompt": "Explique a diferença entre estudar academicamente um procedimento de rememoração descrito no caso e recomendá-lo como exercício universal ou de autoaplicação.",
+    "rubric": [
+      "Identifiquei o procedimento como parte de um relato clínico situado, com condições e acompanhamento específicos.",
+      "Expliquei que a descrição de um caso não demonstra adequação ou eficácia universal.",
+      "Distingui análise acadêmica de recomendação para reproduzir a experiência por conta própria."
+    ],
+    "modelAnswer": "Estudar o relato permite analisar a finalidade atribuída, as condições e os resultados descritos. Isso não demonstra que o procedimento seja adequado para toda pessoa nem autoriza convertê-lo em exercício autoguiado. A análise acadêmica mantém o contexto histórico e os limites das evidências, sem pedir ao estudante que reviva experiências traumáticas.",
+    "clues": [
+      "descrita no caso",
+      "universal",
+      "autoaplicação"
+    ],
+    "reasoning": [
+      "Identifique o nível de evidência: relato clínico.",
+      "Diferencie compreender o procedimento de indicá-lo.",
+      "Mantenha os limites de contexto e formação."
+    ],
+    "misconception": "Transformar um procedimento descrito num estudo de caso em receita universal.",
+    "followUp": {
+      "prompt": "Reconhecer esse limite exige apagar o procedimento do material original?",
+      "answer": "Não. É possível preservá-lo como objeto de estudo e explicar criticamente seu alcance e contexto."
+    }
+  },
+  {
+    "id": "joao-5-practice-3",
+    "lessonId": "joao-5",
+    "moduleId": "joao",
+    "level": 3,
+    "pages": [
+      37,
+      42
+    ],
+    "type": "choice",
+    "prompt": "Exemplo hipotético de discussão: um cliente evita proximidade após uma história adversa. Uma formulação diz “ele impede sua própria melhora”; outra investiga funções protetivas, custos atuais e relações não punitivas. Qual é mais coerente com o material?",
+    "options": [
+      "A primeira, pois a intenção atribuída ao cliente explica toda esquiva.",
+      "A segunda, porque contextualiza o repertório e orienta investigação e alternativas sem culpabilização.",
+      "Nenhuma, porque respostas relacionadas a trauma não podem ser analisadas em contexto."
+    ],
+    "answer": 1,
+    "rationales": [
+      "Atribuir uma intenção de impedir melhora substitui investigação por um julgamento.",
+      "A formulação considera história, manutenção atual e ampliação de repertório num contexto empático.",
+      "O material propõe justamente uma compreensão contextual, respeitando os limites clínicos."
+    ],
+    "clues": [
+      "história adversa",
+      "funções protetivas",
+      "não punitivas"
+    ],
+    "reasoning": [
+      "Compare julgamento de intenção com descrição de relações.",
+      "Inclua a possibilidade de uma função anterior protetiva.",
+      "Mantenha a investigação dos custos e alternativas atuais."
+    ],
+    "misconception": "Interpretar esquiva relacionada à história adversa como má vontade ou falha moral.",
+    "followUp": {
+      "prompt": "Empatia dispensa investigar consequências que mantêm o repertório?",
+      "answer": "Não. Empatia e análise funcional podem se complementar no estudo das relações e na construção de alternativas."
+    }
+  },
+  {
+    "id": "bia-1-practice-1",
+    "lessonId": "bia-1",
+    "moduleId": "bia",
+    "level": 1,
+    "pages": [
+      2,
+      7
+    ],
+    "type": "choice",
+    "prompt": "Como devem ser apresentados os critérios da APA de 2002 reproduzidos nos slides?",
+    "options": [
+      "Como critérios históricos do material, sem tratá-los como lista diagnóstica atual.",
+      "Como um teste atual de autodiagnóstico que dispensa avaliação.",
+      "Como regras atemporais, já que aparecem num PDF acadêmico."
+    ],
+    "answer": 0,
+    "rationales": [
+      "A contextualização preserva a fonte e informa seu limite temporal.",
+      "O aplicativo não transforma critérios antigos em instrumento diagnóstico individual.",
+      "A presença em material acadêmico não torna uma edição histórica automaticamente atual."
+    ],
+    "clues": [
+      "APA de 2002",
+      "reproduzidos",
+      "devem ser apresentados"
+    ],
+    "reasoning": [
+      "Localize a edição à qual os critérios pertencem.",
+      "Diferencie consulta histórica de aplicação diagnóstica atual."
+    ],
+    "misconception": "Apresentar critérios antigos como atuais ou utilizá-los para autodiagnóstico.",
+    "followUp": {
+      "prompt": "Preservar o PDF original exige apresentar seus critérios como atuais?",
+      "answer": "Não. É possível preservar a fonte e sinalizar explicitamente seu contexto histórico."
+    }
+  },
+  {
+    "id": "bia-1-practice-2",
+    "lessonId": "bia-1",
+    "moduleId": "bia",
+    "level": 2,
+    "pages": [
+      2,
+      7
+    ],
+    "type": "short",
+    "prompt": "Duas pessoas relatam preocupação com peso e forma. Explique por que essa semelhança não basta para estabelecer diagnóstico nem para concluir que seus comportamentos têm a mesma função.",
+    "rubric": [
+      "Indiquei que uma preocupação isolada não estabelece um diagnóstico.",
+      "Diferenciei descrição clínica de investigação de antecedentes e consequências.",
+      "Expliquei que histórias e funções podem diferir mesmo com queixas parecidas."
+    ],
+    "modelAnswer": "Uma preocupação isolada não reúne informações suficientes para uma conclusão diagnóstica. Além disso, semelhança de queixa não determina função: é preciso investigar história, contextos, ações e consequências de cada pessoa. A descrição clínica e a análise funcional respondem a perguntas relacionadas, mas não intercambiáveis.",
+    "clues": [
+      "duas pessoas",
+      "preocupação com peso e forma",
+      "não basta"
+    ],
+    "reasoning": [
+      "Delimite o que o enunciado informa: uma semelhança descritiva.",
+      "Identifique os dados ausentes para as duas conclusões propostas.",
+      "Separe classificação clínica de relações funcionais."
+    ],
+    "misconception": "Deduzir diagnóstico e função a partir de uma semelhança superficial ou dado isolado.",
+    "followUp": {
+      "prompt": "Receber o mesmo diagnóstico significa ter exatamente o mesmo ciclo de consequências?",
+      "answer": "Não. A análise funcional individual precisa investigar as relações de cada caso."
+    }
+  },
+  {
+    "id": "bia-1-practice-3",
+    "lessonId": "bia-1",
+    "moduleId": "bia",
+    "level": 3,
+    "pages": [
+      2,
+      7
+    ],
+    "type": "choice",
+    "prompt": "Ao criar uma atividade, um estudante usa amenorreia, um limiar percentual de peso e a frequência antiga dos slides como critérios atuais e conclui o diagnóstico do leitor. Qual correção é necessária?",
+    "options": [
+      "Basta trocar a cor do formulário, pois o conteúdo é sempre atual.",
+      "Rotular os critérios como históricos da APA de 2002 e substituir a conclusão individual por uma atividade de interpretação do material.",
+      "Manter o diagnóstico e apenas acrescentar que ele é provável."
+    ],
+    "answer": 1,
+    "rationales": [
+      "Apresentação visual não corrige descontextualização temporal nem uso diagnóstico indevido.",
+      "A correção preserva a fonte como conteúdo histórico e limita a atividade à aprendizagem.",
+      "A palavra provável não resolve a aplicação de uma lista histórica ao leitor."
+    ],
+    "clues": [
+      "como critérios atuais",
+      "conclui o diagnóstico",
+      "antiga"
+    ],
+    "reasoning": [
+      "Identifique o erro temporal e o uso indevido da atividade.",
+      "Preserve o conteúdo histórico com contextualização.",
+      "Evite inferências clínicas individuais a partir do aplicativo."
+    ],
+    "misconception": "Supor que um aviso vago torna válida a aplicação diagnóstica de critérios históricos.",
+    "followUp": {
+      "prompt": "Qual seria uma pergunta acadêmica apropriada sobre essa lista?",
+      "answer": "Por exemplo: quais elementos pertencem à edição histórica citada e por que não devem ser apresentados como critérios atuais?"
+    }
+  },
+  {
+    "id": "bia-2-practice-1",
+    "lessonId": "bia-2",
+    "moduleId": "bia",
+    "level": 1,
+    "pages": [
+      8,
+      11
+    ],
+    "type": "choice",
+    "prompt": "Qual descrição corresponde a uma formulação contextual do caso Bia?",
+    "options": [
+      "O diagnóstico resume toda a história e torna relações familiares irrelevantes.",
+      "Elogios pela aparência demonstram uma causa única e suficiente do quadro.",
+      "História de vínculos, valorização da aparência, comparação e discriminação de estados internos precisam ser articuladas."
+    ],
+    "answer": 2,
+    "rationales": [
+      "O diagnóstico não substitui as perguntas sobre história e relações.",
+      "Um dado da história não demonstra uma causa única para todo o caso.",
+      "A formulação integra informações sem reduzir a pessoa a um rótulo ou fator isolado."
+    ],
+    "clues": [
+      "formulação contextual",
+      "Bia",
+      "história"
+    ],
+    "reasoning": [
+      "Identifique relações que a descrição diagnóstica não explica sozinha.",
+      "Evite substituir o rótulo por outra causa única."
+    ],
+    "misconception": "Reduzir um caso ao diagnóstico ou a um evento isolado.",
+    "followUp": {
+      "prompt": "O término de namoro, sozinho, explica a manutenção atual dos comportamentos?",
+      "answer": "Não. Pode ser um dado histórico relevante, mas as condições atuais mantenedoras precisam ser investigadas."
+    }
+  },
+  {
+    "id": "bia-2-practice-2",
+    "lessonId": "bia-2",
+    "moduleId": "bia",
+    "level": 2,
+    "pages": [
+      8,
+      11
+    ],
+    "type": "short",
+    "prompt": "No relato, a família valoriza aparência, esporte e moda, e a avó é uma relação de maior afinidade. Como considerar esses dados sem concluir que toda a família tem uma única função no caso?",
+    "rubric": [
+      "Considerei práticas e consequências concretas ligadas à aparência, sem tratar família como causa única.",
+      "Diferenciei relações e pessoas, incluindo a afinidade com a avó.",
+      "Propus investigar efeitos particulares das interações na história e nas condições atuais."
+    ],
+    "modelAnswer": "As práticas de valorização da aparência podem participar da história de reforçamento, mas é preciso especificar quem responde a quê e em quais situações. A maior afinidade com a avó indica que as relações não são homogêneas e pode informar fontes de apoio. Não se deduz uma função única para toda a família a partir de um valor compartilhado.",
+    "clues": [
+      "família valoriza",
+      "avó",
+      "sem concluir"
+    ],
+    "reasoning": [
+      "Passe da categoria família a interações específicas.",
+      "Inclua diferenças entre vínculos.",
+      "Investigue consequências em vez de atribuir culpa global."
+    ],
+    "misconception": "Tratar um grupo familiar como uma variável única e homogênea.",
+    "followUp": {
+      "prompt": "Uma mesma pessoa pode oferecer apoio em algumas situações e críticas em outras?",
+      "answer": "Pode. Funções são analisadas nas relações concretas, não fixadas globalmente à pessoa."
+    }
+  },
+  {
+    "id": "bia-2-practice-3",
+    "lessonId": "bia-2",
+    "moduleId": "bia",
+    "level": 3,
+    "pages": [
+      8,
+      11
+    ],
+    "type": "choice",
+    "prompt": "Exemplo hipotético de discussão do caso: Bia tem dificuldade para discriminar fome, saciedade e emoções. Um estudante afirma que basta ensinar nomes de sentimentos. O que falta nessa proposta?",
+    "options": [
+      "Relacionar descrições a contextos, sensações, ações e consequências, verificando se há discriminação além de repetir palavras.",
+      "Exigir que ela adote sempre o sentimento sugerido pelo terapeuta.",
+      "Excluir eventos privados da análise porque não são observáveis por terceiros."
+    ],
+    "answer": 0,
+    "rationales": [
+      "Ampliar vocabulário pode ajudar, mas o objetivo inclui controle pelas condições descritas e não apenas repetição.",
+      "Concordar com o terapeuta pode aumentar controle por expectativas alheias em vez de autoconhecimento.",
+      "Eventos privados são considerados, com particularidades de observação e aprendizagem de suas descrições."
+    ],
+    "clues": [
+      "dificuldade para discriminar",
+      "basta ensinar nomes",
+      "o que falta"
+    ],
+    "reasoning": [
+      "Diferencie repertório de palavras de discriminação dos eventos.",
+      "Inclua situação, experiência e consequências.",
+      "Avalie o que controla as autodescrições."
+    ],
+    "misconception": "Confundir vocabulário emocional com discriminação de estados internos.",
+    "followUp": {
+      "prompt": "Repetir corretamente uma definição de fome comprova discriminar a própria experiência?",
+      "answer": "Não. A relação entre a descrição e as condições vividas precisa ser investigada."
+    }
+  },
+  {
+    "id": "bia-3-practice-1",
+    "lessonId": "bia-3",
+    "moduleId": "bia",
+    "level": 1,
+    "pages": [
+      14,
+      25
+    ],
+    "type": "choice",
+    "prompt": "No ciclo discutido no caso, uma resposta de purgação é seguida de alívio imediato do desconforto e da culpa. Qual hipótese funcional esse alívio sugere, se fortalece a resposta?",
+    "options": [
+      "Punição negativa porque a resposta causa prejuízos depois.",
+      "Reforçamento negativo, pela remoção ou redução de uma condição aversiva.",
+      "Reforçamento positivo definido apenas porque a pessoa considera o resultado bom."
+    ],
+    "answer": 1,
+    "rationales": [
+      "Custos posteriores não definem a relação imediata como punição negativa.",
+      "A hipótese relaciona alívio e fortalecimento, sem negar os prejuízos da resposta.",
+      "A classificação depende de adição ou retirada e efeito, não de uma avaliação moral."
+    ],
+    "clues": [
+      "alívio imediato",
+      "desconforto e culpa",
+      "se fortalece"
+    ],
+    "reasoning": [
+      "Identifique a mudança imediata após a resposta.",
+      "Relacione redução de aversivos a aumento futuro do responder.",
+      "Mantenha separados os efeitos em outros prazos."
+    ],
+    "misconception": "Supor que um comportamento nocivo não pode ser reforçado ou confundir negativo com prejudicial.",
+    "followUp": {
+      "prompt": "A hipótese funcional torna a resposta recomendável?",
+      "answer": "Não. Explicar a manutenção de uma resposta não significa recomendá-la nem desconsiderar seus riscos e custos."
+    }
+  },
+  {
+    "id": "bia-3-practice-2",
+    "lessonId": "bia-3",
+    "moduleId": "bia",
+    "level": 2,
+    "pages": [
+      14,
+      25
+    ],
+    "type": "short",
+    "prompt": "Bia iniciou registros e depois parou ao se deparar com o que fazia. Explique por que o fim das anotações não demonstra o fim dos episódios e proponha uma pergunta sobre a função de registrar ou parar de registrar.",
+    "rubric": [
+      "Diferenciei o comportamento de registrar dos episódios que o registro pretendia acompanhar.",
+      "Considerei que interromper pode alterar contato com desconforto ou exposição, sem afirmar função já comprovada.",
+      "Formulei uma pergunta sobre antecedentes e consequências de registrar e interromper."
+    ],
+    "modelAnswer": "As anotações e os episódios são comportamentos distintos. Parar pode indicar dificuldade de adesão ou esquiva do contato com o que o registro evidencia, não necessariamente redução do alvo. Uma pergunta possível é: “O que acontecia antes, durante e depois de registrar, e o que mudou quando parou?”. Precisamos de dados que distingam essas hipóteses.",
+    "clues": [
+      "iniciou registros",
+      "depois parou",
+      "fim dos episódios"
+    ],
+    "reasoning": [
+      "Identifique o que foi medido diretamente: a anotação.",
+      "Considere explicações alternativas para sua interrupção.",
+      "Investigue as consequências de observar e relatar."
+    ],
+    "misconception": "Tomar ausência de registros como ausência do comportamento registrado.",
+    "followUp": {
+      "prompt": "Uma queda de adesão ao registro deve ser ignorada como mero descuido?",
+      "answer": "Não. Pode informar condições importantes do procedimento e precisa ser investigada sem julgamento moral."
+    }
+  },
+  {
+    "id": "bia-3-practice-3",
+    "lessonId": "bia-3",
+    "moduleId": "bia",
+    "level": 3,
+    "pages": [
+      14,
+      25
+    ],
+    "type": "choice",
+    "prompt": "Exemplo hipotético inspirado no ciclo do caso: uma resposta produz alívio imediato e, mais tarde, intensifica prejuízos. Qual análise de manutenção é mais adequada?",
+    "options": [
+      "Os prejuízos posteriores provam que a resposta nunca foi reforçada.",
+      "A pessoa só mantém a resposta porque desconhece qualquer consequência negativa.",
+      "O alívio de curto prazo pode contribuir para manutenção apesar dos custos posteriores; isso exige investigar a relação e ampliar alternativas."
+    ],
+    "answer": 2,
+    "rationales": [
+      "Consequências em diferentes prazos podem coexistir, sem que uma anule a outra.",
+      "Conhecer custos não garante mudança quando há contingências imediatas fortes e repertório restrito.",
+      "A análise articula temporalidade, função e necessidade de alternativas, sem recomendar a resposta nociva."
+    ],
+    "clues": [
+      "alívio imediato",
+      "mais tarde",
+      "prejuízos"
+    ],
+    "reasoning": [
+      "Separe as consequências por prazo.",
+      "Considere quais delas participam do fortalecimento atual.",
+      "Evite atribuir manutenção apenas a falta de informação ou vontade."
+    ],
+    "misconception": "Supor que saber dos prejuízos basta para interromper um ciclo mantido por consequências imediatas.",
+    "followUp": {
+      "prompt": "Por que estudar os antecedentes, como estar sozinha ou sentir ansiedade?",
+      "answer": "Eles ajudam a identificar condições associadas à ocorrência dos episódios e a formular hipóteses, sem funcionar isoladamente como causas suficientes."
+    }
+  },
+  {
+    "id": "bia-4-practice-1",
+    "lessonId": "bia-4",
+    "moduleId": "bia",
+    "level": 1,
+    "pages": [
+      12,
+      13
+    ],
+    "type": "choice",
+    "prompt": "O caso descreve 61 sessões com várias estratégias. O que se pode afirmar com maior rigor sobre a lista de procedimentos?",
+    "options": [
+      "Ela informa recursos usados, mas não demonstra isoladamente a eficácia de cada componente.",
+      "Ela prova que cada procedimento causou a melhora na mesma proporção.",
+      "Ela autoriza prescrever o mesmo pacote para qualquer pessoa com a mesma queixa."
+    ],
+    "answer": 0,
+    "rationales": [
+      "Um relato com múltiplos componentes não separa automaticamente a contribuição de cada um.",
+      "A contribuição causal individual não decorre de constar na lista.",
+      "Formulações e condições individuais não são substituídas pela semelhança de queixa."
+    ],
+    "clues": [
+      "61 sessões",
+      "várias estratégias",
+      "maior rigor"
+    ],
+    "reasoning": [
+      "Identifique o que o relato descreve e o que não compara separadamente.",
+      "Evite passar de uso de uma técnica a demonstração de sua eficácia isolada."
+    ],
+    "misconception": "Tomar uma lista de técnicas e um resultado de caso como prova causal de cada componente.",
+    "followUp": {
+      "prompt": "A ausência de isolamento dos componentes torna o relato sem valor didático?",
+      "answer": "Não. Ele pode apoiar estudo de formulação e decisões clínicas, desde que seus limites sejam preservados."
+    }
+  },
+  {
+    "id": "bia-4-practice-2",
+    "lessonId": "bia-4",
+    "moduleId": "bia",
+    "level": 2,
+    "pages": [
+      12,
+      13
+    ],
+    "type": "short",
+    "prompt": "Organizar estudos, ampliar lazer e vínculos aparecem entre as possibilidades de ampliação de repertório. Explique sua conexão com o caso sem prometer que uma rotina, sozinha, resolverá o quadro.",
+    "rubric": [
+      "Relacionei essas atividades a oportunidades de reforço que não dependem apenas da aparência.",
+      "Conectei a escolha à história e às condições específicas de Bia.",
+      "Reconheci a necessidade de avaliar efeitos e de integrar outras frentes relevantes, sem garantia de resolução por uma atividade isolada."
+    ],
+    "modelAnswer": "Estudo, lazer e vínculos podem ampliar acesso a consequências importantes além de aparência e comparação. Essa escolha precisa corresponder às condições e ao que é relevante no caso, acompanhando participação e efeitos. Não é uma garantia de resolução: o relato envolve múltiplas estratégias e avaliação de ciclos alimentares, relações e autoconhecimento.",
+    "clues": [
+      "ampliar lazer e vínculos",
+      "conexão com o caso",
+      "sem prometer"
+    ],
+    "reasoning": [
+      "Identifique a função pretendida de ampliar fontes de reforço.",
+      "Relacione-a à formulação e às preferências relevantes.",
+      "Diferencie hipótese de benefício de promessa de resultado."
+    ],
+    "misconception": "Transformar uma atividade genericamente saudável em solução universal sem formulação.",
+    "followUp": {
+      "prompt": "Aumentar atividades sem saber o que produzem garante acesso a reforço?",
+      "answer": "Não. É preciso observar as consequências e sua relação com o repertório e as condições da pessoa."
+    }
+  },
+  {
+    "id": "bia-4-practice-3",
+    "lessonId": "bia-4",
+    "moduleId": "bia",
+    "level": 3,
+    "pages": [
+      12,
+      13
+    ],
+    "type": "choice",
+    "prompt": "Exemplo hipotético de avaliação do caso: após mudanças em estudos, relações familiares e outros procedimentos simultâneos, há melhora. Qual conclusão evita uma atribuição causal indevida?",
+    "options": [
+      "A melhora prova que somente o relaxamento funcionou.",
+      "A mudança foi relatada durante um conjunto de intervenções; esse dado não isola a contribuição de cada procedimento.",
+      "Como houve várias intervenções, não houve melhora real."
+    ],
+    "answer": 1,
+    "rationales": [
+      "Sem comparação específica, não se pode escolher um componente como causa exclusiva.",
+      "Distingue o resultado descrito da pergunta sobre qual componente o produziu.",
+      "Dificuldade de atribuição causal não apaga automaticamente o resultado observado."
+    ],
+    "clues": [
+      "simultâneos",
+      "há melhora",
+      "conclusão"
+    ],
+    "reasoning": [
+      "Reconheça o resultado sem negá-lo.",
+      "Pergunte se o desenho permite separar os componentes.",
+      "Restrinja a inferência causal ao que os dados permitem."
+    ],
+    "misconception": "Escolher retrospectivamente uma técnica como responsável exclusiva por um resultado multicomponente.",
+    "followUp": {
+      "prompt": "O que seria diferente numa investigação da contribuição de um componente?",
+      "answer": "Ela precisaria de comparações e medidas que permitissem distinguir seu efeito das demais mudanças, em condições adequadas à pergunta."
+    }
+  },
+  {
+    "id": "bia-5-practice-1",
+    "lessonId": "bia-5",
+    "moduleId": "bia",
+    "level": 1,
+    "pages": [
+      27,
+      34
+    ],
+    "type": "choice",
+    "prompt": "Um amigo de Bia deixa a escola após uma aprovação. Qual descrição ilustra melhor discriminação de emoções simultâneas?",
+    "options": [
+      "Se estou triste pela distância, não posso estar feliz por ele.",
+      "Só devo dizer a emoção que os outros considerarem adequada.",
+      "Estou feliz pela conquista dele e triste porque vou sentir sua falta."
+    ],
+    "answer": 2,
+    "rationales": [
+      "Aspectos diferentes de uma situação podem se relacionar a sentimentos diferentes.",
+      "A expectativa social pode controlar a fala sem representar a experiência da pessoa.",
+      "A descrição diferencia a conquista e a perda de proximidade, permitindo sentimentos coexistentes."
+    ],
+    "clues": [
+      "aprovação",
+      "deixa a escola",
+      "simultâneas"
+    ],
+    "reasoning": [
+      "Separe aspectos da situação: conquista e distância.",
+      "Relacione cada aspecto à experiência descrita.",
+      "Evite exigir uma única emoção para todo o episódio."
+    ],
+    "misconception": "Supor que emoções diferentes sobre o mesmo evento se anulam ou revelam falsidade.",
+    "followUp": {
+      "prompt": "Reconhecer tristeza significa desejar que o amigo não tenha sido aprovado?",
+      "answer": "Não. A tristeza pela distância pode coexistir com alegria pela conquista do amigo."
+    }
+  },
+  {
+    "id": "bia-5-practice-2",
+    "lessonId": "bia-5",
+    "moduleId": "bia",
+    "level": 2,
+    "pages": [
+      27,
+      34
+    ],
+    "type": "short",
+    "prompt": "Exemplo hipotético: Bia repete uma descrição de si dada por outras pessoas. Que diferença há entre reproduzir esse rótulo e ampliar autoconhecimento? Dê um exemplo de pergunta que favoreça discriminação própria.",
+    "rubric": [
+      "Distingui controle pelas descrições alheias de observar situações e experiências relacionadas ao próprio comportamento.",
+      "Incluí contextos, sensações, sentimentos ou efeitos das ações, além do rótulo.",
+      "Formulei uma pergunta aberta e situada, sem impor a emoção correta."
+    ],
+    "modelAnswer": "Repetir um rótulo pode estar sobretudo sob controle das avaliações dos outros. Ampliar autoconhecimento envolve observar o que acontece, o que faz e sente e quais consequências se seguem. Uma pergunta possível é: “Naquela conversa, o que você percebeu e o que mudou quando respondeu?”. A resposta pode ser diferente do rótulo recebido.",
+    "clues": [
+      "repete uma descrição",
+      "outras pessoas",
+      "discriminação própria"
+    ],
+    "reasoning": [
+      "Identifique a fonte de controle sugerida no enunciado.",
+      "Troque a categoria global por uma situação concreta.",
+      "Abra espaço para observação e descrição sem indução."
+    ],
+    "misconception": "Confundir internalizar avaliações alheias com discriminar a própria experiência.",
+    "followUp": {
+      "prompt": "Autoconhecimento exige rejeitar toda informação de outras pessoas?",
+      "answer": "Não. A origem social da aprendizagem é relevante; o ponto é ampliar discriminação em vez de depender apenas de rótulos e expectativas."
+    }
+  },
+  {
+    "id": "bia-5-practice-3",
+    "lessonId": "bia-5",
+    "moduleId": "bia",
+    "level": 3,
+    "pages": [
+      27,
+      34
+    ],
+    "type": "choice",
+    "prompt": "Exemplo hipotético inspirado nos temas valorizados por Bia: para preservar amizade e sinceridade, ela descreve que está contente e também sentirá saudade. Um colega diz que ela deveria ocultar a tristeza para ser uma boa amiga. Qual análise é mais consistente?",
+    "options": [
+      "A qualidade do vínculo não se reduz a ocultar uma emoção; é possível discriminar sentimentos e avaliar formas de expressá-los no contexto.",
+      "Uma boa amizade exige sentir apenas alegria, porque emoções simultâneas são incoerentes.",
+      "Reconhecer qualquer emoção torna desnecessário avaliar o que a pessoa faz ou seus efeitos."
+    ],
+    "answer": 0,
+    "rationales": [
+      "A análise conecta autoconhecimento, valores e ações contextualizadas, sem prescrever um sentimento único.",
+      "A situação contém aspectos distintos e não exige uma emoção exclusiva.",
+      "Discriminar emoções é parte do repertório; ações e consequências também precisam ser consideradas."
+    ],
+    "clues": [
+      "amizade e sinceridade",
+      "contente e saudade",
+      "deveria ocultar"
+    ],
+    "reasoning": [
+      "Identifique a regra social que exige uma emoção única.",
+      "Reconheça os diferentes aspectos da experiência.",
+      "Relacione expressão, contexto e direções valorizadas sem garantir um efeito universal."
+    ],
+    "misconception": "Confundir valorizar uma relação com obrigação de eliminar ou ocultar toda emoção difícil.",
+    "followUp": {
+      "prompt": "Reconhecer uma emoção obriga a expressá-la de qualquer maneira?",
+      "answer": "Não. Discriminar a experiência e escolher como agir ou se expressar são repertórios relacionados, avaliados conforme o contexto e as consequências."
+    }
+  }
+]
