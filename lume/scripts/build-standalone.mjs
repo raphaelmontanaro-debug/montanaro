@@ -1,0 +1,11 @@
+import {readFile,writeFile,mkdir} from 'node:fs/promises';
+const root = new URL('../',import.meta.url);
+const read=p=>readFile(new URL(p,root),'utf8');
+const [html,css,engine,demo,app,svg]=await Promise.all(['dist/index.html','dist/styles.css','dist/engine.js','dist/demo.js','dist/app.js','dist/icon.svg'].map(read));
+const dataUrl=(text,type)=>`data:${type};base64,${Buffer.from(text).toString('base64')}`;
+const clean=js=>js.replace(/^import .*?;\s*$/gm,'').replace(/^export default .*?;\s*$/gm,'').replace(/^export /gm,'');
+const bundle=[clean(engine),clean(demo),clean(app).replace("import('./vendor/pdf.mjs')","import('https://cdn.jsdelivr.net/npm/pdfjs-dist@4.10.38/build/pdf.mjs')").replace("new URL('./vendor/pdf.worker.mjs',import.meta.url).href","'https://cdn.jsdelivr.net/npm/pdfjs-dist@4.10.38/build/pdf.worker.mjs'")].join('\n').replaceAll('src="icon.svg"',`src="${dataUrl(svg,'image/svg+xml')}"`).replaceAll('</script','<\\/script');
+const output=html.replace('<link rel="stylesheet" href="styles.css">',`<style>${css}</style>`).replace('href="icon.svg"',`href="${dataUrl(svg,'image/svg+xml')}"`).replace('<script type="module" src="app.js"></script>',`<script>${bundle}</script>`);
+await mkdir(new URL('releases/',root),{recursive:true});
+await writeFile(new URL('releases/Lume-Artigos.html',root),output);
+console.log('Aplicativo independente criado: releases/Lume-Artigos.html');
