@@ -1,0 +1,2198 @@
+{
+  "fio-01": [
+    {
+      "id": "fio-01-q1",
+      "prompt": "O celular de Lia vibra. Ela estende a mão e toca na tela. Qual alternativa descreve uma resposta de Lia?",
+      "options": [
+        "A vibração do celular.",
+        "Estender a mão e tocar na tela.",
+        "O celular estar sobre a mesa."
+      ],
+      "answer": 1,
+      "rationales": [
+        "A vibração é um evento ambiental: um estímulo nesta situação.",
+        "Isso descreve o que Lia faz: a resposta que estamos observando.",
+        "A posição do celular faz parte da situação, mas não é uma ação de Lia."
+      ],
+      "clues": [
+        "Separe o que acontece no ambiente do que a pessoa faz.",
+        "Procure um verbo que descreva a ação da pessoa."
+      ],
+      "reasoning": [
+        "Localize a pessoa cujo comportamento está em análise.",
+        "Identifique a ação dessa pessoa.",
+        "Identifique o evento ambiental, sem tratá-lo como se fosse a ação."
+      ],
+      "trap": "O objeto ou acontecimento que chama a atenção não é a resposta da pessoa.",
+      "rebuild": "Pense em uma campainha: o som é um evento ambiental; levantar para atender é uma ação. Primeiro separe essas duas partes.",
+      "followup": {
+        "prompt": "O professor faz uma pergunta. Caio levanta a mão. Qual é a resposta de Caio?",
+        "options": [
+          "Levantar a mão.",
+          "A pergunta do professor.",
+          "A presença da turma."
+        ],
+        "answer": 0,
+        "rationales": [
+          "É a ação de Caio que estamos analisando.",
+          "É uma ação do professor e um evento antecedente para Caio.",
+          "É parte do contexto; não descreve o que Caio fez."
+        ]
+      }
+    },
+    {
+      "id": "fio-01-q2",
+      "prompt": "Um alarme soa e Rui aperta o botão para desligá-lo. Qual evento ambiental aconteceu antes da resposta de apertar?",
+      "options": [
+        "Apertar o botão.",
+        "O silêncio depois de desligar.",
+        "O som do alarme."
+      ],
+      "answer": 2,
+      "rationales": [
+        "Apertar é a resposta, não o evento que veio antes.",
+        "O silêncio veio depois da resposta.",
+        "O alarme soou antes de Rui apertar o botão: é o evento antecedente descrito."
+      ],
+      "clues": [
+        "Separe o que acontece no ambiente do que a pessoa faz.",
+        "Procure um verbo que descreva a ação da pessoa."
+      ],
+      "reasoning": [
+        "Localize a pessoa cujo comportamento está em análise.",
+        "Identifique a ação dessa pessoa.",
+        "Identifique o evento ambiental, sem tratá-lo como se fosse a ação."
+      ],
+      "trap": "O objeto ou acontecimento que chama a atenção não é a resposta da pessoa.",
+      "rebuild": "Pense em uma campainha: o som é um evento ambiental; levantar para atender é uma ação. Primeiro separe essas duas partes.",
+      "followup": {
+        "prompt": "A tela mostra “sua vez” e Nina joga uma carta. O que veio antes da resposta de Nina?",
+        "options": [
+          "A carta jogada por Nina.",
+          "A mensagem “sua vez”.",
+          "A reação dos colegas depois da jogada."
+        ],
+        "answer": 1,
+        "rationales": [
+          "Jogar a carta é a resposta de Nina.",
+          "A mensagem já estava presente quando Nina jogou.",
+          "A reação indicada acontece depois, não antes."
+        ]
+      }
+    },
+    {
+      "id": "fio-01-q3",
+      "prompt": "Na sala de aula, o professor diz “abram o livro”. Beto abre o livro e o professor confirma a página. Qual separação está correta?",
+      "options": [
+        "Situação: sala de aula; evento antecedente: instrução; resposta de Beto: abrir o livro.",
+        "Situação: abrir o livro; resposta de Beto: instrução do professor.",
+        "Resposta de Beto: confirmação do professor; estímulo: abrir o livro."
+      ],
+      "answer": 0,
+      "rationales": [
+        "A alternativa distingue o contexto, um evento que veio antes e a ação de Beto.",
+        "A instrução foi emitida pelo professor; não é uma resposta de Beto.",
+        "A confirmação é uma ação do professor. A resposta de Beto foi abrir o livro."
+      ],
+      "clues": [
+        "Separe o que acontece no ambiente do que a pessoa faz.",
+        "Procure um verbo que descreva a ação da pessoa."
+      ],
+      "reasoning": [
+        "Localize a pessoa cujo comportamento está em análise.",
+        "Identifique a ação dessa pessoa.",
+        "Identifique o evento ambiental, sem tratá-lo como se fosse a ação."
+      ],
+      "trap": "O objeto ou acontecimento que chama a atenção não é a resposta da pessoa.",
+      "rebuild": "Pense em uma campainha: o som é um evento ambiental; levantar para atender é uma ação. Primeiro separe essas duas partes.",
+      "followup": {
+        "prompt": "Na academia, o painel exibe “começar” e Paula inicia a caminhada. Qual análise descreve o comportamento de Paula?",
+        "options": [
+          "O painel caminha e Paula é o estímulo.",
+          "“Começar” é a resposta de Paula.",
+          "O aviso é um evento ambiental; iniciar a caminhada é a resposta de Paula."
+        ],
+        "answer": 2,
+        "rationales": [
+          "Quem caminha é Paula; o painel apresenta o aviso.",
+          "A palavra apareceu no painel; não foi uma ação de Paula.",
+          "O aviso e a ação foram separados corretamente."
+        ]
+      }
+    }
+  ],
+  "fio-02": [
+    {
+      "id": "fio-02-q1",
+      "prompt": "Um clarão intenso elicia o piscar dos olhos. O exemplo destaca qual relação?",
+      "options": [
+        "Respondente: estímulo eliciador → resposta.",
+        "Operante: estudar → receber elogio.",
+        "Nenhuma relação entre organismo e ambiente."
+      ],
+      "answer": 0,
+      "rationales": [
+        "O clarão elicia o piscar: a relação destacada é respondente.",
+        "Não há consequência selecionando o piscar descrito neste exemplo.",
+        "Há uma relação explícita entre o clarão e o piscar."
+      ],
+      "clues": [
+        "Pergunte se há uma reação eliciada por um estímulo ou uma ação relacionada às consequências.",
+        "Voluntário/involuntário não substitui a análise das relações."
+      ],
+      "reasoning": [
+        "Observe qual relação o enunciado destaca.",
+        "Se destaca estímulo eliciador → resposta, examine o respondente.",
+        "Se destaca resposta → consequência e mudanças futuras, examine o operante."
+      ],
+      "trap": "Uma ação não se torna operante só porque parece consciente; uma emoção também pode participar de várias relações.",
+      "rebuild": "Compare o clarão que elicia piscar com fechar a cortina para reduzir a claridade. A relação descrita é o que orienta a análise.",
+      "followup": {
+        "prompt": "Um sopro de ar dirigido ao olho elicia piscar. O que está em primeiro plano?",
+        "options": [
+          "A consequência de ganhar pontos por piscar.",
+          "Uma relação respondente entre sopro e piscar.",
+          "A decisão consciente como definição de respondente."
+        ],
+        "answer": 1,
+        "rationales": [
+          "Nenhum sistema de pontos foi descrito.",
+          "O sopro é o estímulo eliciador da resposta.",
+          "Consciência não define essa relação; precisamos observar estímulo e resposta."
+        ]
+      }
+    },
+    {
+      "id": "fio-02-q2",
+      "prompt": "Dani fecha a cortina, a luz incômoda diminui e, em situações semelhantes, ela passa a fechar a cortina mais vezes. Qual relação está sendo destacada?",
+      "options": [
+        "A luz elicia obrigatoriamente fechar a cortina, como um reflexo.",
+        "Só a posição dos músculos, sem relação com o ambiente.",
+        "Uma resposta operante que se relaciona com sua consequência."
+      ],
+      "answer": 2,
+      "rationales": [
+        "O enunciado destaca o efeito de fechar a cortina sobre a luz e o aumento futuro, não um reflexo eliciado.",
+        "O ambiente muda depois da ação e essa relação importa para o comportamento futuro.",
+        "Fechar a cortina produz uma mudança e se torna mais provável: a análise é operante."
+      ],
+      "clues": [
+        "Pergunte se há uma reação eliciada por um estímulo ou uma ação relacionada às consequências.",
+        "Voluntário/involuntário não substitui a análise das relações."
+      ],
+      "reasoning": [
+        "Observe qual relação o enunciado destaca.",
+        "Se destaca estímulo eliciador → resposta, examine o respondente.",
+        "Se destaca resposta → consequência e mudanças futuras, examine o operante."
+      ],
+      "trap": "Uma ação não se torna operante só porque parece consciente; uma emoção também pode participar de várias relações.",
+      "rebuild": "Compare o clarão que elicia piscar com fechar a cortina para reduzir a claridade. A relação descrita é o que orienta a análise.",
+      "followup": {
+        "prompt": "No jogo, selecionar uma rota produz pontos; com esse resultado, a pessoa passa a escolher essa rota mais vezes. Qual relação aparece?",
+        "options": [
+          "Operante: escolher a rota se relaciona com o que acontece depois.",
+          "Respondente, porque há uma tela antes da ação.",
+          "Não há aprendizagem, pois é um jogo."
+        ],
+        "answer": 0,
+        "rationales": [
+          "A consequência se relaciona com o aumento das escolhas futuras.",
+          "Haver algo antes de uma ação não a transforma em reflexo respondente.",
+          "Jogos também podem conter relações de aprendizagem."
+        ]
+      }
+    },
+    {
+      "id": "fio-02-q3",
+      "prompt": "Um som que foi pareado a um evento aversivo elicia aceleração cardíaca. A pessoa também passa a evitar a sala porque isso reduz seu desconforto. Qual leitura é mais cuidadosa?",
+      "options": [
+        "Tudo é respondente, porque há emoção.",
+        "Há uma relação respondente no coração acelerado e uma relação operante na evitação ligada ao alívio.",
+        "Tudo é operante, porque ambas as respostas acontecem no corpo."
+      ],
+      "answer": 1,
+      "rationales": [
+        "A emoção não elimina a relação entre evitar a sala e obter alívio.",
+        "O mesmo episódio pode reunir processos diferentes: eliciação e ação relacionada a consequências.",
+        "Responder no corpo não define operante; aceleração eliciada e evitação precisam ser distinguidas."
+      ],
+      "clues": [
+        "Pergunte se há uma reação eliciada por um estímulo ou uma ação relacionada às consequências.",
+        "Voluntário/involuntário não substitui a análise das relações."
+      ],
+      "reasoning": [
+        "Observe qual relação o enunciado destaca.",
+        "Se destaca estímulo eliciador → resposta, examine o respondente.",
+        "Se destaca resposta → consequência e mudanças futuras, examine o operante."
+      ],
+      "trap": "Uma ação não se torna operante só porque parece consciente; uma emoção também pode participar de várias relações.",
+      "rebuild": "Compare o clarão que elicia piscar com fechar a cortina para reduzir a claridade. A relação descrita é o que orienta a análise.",
+      "followup": {
+        "prompt": "Um sinal pareado à comida elicia salivação. Apertar uma alavanca produz comida e aumenta com essa consequência. Qual descrição está correta?",
+        "options": [
+          "Os dois exemplos são necessariamente reflexos respondentes.",
+          "Os dois são operantes porque envolvem comida.",
+          "Salivar ao sinal exemplifica uma relação respondente; apertar pela consequência, uma relação operante."
+        ],
+        "answer": 2,
+        "rationales": [
+          "A alavanca é analisada pela consequência que produz e por seu efeito futuro.",
+          "A presença de comida não determina sozinha o processo.",
+          "A classificação acompanha a relação funcional descrita em cada caso."
+        ]
+      }
+    }
+  ],
+  "fio-03": [
+    {
+      "id": "fio-03-q1",
+      "prompt": "O professor propõe um exercício; Lia pede ajuda; o professor explica a primeira etapa. Qual sequência representa A → R → C para pedir ajuda?",
+      "options": [
+        "Explicação → exercício → pedir ajuda.",
+        "Exercício proposto → pedir ajuda → explicação do professor.",
+        "Pedir ajuda → explicação → exercício proposto."
+      ],
+      "answer": 1,
+      "rationales": [
+        "A ordem foi invertida: a explicação veio depois do pedido.",
+        "Antes houve a tarefa, Lia pediu ajuda e depois recebeu a explicação.",
+        "O pedido é a resposta; não veio antes da apresentação da tarefa."
+      ],
+      "clues": [
+        "Organize antes → ação → depois.",
+        "Depois de organizar, procure dados sobre dependência e comportamento futuro."
+      ],
+      "reasoning": [
+        "Defina a resposta que será acompanhada.",
+        "Separe antecedente e evento posterior.",
+        "Pergunte se a consequência depende da resposta e se há evidência de seu efeito."
+      ],
+      "trap": "Vir depois de uma resposta não prova que um evento a mantém; cair de frequência também não identifica sozinho a causa.",
+      "rebuild": "A → R → C é um mapa para investigar. “Depois disso” é uma pista de tempo; “por causa disso” exige evidência adicional.",
+      "followup": {
+        "prompt": "O aplicativo mostra uma pergunta; Ivo seleciona uma alternativa; a tela apresenta feedback. Para selecionar a alternativa, qual é A → R → C?",
+        "options": [
+          "Pergunta → selecionar → feedback.",
+          "Feedback → pergunta → selecionar.",
+          "Selecionar → feedback → pergunta."
+        ],
+        "answer": 0,
+        "rationales": [
+          "A ordem acompanha antes, ação e depois.",
+          "O feedback descrito veio depois da seleção.",
+          "A pergunta estava presente antes da seleção."
+        ]
+      }
+    },
+    {
+      "id": "fio-03-q2",
+      "prompt": "Toda tarde, às 16h, toca uma música automática, qualquer que seja a ação de Leo. Hoje Leo apertou um botão às 15h59 e a música tocou. O que podemos concluir?",
+      "options": [
+        "A música dependeu de apertar, pois veio depois.",
+        "A música necessariamente reforçou apertar o botão.",
+        "A música veio depois, mas o enunciado informa que ela não dependia de apertar."
+      ],
+      "answer": 2,
+      "rationales": [
+        "A programação automática contradiz essa dependência.",
+        "Não há dados sobre aumento do apertar nem uma produção da música pelo botão.",
+        "A sequência temporal existe, mas a música estava programada independentemente da resposta."
+      ],
+      "clues": [
+        "Organize antes → ação → depois.",
+        "Depois de organizar, procure dados sobre dependência e comportamento futuro."
+      ],
+      "reasoning": [
+        "Defina a resposta que será acompanhada.",
+        "Separe antecedente e evento posterior.",
+        "Pergunte se a consequência depende da resposta e se há evidência de seu efeito."
+      ],
+      "trap": "Vir depois de uma resposta não prova que um evento a mantém; cair de frequência também não identifica sozinho a causa.",
+      "rebuild": "A → R → C é um mapa para investigar. “Depois disso” é uma pista de tempo; “por causa disso” exige evidência adicional.",
+      "followup": {
+        "prompt": "O sino toca no horário fixo de saída. Hoje tocou logo depois de Eva espirrar. O que o episódio mostra?",
+        "options": [
+          "Espirrar produziu a saída por definição.",
+          "O sino veio depois do espirro, mas isso não prova uma contingência espirro → sino.",
+          "O sino puniu o espirro, mesmo sem dados posteriores."
+        ],
+        "answer": 1,
+        "rationales": [
+          "O horário do sino não dependia de Eva espirrar.",
+          "Uma sequência temporal, sozinha, não demonstra dependência.",
+          "Faltam dados de efeito, e o sino era programado independentemente do espirro."
+        ]
+      }
+    },
+    {
+      "id": "fio-03-q3",
+      "prompt": "Uma escola acrescenta elogios após participação. Na mesma semana muda o professor e reduz a turma; a participação aumenta. Qual conclusão é mais rigorosa?",
+      "options": [
+        "Os dados sugerem uma hipótese, mas não isolam o efeito dos elogios das outras mudanças.",
+        "O elogio foi comprovado como única causa.",
+        "O aumento mostra punição, porque houve uma intervenção."
+      ],
+      "answer": 0,
+      "rationales": [
+        "Há mudanças simultâneas. É preciso acompanhar e comparar para avaliar a contribuição de cada uma.",
+        "Troca de professor e tamanho da turma são explicações alternativas que precisam ser investigadas.",
+        "Intervenção não significa punição, e o comportamento aumentou."
+      ],
+      "clues": [
+        "Organize antes → ação → depois.",
+        "Depois de organizar, procure dados sobre dependência e comportamento futuro."
+      ],
+      "reasoning": [
+        "Defina a resposta que será acompanhada.",
+        "Separe antecedente e evento posterior.",
+        "Pergunte se a consequência depende da resposta e se há evidência de seu efeito."
+      ],
+      "trap": "Vir depois de uma resposta não prova que um evento a mantém; cair de frequência também não identifica sozinho a causa.",
+      "rebuild": "A → R → C é um mapa para investigar. “Depois disso” é uma pista de tempo; “por causa disso” exige evidência adicional.",
+      "followup": {
+        "prompt": "Depois de começar um registro, o aluno estuda menos; nessa semana também ficou doente e mudou de rotina. Podemos afirmar que o registro puniu estudar?",
+        "options": [
+          "Sim: qualquer queda após algo prova punição.",
+          "Sim: basta a intenção de reduzir o estudo.",
+          "Não: a queda, com outras mudanças, não estabelece que o registro causou essa redução."
+        ],
+        "answer": 2,
+        "rationales": [
+          "Uma queda temporal não isola sua causa.",
+          "Intenção não demonstra efeito e nem foi descrita aqui.",
+          "A interpretação precisa considerar doença, rotina e a relação entre registro e estudo."
+        ]
+      }
+    }
+  ],
+  "fio-04": [
+    {
+      "id": "fio-04-q1",
+      "prompt": "No exemplo didático, receber feedback imediato após concluir exercícios aumenta a frequência de concluir exercícios. Qual distinção está correta?",
+      "options": [
+        "Feedback é o reforçamento; aumento é o objeto reforçador.",
+        "Reforçamento é o processo de fortalecimento; o feedback funcionou como reforçador nessa relação.",
+        "Qualquer feedback é sempre reforçador para todas as pessoas."
+      ],
+      "answer": 1,
+      "rationales": [
+        "O evento é o feedback; reforçamento nomeia a relação/processo, não um objeto.",
+        "A alternativa distingue o processo do evento que teve função fortalecedora.",
+        "A função depende da pessoa, do contexto e do efeito observado."
+      ],
+      "clues": [
+        "Procure o que aconteceu com a resposta ao longo das oportunidades.",
+        "Diferencie o processo daquilo que funcionou como consequência."
+      ],
+      "reasoning": [
+        "Nomeie a resposta.",
+        "Verifique se a consequência a fortaleceu em condições comparáveis.",
+        "Chame o processo de reforçamento e a consequência eficaz de reforçador."
+      ],
+      "trap": "“Recompensa” planejada e intenção de agradar não garantem que a consequência funcione como reforçadora.",
+      "rebuild": "A seta é a ideia central: R → consequência → R ↑. O processo é reforçamento; o evento que fortaleceu essa resposta funcionou como reforçador.",
+      "followup": {
+        "prompt": "Um ponto após cada atividade passa a aumentar a entrega de atividades. O que é o ponto nessa relação?",
+        "options": [
+          "O processo inteiro de reforçamento.",
+          "Uma resposta do aluno.",
+          "Um evento que funcionou como reforçador da entrega."
+        ],
+        "answer": 2,
+        "rationales": [
+          "O ponto é um evento da relação, não o processo inteiro.",
+          "A resposta-alvo é entregar a atividade; o ponto é apresentado depois.",
+          "O aumento da entrega sustenta a função reforçadora do ponto nesse exemplo."
+        ]
+      }
+    },
+    {
+      "id": "fio-04-q2",
+      "prompt": "A professora oferece adesivos para incentivar leitura. Após acompanhamento em condições comparáveis, a leitura não aumenta. O que é adequado dizer?",
+      "options": [
+        "A intenção torna o adesivo reforçador, mesmo sem efeito.",
+        "A ausência de aumento prova que o adesivo foi punição.",
+        "O adesivo foi uma recompensa planejada, mas sua função reforçadora não foi demonstrada."
+      ],
+      "answer": 2,
+      "rationales": [
+        "A função não é definida pela intenção da professora.",
+        "Sem aumento não é o mesmo que redução produzida pela consequência.",
+        "Planejar uma recompensa e demonstrar reforçamento são coisas diferentes."
+      ],
+      "clues": [
+        "Procure o que aconteceu com a resposta ao longo das oportunidades.",
+        "Diferencie o processo daquilo que funcionou como consequência."
+      ],
+      "reasoning": [
+        "Nomeie a resposta.",
+        "Verifique se a consequência a fortaleceu em condições comparáveis.",
+        "Chame o processo de reforçamento e a consequência eficaz de reforçador."
+      ],
+      "trap": "“Recompensa” planejada e intenção de agradar não garantem que a consequência funcione como reforçadora.",
+      "rebuild": "A seta é a ideia central: R → consequência → R ↑. O processo é reforçamento; o evento que fortaleceu essa resposta funcionou como reforçador.",
+      "followup": {
+        "prompt": "Um aplicativo oferece medalhas para aumentar estudo, mas ainda não há dados do comportamento. Qual frase é mais precisa?",
+        "options": [
+          "As medalhas são candidatas a reforçadores; precisamos avaliar o efeito sobre estudar.",
+          "Medalhas reforçam estudar por definição.",
+          "Sem dados, sabemos que houve punição."
+        ],
+        "answer": 0,
+        "rationales": [
+          "A intenção fornece uma hipótese que precisa ser avaliada.",
+          "O nome ou aparência do prêmio não demonstra sua função.",
+          "Falta de evidência de reforçamento não prova outro processo."
+        ]
+      }
+    },
+    {
+      "id": "fio-04-q3",
+      "prompt": "No estudo hipotético, pontos aumentam entregas de Ana, mas não mudam as entregas de Rui. Qual conclusão cabe aos dados?",
+      "options": [
+        "Os pontos funcionaram como reforçadores das entregas de Ana; esse efeito não foi demonstrado para Rui.",
+        "Pontos são reforçadores universais; Rui também teve aumento invisível.",
+        "A mesma consequência tem obrigatoriamente a mesma função para todos."
+      ],
+      "answer": 0,
+      "rationales": [
+        "A função é examinada em cada relação, com seus dados e condições.",
+        "Não podemos inventar um efeito que não aparece nos dados.",
+        "História e contexto podem modificar a função de um mesmo evento."
+      ],
+      "clues": [
+        "Procure o que aconteceu com a resposta ao longo das oportunidades.",
+        "Diferencie o processo daquilo que funcionou como consequência."
+      ],
+      "reasoning": [
+        "Nomeie a resposta.",
+        "Verifique se a consequência a fortaleceu em condições comparáveis.",
+        "Chame o processo de reforçamento e a consequência eficaz de reforçador."
+      ],
+      "trap": "“Recompensa” planejada e intenção de agradar não garantem que a consequência funcione como reforçadora.",
+      "rebuild": "A seta é a ideia central: R → consequência → R ↑. O processo é reforçamento; o evento que fortaleceu essa resposta funcionou como reforçador.",
+      "followup": {
+        "prompt": "Conversar com colegas após uma tarefa aumenta a realização dessa tarefa para Bia, mas não para Teo. O que muda?",
+        "options": [
+          "A palavra “conversar” passa a definir o processo sem olhar o efeito.",
+          "A função reforçadora foi observada para Bia, não demonstrada para Teo.",
+          "Se Teo não aumentou, Bia também não pode ter aumentado."
+        ],
+        "answer": 1,
+        "rationales": [
+          "O nome do evento não substitui a análise de seu efeito.",
+          "As duas relações precisam ser avaliadas separadamente.",
+          "As pessoas podem responder de modo diferente à mesma consequência."
+        ]
+      }
+    }
+  ],
+  "fio-05": [
+    {
+      "id": "fio-05-q1",
+      "prompt": "R → algo é retirado → R aumenta pela consequência. Quais descrições combinam com essa sequência?",
+      "options": [
+        "Negativo e reforçamento.",
+        "Positivo e punição.",
+        "Negativo e punição."
+      ],
+      "answer": 0,
+      "rationales": [
+        "Retirar corresponde a negativo; fortalecer corresponde a reforçamento.",
+        "Nada foi adicionado e a resposta não diminuiu.",
+        "Retirar é negativo, mas aumentar indica reforçamento, não punição."
+      ],
+      "clues": [
+        "Faça duas perguntas separadas: entrou/saiu? aumentou/diminuiu?",
+        "Não use bom/ruim como tradução de positivo/negativo."
+      ],
+      "reasoning": [
+        "Veja se um estímulo foi apresentado ou retirado após a resposta.",
+        "Consulte o efeito futuro atribuído à consequência no enunciado.",
+        "Combine o sinal da operação com a direção da mudança da resposta."
+      ],
+      "trap": "Positivo não significa bom; negativo não significa ruim. São operações de adicionar e retirar.",
+      "rebuild": "Use dois eixos: adicionar (+) ou retirar (−); fortalecer (↑) ou reduzir (↓). Primeiro descreva cada eixo, depois junte os nomes.",
+      "followup": {
+        "prompt": "R → algo é apresentado → R aumenta pela consequência. Qual combinação está correta?",
+        "options": [
+          "Negativo e reforçamento.",
+          "Positivo e reforçamento.",
+          "Positivo e punição."
+        ],
+        "answer": 1,
+        "rationales": [
+          "A resposta aumentou, mas a operação foi apresentar, não retirar.",
+          "Apresentar é positivo; fortalecer a resposta é reforçamento.",
+          "A operação foi positiva, mas o efeito descrito foi aumento."
+        ]
+      }
+    },
+    {
+      "id": "fio-05-q2",
+      "prompt": "Após a resposta, algo é apresentado e produz redução futura dessa resposta. Sem julgar se o evento é “bom” ou “ruim”, quais eixos aparecem?",
+      "options": [
+        "Retirada e fortalecimento.",
+        "Apresentação e fortalecimento.",
+        "Apresentação e redução."
+      ],
+      "answer": 2,
+      "rationales": [
+        "O enunciado descreve adição e redução, não retirada e aumento.",
+        "A apresentação está certa; a direção da resposta foi invertida.",
+        "Os dois eixos foram lidos separadamente e corretamente."
+      ],
+      "clues": [
+        "Faça duas perguntas separadas: entrou/saiu? aumentou/diminuiu?",
+        "Não use bom/ruim como tradução de positivo/negativo."
+      ],
+      "reasoning": [
+        "Veja se um estímulo foi apresentado ou retirado após a resposta.",
+        "Consulte o efeito futuro atribuído à consequência no enunciado.",
+        "Combine o sinal da operação com a direção da mudança da resposta."
+      ],
+      "trap": "Positivo não significa bom; negativo não significa ruim. São operações de adicionar e retirar.",
+      "rebuild": "Use dois eixos: adicionar (+) ou retirar (−); fortalecer (↑) ou reduzir (↓). Primeiro descreva cada eixo, depois junte os nomes.",
+      "followup": {
+        "prompt": "Após a resposta, uma condição é retirada e isso produz redução futura da resposta. Qual descrição vem antes do rótulo?",
+        "options": [
+          "Retirada e redução.",
+          "Apresentação e redução.",
+          "Retirada e aumento."
+        ],
+        "answer": 0,
+        "rationales": [
+          "Essa descrição respeita a operação e o efeito.",
+          "Nada foi apresentado nessa relação.",
+          "A retirada está certa, mas houve redução, não aumento."
+        ]
+      }
+    },
+    {
+      "id": "fio-05-q3",
+      "prompt": "Uma pessoa diz: “Se foi negativo, então o comportamento só pode ter diminuído”. Qual correção preserva os dois eixos?",
+      "options": [
+        "Negativo significa desagradável; só falta avaliar se foi muito desagradável.",
+        "Negativo significa retirar; a resposta pode aumentar ou diminuir conforme a função dessa retirada.",
+        "Negativo sempre significa aumentar, qualquer que seja o efeito."
+      ],
+      "answer": 1,
+      "rationales": [
+        "Isso mantém a confusão entre operação e julgamento de valor.",
+        "O sinal descreve a operação; reforço/punição dependem da função sobre a resposta.",
+        "Negativo sozinho não informa a direção da mudança."
+      ],
+      "clues": [
+        "Faça duas perguntas separadas: entrou/saiu? aumentou/diminuiu?",
+        "Não use bom/ruim como tradução de positivo/negativo."
+      ],
+      "reasoning": [
+        "Veja se um estímulo foi apresentado ou retirado após a resposta.",
+        "Consulte o efeito futuro atribuído à consequência no enunciado.",
+        "Combine o sinal da operação com a direção da mudança da resposta."
+      ],
+      "trap": "Positivo não significa bom; negativo não significa ruim. São operações de adicionar e retirar.",
+      "rebuild": "Use dois eixos: adicionar (+) ou retirar (−); fortalecer (↑) ou reduzir (↓). Primeiro descreva cada eixo, depois junte os nomes.",
+      "followup": {
+        "prompt": "“Foi positivo, então deve ter aumentado.” O que falta nessa frase?",
+        "options": [
+          "Nada: toda adição fortalece a resposta.",
+          "Só descobrir se o evento parece agradável.",
+          "Separar a adição do evento de seu efeito sobre a resposta."
+        ],
+        "answer": 2,
+        "rationales": [
+          "Há apresentações de estímulos que reduzem respostas ou não demonstram efeito.",
+          "A aparência agradável não garante fortalecimento.",
+          "Positivo informa adição; precisamos dos dados de efeito para a outra dimensão."
+        ]
+      }
+    }
+  ],
+  "fio-06": [
+    {
+      "id": "fio-06-q1",
+      "prompt": "Em condições comparáveis, depois que cada bloco de estudo passou a produzir acesso a um jogo, Joana passou de dois para cinco blocos por semana. O efeito foi acompanhado e se manteve. Qual análise é apoiada?",
+      "options": [
+        "Punição positiva, porque o jogo foi apresentado.",
+        "Reforçamento negativo, porque estudar terminou.",
+        "Reforçamento positivo: o acesso foi apresentado após estudar e fortaleceu estudar."
+      ],
+      "answer": 2,
+      "rationales": [
+        "A apresentação indica positivo, mas o efeito descrito é fortalecimento, não redução.",
+        "O enunciado atribui o aumento ao acesso ao jogo; não descreve retirada de condição aversiva como relação analisada.",
+        "Há resposta, consequência apresentada e aumento relacionado a essa consequência."
+      ],
+      "clues": [
+        "Procure uma consequência apresentada depois da resposta.",
+        "Procure aumento futuro relacionado a essa apresentação."
+      ],
+      "reasoning": [
+        "Defina a resposta que aumentou.",
+        "Identifique o evento que passou a ser apresentado contingentemente.",
+        "Com adição e fortalecimento, identifique reforçamento positivo."
+      ],
+      "trap": "Elogiar ou premiar não é automaticamente reforçar: o efeito de fortalecimento precisa estar presente nos dados.",
+      "rebuild": "R → algo entra → R ↑. Não comece por “parece uma recompensa”; comece por adição e aumento nessa relação.",
+      "followup": {
+        "prompt": "Em uma atividade didática, cada tarefa concluída produz uma ficha. Ao introduzir as fichas, concluir tarefas aumenta em comparações repetidas. Qual processo aparece?",
+        "options": [
+          "Reforçamento positivo da conclusão das tarefas.",
+          "Reforçamento negativo só porque a tarefa acabou.",
+          "Punição negativa da conclusão."
+        ],
+        "answer": 0,
+        "rationales": [
+          "Fichas foram apresentadas e a resposta se fortaleceu.",
+          "O efeito analisado é a apresentação de fichas; não foi descrita uma contingência de alívio.",
+          "Não houve retirada acompanhada de redução da resposta."
+        ]
+      }
+    },
+    {
+      "id": "fio-06-q2",
+      "prompt": "Ao elogiar participações, a professora observa aumento consistente de participações quando o elogio é contingente, comparado às condições sem ele. Qual evidência é essencial para chamar esse elogio de reforçador?",
+      "options": [
+        "Ele ter fortalecido a participação nessa relação.",
+        "O professor ter tido boas intenções.",
+        "O elogio conter a palavra “parabéns”."
+      ],
+      "answer": 0,
+      "rationales": [
+        "A função reforçadora depende do efeito sobre a resposta.",
+        "Intenção não demonstra fortalecimento.",
+        "O vocabulário do elogio não garante sua função para aquele aluno."
+      ],
+      "clues": [
+        "Procure uma consequência apresentada depois da resposta.",
+        "Procure aumento futuro relacionado a essa apresentação."
+      ],
+      "reasoning": [
+        "Defina a resposta que aumentou.",
+        "Identifique o evento que passou a ser apresentado contingentemente.",
+        "Com adição e fortalecimento, identifique reforçamento positivo."
+      ],
+      "trap": "Elogiar ou premiar não é automaticamente reforçar: o efeito de fortalecimento precisa estar presente nos dados.",
+      "rebuild": "R → algo entra → R ↑. Não comece por “parece uma recompensa”; comece por adição e aumento nessa relação.",
+      "followup": {
+        "prompt": "O aplicativo toca um som de vitória após respostas corretas. Ainda não se mediu o efeito sobre responder. O que podemos dizer?",
+        "options": [
+          "É reforçamento positivo comprovado, pois há som.",
+          "Há apresentação de um som; falta demonstrar se ele fortalece responder.",
+          "É punição porque interrompe o silêncio."
+        ],
+        "answer": 1,
+        "rationales": [
+          "A adição existe, mas o fortalecimento ainda não foi avaliado.",
+          "A operação foi descrita; a função permanece uma hipótese.",
+          "Interromper o silêncio não demonstra redução da resposta."
+        ]
+      }
+    },
+    {
+      "id": "fio-06-q3",
+      "prompt": "Num exemplo educacional, feedback específico após pedir ajuda aumenta pedidos adequados de ajuda em comparação com a condição anterior. Qual é a resposta fortalecida?",
+      "options": [
+        "O professor dar feedback, porque é ele quem fala por último.",
+        "O aluno pedir ajuda, pois essa foi a resposta seguida pelo feedback e acompanhada no tempo.",
+        "A existência do exercício, porque ocorreu primeiro."
+      ],
+      "answer": 1,
+      "rationales": [
+        "A questão acompanha a resposta do aluno; falar por último não define o comportamento-alvo.",
+        "O alvo foi corretamente identificado antes de atribuir a função ao feedback.",
+        "O exercício é parte do antecedente, não a resposta acompanhada."
+      ],
+      "clues": [
+        "Procure uma consequência apresentada depois da resposta.",
+        "Procure aumento futuro relacionado a essa apresentação."
+      ],
+      "reasoning": [
+        "Defina a resposta que aumentou.",
+        "Identifique o evento que passou a ser apresentado contingentemente.",
+        "Com adição e fortalecimento, identifique reforçamento positivo."
+      ],
+      "trap": "Elogiar ou premiar não é automaticamente reforçar: o efeito de fortalecimento precisa estar presente nos dados.",
+      "rebuild": "R → algo entra → R ↑. Não comece por “parece uma recompensa”; comece por adição e aumento nessa relação.",
+      "followup": {
+        "prompt": "Ao clicar em “enviar”, Lu recebe confirmação útil. Essa consequência aumenta a frequência de enviar atividades completas. Qual resposta foi reforçada no relato?",
+        "options": [
+          "A confirmação aparecer na tela.",
+          "O professor abrir o aplicativo.",
+          "Enviar atividades completas."
+        ],
+        "answer": 2,
+        "rationales": [
+          "Isso é o evento posterior, não a resposta de Lu.",
+          "Esse comportamento não foi descrito nem medido.",
+          "É a ação seguida pela confirmação e que aumentou no exemplo."
+        ]
+      }
+    }
+  ],
+  "fio-07": [
+    {
+      "id": "fio-07-q1",
+      "prompt": "Um aviso sonoro incômodo para quando Lara clica em “fechar”. Esse efeito faz com que ela passe a fechar o aviso cada vez mais prontamente nas mesmas condições. Qual análise cabe?",
+      "options": [
+        "Reforçamento negativo de clicar: o som é retirado e clicar se fortalece.",
+        "Punição negativa de clicar: toda retirada é punição.",
+        "Reforçamento positivo de clicar: o silêncio é um prêmio por definição."
+      ],
+      "answer": 0,
+      "rationales": [
+        "O relato apresenta retirada de som e fortalecimento da resposta que o retira.",
+        "Falta o efeito de redução exigido nessa leitura de punição; clicar aumentou.",
+        "A operação descrita é retirar o aviso sonoro. Não é preciso rebatizar toda retirada como “dar silêncio”."
+      ],
+      "clues": [
+        "Procure retirada ou redução de uma condição após a resposta.",
+        "Pergunte se essa retirada fortaleceu a resposta futura."
+      ],
+      "reasoning": [
+        "Identifique quem fez o quê.",
+        "Localize a condição que foi reduzida ou retirada pela resposta.",
+        "Se a resposta se fortalece por esse efeito, combine negativo com reforçamento."
+      ],
+      "trap": "Reforço negativo não é punição: negativo descreve retirada; reforço descreve fortalecimento.",
+      "rebuild": "Imagine um alarme que cessa ao apertar um botão. Se esse alívio fortalece apertar, temos retirada (−) e resposta ↑. Reconstrua os dois eixos.",
+      "followup": {
+        "prompt": "Ao fechar uma cortina, o brilho incômodo diminui. Por esse efeito, fechar a cortina fica mais frequente em situações semelhantes. Qual processo é descrito?",
+        "options": [
+          "Punição positiva.",
+          "Reforçamento negativo.",
+          "Punição negativa."
+        ],
+        "answer": 1,
+        "rationales": [
+          "Não houve apresentação que reduziu a resposta.",
+          "A redução do brilho fortaleceu a ação que a produziu.",
+          "A resposta aumentou, não diminuiu."
+        ]
+      }
+    },
+    {
+      "id": "fio-07-q2",
+      "prompt": "Uma estudante passa a enviar trabalhos no prazo porque isso interrompe os lembretes insistentes que recebe. No exemplo, o efeito foi acompanhado e fortaleceu enviar no prazo. Por que ainda é reforçamento?",
+      "options": [
+        "Porque os lembretes foram julgados ruins.",
+        "Porque o professor tinha intenção de punir.",
+        "Porque a resposta de enviar no prazo aumentou pelo efeito que produziu."
+      ],
+      "answer": 2,
+      "rationales": [
+        "Ser incômodo não define reforçamento; o aumento relacionado à retirada é decisivo.",
+        "A intenção de outra pessoa não determina a função observada.",
+        "Reforçamento nomeia o fortalecimento. Negativo especifica que uma condição foi retirada."
+      ],
+      "clues": [
+        "Procure retirada ou redução de uma condição após a resposta.",
+        "Pergunte se essa retirada fortaleceu a resposta futura."
+      ],
+      "reasoning": [
+        "Identifique quem fez o quê.",
+        "Localize a condição que foi reduzida ou retirada pela resposta.",
+        "Se a resposta se fortalece por esse efeito, combine negativo com reforçamento."
+      ],
+      "trap": "Reforço negativo não é punição: negativo descreve retirada; reforço descreve fortalecimento.",
+      "rebuild": "Imagine um alarme que cessa ao apertar um botão. Se esse alívio fortalece apertar, temos retirada (−) e resposta ↑. Reconstrua os dois eixos.",
+      "followup": {
+        "prompt": "Remover uma condição após uma resposta faz essa resposta aumentar. O que “negativo” e “reforço” informam, respectivamente?",
+        "options": [
+          "Retirada e fortalecimento.",
+          "Mal-estar e redução.",
+          "Retirada e redução."
+        ],
+        "answer": 0,
+        "rationales": [
+          "Os termos respondem a duas perguntas diferentes: operação e efeito.",
+          "Isso troca operação por valência e reforço por redução.",
+          "Retirada está certo, mas reforço é fortalecimento."
+        ]
+      }
+    },
+    {
+      "id": "fio-07-q3",
+      "prompt": "Ao sair de uma sala barulhenta, Caio deixa de ouvir o ruído; ainda não sabemos se sair ficou mais provável. Qual afirmação é mais cuidadosa?",
+      "options": [
+        "Houve necessariamente punição porque ele saiu.",
+        "Há retirada de ruído após sair; o reforçamento negativo é uma hipótese que exige avaliar fortalecimento.",
+        "Toda retirada de ruído já prova aumento futuro."
+      ],
+      "answer": 1,
+      "rationales": [
+        "Sair é a resposta, e não há dados de sua redução por uma consequência.",
+        "A operação foi descrita, mas o efeito sobre respostas futuras ainda não foi estabelecido.",
+        "A mudança imediata no ambiente não demonstra sozinha a mudança futura na resposta."
+      ],
+      "clues": [
+        "Procure retirada ou redução de uma condição após a resposta.",
+        "Pergunte se essa retirada fortaleceu a resposta futura."
+      ],
+      "reasoning": [
+        "Identifique quem fez o quê.",
+        "Localize a condição que foi reduzida ou retirada pela resposta.",
+        "Se a resposta se fortalece por esse efeito, combine negativo com reforçamento."
+      ],
+      "trap": "Reforço negativo não é punição: negativo descreve retirada; reforço descreve fortalecimento.",
+      "rebuild": "Imagine um alarme que cessa ao apertar um botão. Se esse alívio fortalece apertar, temos retirada (−) e resposta ↑. Reconstrua os dois eixos.",
+      "followup": {
+        "prompt": "Abrir uma janela reduz um odor. O relato termina aí, sem dados futuros. Qual informação falta para sustentar reforçamento negativo de abrir a janela?",
+        "options": [
+          "Se a janela era de vidro.",
+          "Se a pessoa considera “negativo” um insulto.",
+          "Se a redução do odor fortaleceu abrir a janela em situações semelhantes."
+        ],
+        "answer": 2,
+        "rationales": [
+          "O material da janela não demonstra efeito comportamental.",
+          "O sentido cotidiano de negativo não define o processo.",
+          "Precisamos conectar o efeito ambiental ao fortalecimento da resposta."
+        ]
+      }
+    }
+  ],
+  "fio-08": [
+    {
+      "id": "fio-08-q1",
+      "prompt": "No uso funcional usual, respostas de interromper produzem um som; comparações repetidas mostram que esse som reduz futuras interrupções. Qual classificação descreve a relação?",
+      "options": [
+        "Punição negativa, pois interromper diminuiu.",
+        "Punição positiva: uma consequência foi apresentada e produziu redução.",
+        "Reforçamento positivo, pois algo foi apresentado."
+      ],
+      "answer": 1,
+      "rationales": [
+        "Negativa exigiria retirada; o som foi apresentado.",
+        "A operação é apresentação e o efeito demonstrado é redutor.",
+        "Apresentar define o eixo positivo; a resposta diminuiu, portanto não há fortalecimento descrito."
+      ],
+      "clues": [
+        "Leia qual definição a questão está usando: efeito funcional ou procedimento dos slides.",
+        "Na leitura funcional, procure uma redução atribuída à consequência; nos slides, descreva a operação contingente."
+      ],
+      "reasoning": [
+        "Localize a resposta e a consequência dependente dela.",
+        "Separe apresentação de estímulo e retirada de reforçador.",
+        "Não confunda procedimento punitivo dos slides com redução funcional demonstrada."
+      ],
+      "trap": "Os slides discutem uma definição procedural de punição; o uso funcional usual exige efeito redutor. Intenção e queda isolada não bastam.",
+      "rebuild": "Mantenha duas perguntas visíveis: “qual procedimento ocorreu?” e “que efeito ele demonstrou?”. Você pode descrever o procedimento sem inventar seu resultado.",
+      "followup": {
+        "prompt": "Em um exemplo de prova, uma resposta produz perda de fichas que antes funcionavam como reforçadoras. A perda contingente reduz essa resposta em comparações repetidas. Qual leitura funcional cabe?",
+        "options": [
+          "Punição positiva.",
+          "Reforçamento negativo.",
+          "Punição negativa."
+        ],
+        "answer": 2,
+        "rationales": [
+          "O enunciado descreve retirada, não apresentação.",
+          "A resposta diminuiu; não foi fortalecida pela retirada.",
+          "Retirada de fichas reforçadoras e redução da resposta sustentam essa classificação."
+        ]
+      }
+    },
+    {
+      "id": "fio-08-q2",
+      "prompt": "Segundo a definição procedural discutida nos slides, após uma resposta é retirado um reforçador positivo condicionado. Ainda não há dados sobre supressão futura. Qual frase respeita essa distinção?",
+      "options": [
+        "O procedimento pode ser descrito como punição negativa nos slides, sem afirmar que o efeito redutor já foi demonstrado.",
+        "É impossível nomear o procedimento até garantir que a resposta desapareça para sempre.",
+        "Já sabemos que a resposta diminuiu definitivamente."
+      ],
+      "answer": 0,
+      "rationales": [
+        "A definição procedural descreve a operação; não exige provar supressão definitiva para nomeá-la.",
+        "Isso mistura o procedimento com uma exigência de desaparecimento permanente que não é a definição dos slides.",
+        "O enunciado diz que ainda não há esses dados."
+      ],
+      "clues": [
+        "Leia qual definição a questão está usando: efeito funcional ou procedimento dos slides.",
+        "Na leitura funcional, procure uma redução atribuída à consequência; nos slides, descreva a operação contingente."
+      ],
+      "reasoning": [
+        "Localize a resposta e a consequência dependente dela.",
+        "Separe apresentação de estímulo e retirada de reforçador.",
+        "Não confunda procedimento punitivo dos slides com redução funcional demonstrada."
+      ],
+      "trap": "Os slides discutem uma definição procedural de punição; o uso funcional usual exige efeito redutor. Intenção e queda isolada não bastam.",
+      "rebuild": "Mantenha duas perguntas visíveis: “qual procedimento ocorreu?” e “que efeito ele demonstrou?”. Você pode descrever o procedimento sem inventar seu resultado.",
+      "followup": {
+        "prompt": "Um slide chama de punição a apresentação contingente de um estímulo aversivo. O relato não informa o que ocorreu depois com a frequência. Como ler?",
+        "options": [
+          "Como prova de redução permanente.",
+          "Como descrição procedural; o efeito futuro precisa ser investigado separadamente.",
+          "Como prova de reforçamento positivo, só por ter apresentação."
+        ],
+        "answer": 1,
+        "rationales": [
+          "O nome procedural não fornece automaticamente dados de efeito.",
+          "A leitura preserva a terminologia do material e separa procedimento de resultado.",
+          "Adição define positivo, mas não garante fortalecimento."
+        ]
+      }
+    },
+    {
+      "id": "fio-08-q3",
+      "prompt": "Depois de receber uma advertência, uma aluna participa menos. Na mesma semana ficou doente e mudou de turma. No uso funcional, o que se pode concluir sobre a advertência?",
+      "options": [
+        "Foi comprovada punição apenas porque a participação caiu.",
+        "Foi reforçamento negativo, porque advertências são desagradáveis.",
+        "A redução sozinha não demonstra punição: é preciso investigar se foi produzida pela advertência."
+      ],
+      "answer": 2,
+      "rationales": [
+        "As outras mudanças impedem atribuir automaticamente a queda à advertência.",
+        "A aparência desagradável não demonstra retirada nem fortalecimento.",
+        "Precisamos estabelecer a relação entre a consequência e a redução, considerando explicações alternativas."
+      ],
+      "clues": [
+        "Leia qual definição a questão está usando: efeito funcional ou procedimento dos slides.",
+        "Na leitura funcional, procure uma redução atribuída à consequência; nos slides, descreva a operação contingente."
+      ],
+      "reasoning": [
+        "Localize a resposta e a consequência dependente dela.",
+        "Separe apresentação de estímulo e retirada de reforçador.",
+        "Não confunda procedimento punitivo dos slides com redução funcional demonstrada."
+      ],
+      "trap": "Os slides discutem uma definição procedural de punição; o uso funcional usual exige efeito redutor. Intenção e queda isolada não bastam.",
+      "rebuild": "Mantenha duas perguntas visíveis: “qual procedimento ocorreu?” e “que efeito ele demonstrou?”. Você pode descrever o procedimento sem inventar seu resultado.",
+      "followup": {
+        "prompt": "Uma consequência foi planejada para diminuir atrasos, mas os atrasos não foram medidos. Qual frase é rigorosa?",
+        "options": [
+          "Houve intenção de reduzir; o efeito funcional de punição ainda não foi demonstrado.",
+          "A intenção basta para demonstrar redução.",
+          "Toda intervenção planejada é reforçamento."
+        ],
+        "answer": 0,
+        "rationales": [
+          "Objetivo e efeito são informações diferentes.",
+          "Sem medida não sabemos se houve a redução atribuída ao procedimento.",
+          "Planejamento não determina a função da consequência."
+        ]
+      }
+    }
+  ],
+  "fio-09": [
+    {
+      "id": "fio-09-q1",
+      "prompt": "O som incômodo já está tocando. Bruno aperta um botão e o som para; essa consequência fortalece apertar. Qual relação foi descrita?",
+      "options": [
+        "Esquiva: o som ainda não tinha começado.",
+        "Punição: qualquer incômodo reduz a resposta.",
+        "Fuga mantida por reforçamento negativo."
+      ],
+      "answer": 2,
+      "rationales": [
+        "O enunciado informa que o som já estava presente.",
+        "O incômodo foi retirado e apertar se fortaleceu.",
+        "A resposta termina uma condição presente e se fortalece por isso."
+      ],
+      "clues": [
+        "A condição aversiva já começou ou ainda pode acontecer?",
+        "Fuga e esquiva são diferenciadas pela relação temporal com essa condição."
+      ],
+      "reasoning": [
+        "Localize a resposta analisada.",
+        "Se ela termina uma condição já presente, examine fuga.",
+        "Se impede ou adia uma condição prevista, examine esquiva; avalie separadamente o fortalecimento."
+      ],
+      "trap": "“Fugir” no sentido cotidiano não basta: a pergunta é se a condição já ocorre ou é evitada/adiada.",
+      "rebuild": "Pense em chuva: entrar quando você já está se molhando difere de abrir o guarda-chuva antes da chuva prevista. São relações didáticas para reconstruir fuga/esquiva.",
+      "followup": {
+        "prompt": "A pessoa sai de um local onde o ruído já está intenso; sair interrompe a exposição e se torna mais provável. Qual relação aparece?",
+        "options": [
+          "Fuga.",
+          "Esquiva, porque toda saída é esquiva.",
+          "Punição de sair."
+        ],
+        "answer": 0,
+        "rationales": [
+          "A condição já estava em curso e foi terminada pela ação.",
+          "A forma “sair” não decide: o ruído já ocorria.",
+          "O relato apresenta fortalecimento, não redução de sair."
+        ]
+      }
+    },
+    {
+      "id": "fio-09-q2",
+      "prompt": "Ao aparecer um aviso, a pessoa coloca os protetores antes de uma sequência de ruídos. Isso evita a exposição e fortalece colocar os protetores ao aviso. Qual é a análise?",
+      "options": [
+        "Fuga de um ruído que necessariamente já estava ocorrendo.",
+        "Esquiva mantida por reforçamento negativo.",
+        "Punição positiva de colocar protetores."
+      ],
+      "answer": 1,
+      "rationales": [
+        "O exemplo informa que a proteção veio antes da sequência.",
+        "A ação impede a condição prevista e fica mais provável.",
+        "A resposta se fortaleceu; não houve redução pela apresentação de uma consequência."
+      ],
+      "clues": [
+        "A condição aversiva já começou ou ainda pode acontecer?",
+        "Fuga e esquiva são diferenciadas pela relação temporal com essa condição."
+      ],
+      "reasoning": [
+        "Localize a resposta analisada.",
+        "Se ela termina uma condição já presente, examine fuga.",
+        "Se impede ou adia uma condição prevista, examine esquiva; avalie separadamente o fortalecimento."
+      ],
+      "trap": "“Fugir” no sentido cotidiano não basta: a pergunta é se a condição já ocorre ou é evitada/adiada.",
+      "rebuild": "Pense em chuva: entrar quando você já está se molhando difere de abrir o guarda-chuva antes da chuva prevista. São relações didáticas para reconstruir fuga/esquiva.",
+      "followup": {
+        "prompt": "Um motorista passa a reduzir a velocidade ao aviso de fiscalização; isso evita multas futuras e fortalece reduzir a velocidade nesse contexto. O exemplo descreve:",
+        "options": [
+          "Fuga de uma multa que já foi recebida.",
+          "Punição positiva porque existe fiscalização.",
+          "Esquiva: a ação evita a consequência futura prevista."
+        ],
+        "answer": 2,
+        "rationales": [
+          "A resposta evita multas futuras; não cancela uma multa já recebida.",
+          "A mera presença de fiscalização não identifica o processo da resposta analisada.",
+          "A relação descrita é evitar a condição antes de sua ocorrência."
+        ]
+      }
+    },
+    {
+      "id": "fio-09-q3",
+      "prompt": "Nina coloca fones depois que o ruído começou; Rui coloca os fones ao aviso, antes do ruído previsto. Os dois comportamentos se fortalecem por reduzir/evitar a exposição. Qual comparação é correta?",
+      "options": [
+        "Nina: fuga; Rui: esquiva. A forma parecida da ação não garante a mesma relação.",
+        "Nina: esquiva; Rui: fuga.",
+        "Ambos são punição, pois envolvem algo incômodo."
+      ],
+      "answer": 0,
+      "rationales": [
+        "O critério é a relação com uma condição presente ou prevista, não o objeto usado.",
+        "A classificação foi invertida: Nina já ouvia o ruído.",
+        "Ambas as respostas foram fortalecidas pelos efeitos descritos."
+      ],
+      "clues": [
+        "A condição aversiva já começou ou ainda pode acontecer?",
+        "Fuga e esquiva são diferenciadas pela relação temporal com essa condição."
+      ],
+      "reasoning": [
+        "Localize a resposta analisada.",
+        "Se ela termina uma condição já presente, examine fuga.",
+        "Se impede ou adia uma condição prevista, examine esquiva; avalie separadamente o fortalecimento."
+      ],
+      "trap": "“Fugir” no sentido cotidiano não basta: a pergunta é se a condição já ocorre ou é evitada/adiada.",
+      "rebuild": "Pense em chuva: entrar quando você já está se molhando difere de abrir o guarda-chuva antes da chuva prevista. São relações didáticas para reconstruir fuga/esquiva.",
+      "followup": {
+        "prompt": "Desligar um alerta já tocando e ativar previamente o modo que impede o alerta são sempre a mesma relação?",
+        "options": [
+          "Sim, porque ambas usam o celular.",
+          "Não: terminar um alerta presente difere de evitar um alerta previsto.",
+          "Sim, pois negativo significa punição."
+        ],
+        "answer": 1,
+        "rationales": [
+          "O equipamento não determina a função.",
+          "A distinção temporal permite diferenciar fuga e esquiva.",
+          "Negativo indica retirada ou prevenção da condição na relação de fortalecimento descrita, não punição."
+        ]
+      }
+    }
+  ],
+  "fio-10": [
+    {
+      "id": "fio-10-q1",
+      "prompt": "Numa simulação, apertar o botão com a luz verde produz pontos; com a luz apagada, não. Após essa história, a pessoa aperta mais com a luz verde. Que papel da luz é sustentado?",
+      "options": [
+        "SD para apertar: sinaliza a condição em que pontos estão disponíveis para essa resposta.",
+        "Consequência apresentada depois de apertar.",
+        "Reforçador universal, qualquer que seja a história."
+      ],
+      "answer": 0,
+      "rationales": [
+        "A história de reforçamento diferencial apoia o controle discriminativo pela luz.",
+        "A luz já estava presente antes de apertar.",
+        "Seu papel aqui é antecedente e depende da história descrita."
+      ],
+      "clues": [
+        "Nem todo evento anterior é estímulo discriminativo (SD).",
+        "Procure história de disponibilidade diferencial de uma consequência para uma resposta."
+      ],
+      "reasoning": [
+        "Nomeie a resposta e a consequência relevante.",
+        "Compare as condições em que essa consequência estava disponível para a resposta.",
+        "Uma pista com essa história pode exercer controle discriminativo; mera antecedência não basta."
+      ],
+      "trap": "SD não empurra a resposta como um botão mágico: sua função depende de uma história de consequências diferenciais.",
+      "rebuild": "Uma placa de “aberto” pode sinalizar disponibilidade de atendimento, após experiências diferentes com “aberto” e “fechado”. Ela não cria, sozinha, sua vontade de ser atendido.",
+      "followup": {
+        "prompt": "Ao longo de várias tentativas, pedir ajuda com o professor disponível produz orientação; com o aviso de indisponibilidade, não. Pedidos ficam mais prováveis no primeiro contexto. Qual relação aparece?",
+        "options": [
+          "O professor disponível é automaticamente reforço negativo.",
+          "O contexto de disponibilidade pode funcionar como SD para pedir ajuda.",
+          "Toda presença física é um SD para qualquer resposta."
+        ],
+        "answer": 1,
+        "rationales": [
+          "A presença é antecedente; o exemplo não descreve retirada que fortalece pedir.",
+          "A disponibilidade diferencial de orientação e o responder diferencial sustentam essa leitura.",
+          "SD é definido em relação a uma resposta, uma consequência e uma história."
+        ]
+      }
+    },
+    {
+      "id": "fio-10-q2",
+      "prompt": "Antes de estudar, Júlia vê uma caneca azul. O relato não apresenta história de consequências diferentes na presença dessa caneca. Podemos chamá-la de SD para estudar?",
+      "options": [
+        "Sim, pois qualquer coisa que vem antes é SD.",
+        "Sim, pois a cor azul necessariamente cria motivação.",
+        "Não automaticamente: sabemos apenas que era um evento antecedente; falta a história funcional."
+      ],
+      "answer": 2,
+      "rationales": [
+        "Antecedente é uma posição temporal; SD exige uma função discriminativa.",
+        "Não há base para atribuir esse efeito à cor.",
+        "A classificação funcional não pode ser deduzida só da ordem dos eventos."
+      ],
+      "clues": [
+        "Nem todo evento anterior é estímulo discriminativo (SD).",
+        "Procure história de disponibilidade diferencial de uma consequência para uma resposta."
+      ],
+      "reasoning": [
+        "Nomeie a resposta e a consequência relevante.",
+        "Compare as condições em que essa consequência estava disponível para a resposta.",
+        "Uma pista com essa história pode exercer controle discriminativo; mera antecedência não basta."
+      ],
+      "trap": "SD não empurra a resposta como um botão mágico: sua função depende de uma história de consequências diferenciais.",
+      "rebuild": "Uma placa de “aberto” pode sinalizar disponibilidade de atendimento, após experiências diferentes com “aberto” e “fechado”. Ela não cria, sozinha, sua vontade de ser atendido.",
+      "followup": {
+        "prompt": "Uma música estava tocando antes de uma pessoa abrir o livro. Sem outras informações, o que é seguro dizer?",
+        "options": [
+          "A música era um evento antecedente; seu papel de SD não foi demonstrado.",
+          "A música sempre sinaliza reforço para abrir livros.",
+          "A música foi a consequência de abrir o livro."
+        ],
+        "answer": 0,
+        "rationales": [
+          "Essa formulação descreve o que se sabe sem inventar a história.",
+          "É preciso evidência de disponibilidade diferencial e controle, não apenas coexistência.",
+          "A música já tocava antes, portanto não é o evento posterior descrito."
+        ]
+      }
+    },
+    {
+      "id": "fio-10-q3",
+      "prompt": "O aviso “monitor online” tem uma história: pedidos recebem resposta quando ele aparece e não recebem quando o monitor está offline. O aluno passa a pedir mais com o aviso. O que o SD informa aqui?",
+      "options": [
+        "O valor da ajuda aumentou obrigatoriamente, independentemente da necessidade.",
+        "A condição em que pedir tem produzido ajuda disponível.",
+        "A garantia de que toda resposta do aluno será reforçada, em qualquer contexto."
+      ],
+      "answer": 1,
+      "rationales": [
+        "O aviso informa disponibilidade na história; não demonstra, por si, aumento do valor da ajuda.",
+        "Essa é a função discriminativa descrita para pedir ajuda.",
+        "O controle é relativo à resposta e às condições descritas; não é uma garantia universal."
+      ],
+      "clues": [
+        "Nem todo evento anterior é estímulo discriminativo (SD).",
+        "Procure história de disponibilidade diferencial de uma consequência para uma resposta."
+      ],
+      "reasoning": [
+        "Nomeie a resposta e a consequência relevante.",
+        "Compare as condições em que essa consequência estava disponível para a resposta.",
+        "Uma pista com essa história pode exercer controle discriminativo; mera antecedência não basta."
+      ],
+      "trap": "SD não empurra a resposta como um botão mágico: sua função depende de uma história de consequências diferenciais.",
+      "rebuild": "Uma placa de “aberto” pode sinalizar disponibilidade de atendimento, após experiências diferentes com “aberto” e “fechado”. Ela não cria, sozinha, sua vontade de ser atendido.",
+      "followup": {
+        "prompt": "No aplicativo, uma marca indica quando enviar mensagem produz retorno; a história estabelece mais envio nessa condição. A marca funciona como:",
+        "options": [
+          "A própria mensagem enviada pelo usuário.",
+          "Uma consequência que chega depois da mensagem.",
+          "Uma pista antecedente de disponibilidade diferencial de retorno para enviar."
+        ],
+        "answer": 2,
+        "rationales": [
+          "A marca e a ação do usuário são partes diferentes.",
+          "A marca já estava presente antes do envio.",
+          "O papel é de sinalizar a condição de reforçamento da resposta, após a história descrita."
+        ]
+      }
+    }
+  ],
+  "fio-11": [
+    {
+      "id": "fio-11-q1",
+      "prompt": "Num exemplo didático, ficar muito tempo sem beber aumenta a eficácia reforçadora da água e evoca respostas que antes a produziram. Uma placa aprendida indica onde o bebedouro funciona. Qual distinção é correta?",
+      "options": [
+        "A privação e a placa são idênticas só porque vêm antes.",
+        "A placa necessariamente cria a privação de água.",
+        "A privação funciona como OE; a placa pode funcionar como SD para a resposta de obter água."
+      ],
+      "answer": 2,
+      "rationales": [
+        "Antecedência comum não implica função igual.",
+        "A placa sinaliza disponibilidade, não cria a condição corporal de privação.",
+        "O enunciado separa alteração de eficácia/evocação e disponibilidade sinalizada por história."
+      ],
+      "clues": [
+        "Separe “quanto essa consequência vale agora?” de “ela está disponível para esta resposta?”.",
+        "OE aumenta e OA reduz a eficácia reforçadora e afeta respostas relevantes."
+      ],
+      "reasoning": [
+        "Identifique a consequência em questão.",
+        "Procure mudança em sua eficácia e nas respostas que antes a produziram.",
+        "Compare isso com a pista de disponibilidade diferencial própria do SD."
+      ],
+      "trap": "Sede e placa de atendimento podem acontecer antes de pedir água, mas não têm necessariamente a mesma função.",
+      "rebuild": "Água: ficar sem beber pode elevar sua eficácia reforçadora (OE); beber até a saciação pode reduzi-la (OA). Já a placa “aberto”, com uma história, sinaliza disponibilidade (SD).",
+      "followup": {
+        "prompt": "Estar sem comer aumenta a eficácia reforçadora do alimento; um aviso aprendido sinaliza que pedidos serão atendidos. Qual é a comparação?",
+        "options": [
+          "A condição sem comer pode ser OE; o aviso pode ser SD para pedir.",
+          "O aviso sempre é a fome.",
+          "A fome é a consequência apresentada depois de pedir."
+        ],
+        "answer": 0,
+        "rationales": [
+          "O exemplo descreve mudança de eficácia de um lado e disponibilidade diferencial do outro.",
+          "Fome e aviso são condições diferentes, com funções diferentes.",
+          "A condição antecede o pedido no exemplo."
+        ]
+      }
+    },
+    {
+      "id": "fio-11-q2",
+      "prompt": "Após beber água até a saciação, a água perde temporariamente eficácia reforçadora e diminuem respostas que antes a produziam. Como essa operação é descrita?",
+      "options": [
+        "OE, porque qualquer evento anterior aumenta o valor.",
+        "Operação abolidora (OA) em relação ao reforçamento por água.",
+        "SD, pois o bebedouro necessariamente parou de funcionar."
+      ],
+      "answer": 1,
+      "rationales": [
+        "O efeito informado é redução, não aumento da eficácia reforçadora.",
+        "A operação reduz a eficácia reforçadora e abate respostas relevantes para obter água.",
+        "A disponibilidade pode continuar igual; o exemplo muda a eficácia, não o funcionamento do bebedouro."
+      ],
+      "clues": [
+        "Separe “quanto essa consequência vale agora?” de “ela está disponível para esta resposta?”.",
+        "OE aumenta e OA reduz a eficácia reforçadora e afeta respostas relevantes."
+      ],
+      "reasoning": [
+        "Identifique a consequência em questão.",
+        "Procure mudança em sua eficácia e nas respostas que antes a produziram.",
+        "Compare isso com a pista de disponibilidade diferencial própria do SD."
+      ],
+      "trap": "Sede e placa de atendimento podem acontecer antes de pedir água, mas não têm necessariamente a mesma função.",
+      "rebuild": "Água: ficar sem beber pode elevar sua eficácia reforçadora (OE); beber até a saciação pode reduzi-la (OA). Já a placa “aberto”, com uma história, sinaliza disponibilidade (SD).",
+      "followup": {
+        "prompt": "Depois de uma refeição, um alimento fica temporariamente menos eficaz como reforçador e procurar esse alimento diminui. Qual operação está descrita?",
+        "options": [
+          "SD de indisponibilidade obrigatória do alimento.",
+          "OE para esse alimento.",
+          "OA para esse alimento."
+        ],
+        "answer": 2,
+        "rationales": [
+          "O alimento pode continuar disponível; sua eficácia é que mudou.",
+          "OE exigiria aumento de eficácia, oposto ao informado.",
+          "O relato apresenta redução de eficácia e efeito sobre respostas que produzem esse alimento."
+        ]
+      }
+    },
+    {
+      "id": "fio-11-q3",
+      "prompt": "Um aluno pergunta: “Se SD e OE acontecem antes, como separo?”. Qual resposta funcional ajuda?",
+      "options": [
+        "OE altera a eficácia de uma consequência e afeta respostas relacionadas; SD sinaliza sua disponibilidade diferencial para uma resposta, conforme a história.",
+        "SD é toda coisa visível e OE é toda coisa invisível.",
+        "OE é o próprio reforçamento que aconteceu depois da resposta."
+      ],
+      "answer": 0,
+      "rationales": [
+        "A distinção usa efeitos funcionais, não apenas tempo ou aparência.",
+        "Visibilidade não distingue essas funções.",
+        "OE é uma condição com efeitos motivacionais; não é o processo de reforçamento ocorrido depois."
+      ],
+      "clues": [
+        "Separe “quanto essa consequência vale agora?” de “ela está disponível para esta resposta?”.",
+        "OE aumenta e OA reduz a eficácia reforçadora e afeta respostas relevantes."
+      ],
+      "reasoning": [
+        "Identifique a consequência em questão.",
+        "Procure mudança em sua eficácia e nas respostas que antes a produziram.",
+        "Compare isso com a pista de disponibilidade diferencial própria do SD."
+      ],
+      "trap": "Sede e placa de atendimento podem acontecer antes de pedir água, mas não têm necessariamente a mesma função.",
+      "rebuild": "Água: ficar sem beber pode elevar sua eficácia reforçadora (OE); beber até a saciação pode reduzi-la (OA). Já a placa “aberto”, com uma história, sinaliza disponibilidade (SD).",
+      "followup": {
+        "prompt": "A loja continua aberta, mas após muita exposição a um mesmo jogo o acesso a ele perde eficácia reforçadora. Qual afirmação respeita a diferença?",
+        "options": [
+          "Se a loja está aberta, o jogo precisa ter o mesmo valor o tempo inteiro.",
+          "Disponibilidade e eficácia reforçadora podem variar de modo diferente.",
+          "A perda de eficácia prova que a placa de aberto virou punição."
+        ],
+        "answer": 1,
+        "rationales": [
+          "A disponibilidade não fixa o valor reforçador em todas as condições.",
+          "A loja pode manter o acesso enquanto condições motivacionais mudam a eficácia do acesso ao jogo.",
+          "Não há dados de apresentação/retirada contingente da placa reduzindo uma resposta."
+        ]
+      }
+    }
+  ],
+  "fio-12": [
+    {
+      "id": "fio-12-q1",
+      "prompt": "Na simulação, apertar o botão produzia pontos e era mantido por isso. Agora apertar continua possível, mas já não produz pontos. Qual mudança no procedimento ocorreu?",
+      "options": [
+        "Punição negativa obrigatória, porque não ganhar é sempre perder algo já possuído.",
+        "Extinção operante da relação apertar → pontos.",
+        "Reforçamento contínuo, porque a pessoa ainda pode apertar."
+      ],
+      "answer": 1,
+      "rationales": [
+        "Deixar de produzir a consequência que mantinha a resposta difere de retirar fichas já disponíveis após apertar.",
+        "A consequência antes reforçadora deixou de ser produzida pela resposta.",
+        "O esquema contínuo exigiria reforçamento de cada resposta-alvo, não apenas oportunidade de responder."
+      ],
+      "clues": [
+        "Qual consequência mantinha a resposta antes?",
+        "Essa consequência deixou de ser produzida ou uma nova perda foi imposta após responder?"
+      ],
+      "reasoning": [
+        "Localize a relação de reforçamento anterior.",
+        "Se ela deixa de operar para essa resposta, examine extinção operante.",
+        "Diferencie a suspensão do reforçamento de uma consequência punitiva contingente; observe o efeito ao longo do tempo."
+      ],
+      "trap": "Extinção não é apagar memória nem simplesmente “ignorar uma pessoa”; é interromper uma relação específica de reforçamento.",
+      "rebuild": "Compare um botão que deixa de produzir os pontos que antes o mantinham com um botão que passa a retirar pontos já ganhos. A primeira relação indica extinção; a segunda é outra operação.",
+      "followup": {
+        "prompt": "Uma tecla antes produzia um retorno que mantinha seu uso. Agora permanece disponível, mas o retorno deixou de ser produzido. Qual processo/procedimento está em investigação?",
+        "options": [
+          "Punição positiva por apresentar algo novo.",
+          "Reforçamento negativo por retirar o retorno.",
+          "Extinção operante da relação anterior."
+        ],
+        "answer": 2,
+        "rationales": [
+          "Não foi descrita apresentação contingente de uma nova consequência.",
+          "A retirada do retorno não está fortalecendo a resposta no relato.",
+          "Foi suspensa a relação de reforçamento que antes mantinha usar a tecla."
+        ]
+      }
+    },
+    {
+      "id": "fio-12-q2",
+      "prompt": "Duas simulações: A) apertar deixa de produzir os pontos que antes mantinham apertar; B) cada aperto passa a retirar pontos já acumulados e isso reduz apertar. Como comparar?",
+      "options": [
+        "A: extinção; B: punição negativa no uso funcional.",
+        "A e B são necessariamente o mesmo procedimento.",
+        "A: punição positiva; B: reforçamento negativo."
+      ],
+      "answer": 0,
+      "rationales": [
+        "A suspende o reforçamento anterior; B impõe uma perda contingente com efeito redutor.",
+        "As duas envolvem pontos, mas as relações com a resposta são diferentes.",
+        "Em A nada novo foi apresentado; em B a resposta foi reduzida, não fortalecida."
+      ],
+      "clues": [
+        "Qual consequência mantinha a resposta antes?",
+        "Essa consequência deixou de ser produzida ou uma nova perda foi imposta após responder?"
+      ],
+      "reasoning": [
+        "Localize a relação de reforçamento anterior.",
+        "Se ela deixa de operar para essa resposta, examine extinção operante.",
+        "Diferencie a suspensão do reforçamento de uma consequência punitiva contingente; observe o efeito ao longo do tempo."
+      ],
+      "trap": "Extinção não é apagar memória nem simplesmente “ignorar uma pessoa”; é interromper uma relação específica de reforçamento.",
+      "rebuild": "Compare um botão que deixa de produzir os pontos que antes o mantinham com um botão que passa a retirar pontos já ganhos. A primeira relação indica extinção; a segunda é outra operação.",
+      "followup": {
+        "prompt": "Antes, cada pedido produzia uma ficha que o mantinha. Em uma condição, pedidos deixam de gerar fichas; em outra, retiram uma ficha que a pessoa já tinha e diminuem. Qual comparação cabe?",
+        "options": [
+          "Ambas só mudam a cor das fichas.",
+          "Suspensão do reforçamento na primeira; retirada contingente com efeito redutor na segunda.",
+          "Reforçamento positivo nas duas, porque fichas são boas."
+        ],
+        "answer": 1,
+        "rationales": [
+          "A diferença é funcional e procedimental, não visual.",
+          "As duas relações são distintas mesmo usando o mesmo tipo de evento.",
+          "O rótulo “boas” não define o que a contingência faz."
+        ]
+      }
+    },
+    {
+      "id": "fio-12-q3",
+      "prompt": "Após suspender o reforçador que mantinha uma resposta, ela aumenta por um curto período e depois cai. Qual interpretação é compatível com extinção?",
+      "options": [
+        "O aumento inicial prova que não houve suspensão do reforçamento.",
+        "Extinção exige queda imediata e sem variação em todas as pessoas.",
+        "Pode ocorrer aumento inicial, mas ele não é obrigatório nem transforma a suspensão em reforçamento."
+      ],
+      "answer": 2,
+      "rationales": [
+        "O padrão de respostas não muda sozinho a informação de que a consequência foi suspensa.",
+        "O curso da extinção pode variar; queda perfeitamente linear não é requisito.",
+        "Um aumento inicial é possível, mas não deve ser tratado como regra universal ou como garantia de resultado."
+      ],
+      "clues": [
+        "Qual consequência mantinha a resposta antes?",
+        "Essa consequência deixou de ser produzida ou uma nova perda foi imposta após responder?"
+      ],
+      "reasoning": [
+        "Localize a relação de reforçamento anterior.",
+        "Se ela deixa de operar para essa resposta, examine extinção operante.",
+        "Diferencie a suspensão do reforçamento de uma consequência punitiva contingente; observe o efeito ao longo do tempo."
+      ],
+      "trap": "Extinção não é apagar memória nem simplesmente “ignorar uma pessoa”; é interromper uma relação específica de reforçamento.",
+      "rebuild": "Compare um botão que deixa de produzir os pontos que antes o mantinham com um botão que passa a retirar pontos já ganhos. A primeira relação indica extinção; a segunda é outra operação.",
+      "followup": {
+        "prompt": "Um aluno afirma: “Se houve extinção, a resposta nunca poderá reaparecer”. Qual correção cabe?",
+        "options": [
+          "Extinção não apaga a história; respostas podem reaparecer em certas condições.",
+          "A frase é correta: a memória foi apagada.",
+          "Qualquer reaparecimento comprova punição positiva."
+        ],
+        "answer": 0,
+        "rationales": [
+          "A suspensão do reforçamento não elimina toda a história de aprendizagem.",
+          "O processo não equivale a apagar memória.",
+          "Reaparecer não indica apresentação contingente com efeito punitivo."
+        ]
+      }
+    }
+  ],
+  "fio-13": [
+    {
+      "id": "fio-13-q1",
+      "prompt": "Após aprender a pedir ajuda em uma sala, Ana passa a pedir ajuda em outra sala semelhante, sem treino direto ali. Qual aspecto está ilustrado?",
+      "options": [
+        "Punição negativa em uma nova sala.",
+        "Generalização da resposta para outro contexto semelhante.",
+        "Extinção obrigatória, porque o lugar mudou."
+      ],
+      "answer": 1,
+      "rationales": [
+        "Nenhuma retirada contingente com redução foi descrita.",
+        "O repertório aprendido aparece em uma condição nova semelhante.",
+        "Mudar de lugar não implica suspender a consequência que mantinha a resposta."
+      ],
+      "clues": [
+        "A resposta se estende a situações novas parecidas ou se diferencia conforme as condições?",
+        "Generalização e discriminação podem coexistir em um mesmo repertório."
+      ],
+      "reasoning": [
+        "Identifique onde a resposta foi aprendida.",
+        "Veja se ocorre em condições novas semelhantes sem treino direto específico.",
+        "Compare com responder diferencial conforme a história de consequências."
+      ],
+      "trap": "Generalização não é responder em toda situação; discriminação não é apenas perceber diferenças de aparência.",
+      "rebuild": "Levar uma aprendizagem a situações parecidas ajuda a pensar em generalização. Aprender “nessa condição funciona, naquela não” ajuda a pensar em discriminação. A definição depende da relação observada.",
+      "followup": {
+        "prompt": "Uma criança aprende a cumprimentar uma professora e passa a cumprimentar outra professora em contexto parecido, sem treino direto com a segunda. Qual aspecto aparece?",
+        "options": [
+          "Discriminação por responder só à primeira.",
+          "Punição por estar com alguém diferente.",
+          "Generalização para uma nova pessoa/contexto semelhante."
+        ],
+        "answer": 2,
+        "rationales": [
+          "O enunciado diz que a resposta se estendeu, não que ficou restrita à primeira.",
+          "Não há consequência redutora descrita.",
+          "A extensão sem treino direto no novo caso é a pista relevante."
+        ]
+      }
+    },
+    {
+      "id": "fio-13-q2",
+      "prompt": "No treino, clicar na figura com borda verde produz pontos; clicar na figura com borda vermelha não. Com essa história, os cliques ficam concentrados na verde. O que se desenvolveu?",
+      "options": [
+        "Discriminação: responder diferencial conforme as condições e consequências.",
+        "Generalização irrestrita: clicar igualmente em tudo.",
+        "OE, pois toda cor muda o valor dos pontos."
+      ],
+      "answer": 0,
+      "rationales": [
+        "A resposta passa a diferir entre condições com histórias de consequências diferentes.",
+        "O relato descreve maior resposta em uma condição, não distribuição igual.",
+        "O exemplo não mostra alteração do valor dos pontos; destaca disponibilidade diferencial."
+      ],
+      "clues": [
+        "A resposta se estende a situações novas parecidas ou se diferencia conforme as condições?",
+        "Generalização e discriminação podem coexistir em um mesmo repertório."
+      ],
+      "reasoning": [
+        "Identifique onde a resposta foi aprendida.",
+        "Veja se ocorre em condições novas semelhantes sem treino direto específico.",
+        "Compare com responder diferencial conforme a história de consequências."
+      ],
+      "trap": "Generalização não é responder em toda situação; discriminação não é apenas perceber diferenças de aparência.",
+      "rebuild": "Levar uma aprendizagem a situações parecidas ajuda a pensar em generalização. Aprender “nessa condição funciona, naquela não” ajuda a pensar em discriminação. A definição depende da relação observada.",
+      "followup": {
+        "prompt": "Ao longo da história, pedir atendimento com o aviso “aberto” produz ajuda e com “fechado” não. Os pedidos ficam concentrados em “aberto”. Qual relação está ilustrada?",
+        "options": [
+          "Generalização, pois os pedidos ficaram iguais em qualquer aviso.",
+          "Discriminação no controle dos pedidos por essas condições.",
+          "Punição positiva porque existe uma placa."
+        ],
+        "answer": 1,
+        "rationales": [
+          "Os pedidos se diferenciaram, não ficaram iguais.",
+          "A história de consequências diferentes acompanha o responder diferencial.",
+          "A placa é antecedente e não foi descrita como consequência punitiva."
+        ]
+      }
+    },
+    {
+      "id": "fio-13-q3",
+      "prompt": "Lia pede ajuda a diferentes monitores em horários de atendimento, mas evita fazer o pedido ao aviso de indisponibilidade. A história de atendimento explica essas diferenças. Qual análise cabe?",
+      "options": [
+        "Generalização e discriminação são incompatíveis, então o relato está errado.",
+        "Só pode haver generalização se Lia pedir ajuda em qualquer momento.",
+        "Pode haver generalização entre monitores e discriminação entre condições de disponibilidade."
+      ],
+      "answer": 2,
+      "rationales": [
+        "Os processos descrevem aspectos diferentes do repertório e podem coexistir.",
+        "Generalizar não significa responder sem qualquer limite contextual.",
+        "Ela leva o repertório a pessoas diferentes e responde diferencialmente conforme os avisos."
+      ],
+      "clues": [
+        "A resposta se estende a situações novas parecidas ou se diferencia conforme as condições?",
+        "Generalização e discriminação podem coexistir em um mesmo repertório."
+      ],
+      "reasoning": [
+        "Identifique onde a resposta foi aprendida.",
+        "Veja se ocorre em condições novas semelhantes sem treino direto específico.",
+        "Compare com responder diferencial conforme a história de consequências."
+      ],
+      "trap": "Generalização não é responder em toda situação; discriminação não é apenas perceber diferenças de aparência.",
+      "rebuild": "Levar uma aprendizagem a situações parecidas ajuda a pensar em generalização. Aprender “nessa condição funciona, naquela não” ajuda a pensar em discriminação. A definição depende da relação observada.",
+      "followup": {
+        "prompt": "Um estudante aplica o método de estudo a matérias novas semelhantes, mas diferencia quando usar cada etapa conforme a tarefa. Que ideia é adequada?",
+        "options": [
+          "Uma aprendizagem pode se estender a situações novas e também ficar sob controle de diferenças relevantes.",
+          "Generalizar exige usar tudo sempre da mesma forma.",
+          "Discriminar significa necessariamente punir a resposta."
+        ],
+        "answer": 0,
+        "rationales": [
+          "Generalização e discriminação podem contribuir juntas para um repertório flexível.",
+          "Isso apaga diferenças funcionais entre as tarefas.",
+          "Discriminação diz respeito a responder diferencial; não implica, por si, uma contingência de punição."
+        ]
+      }
+    }
+  ],
+  "fio-14": [
+    {
+      "id": "fio-14-q1",
+      "prompt": "Complemento didático sobre esquemas: no simulador, cada resposta-alvo correta produz um ponto que funciona como reforçador. Qual esquema foi programado?",
+      "options": [
+        "Reforçamento contínuo.",
+        "Intermitente obrigatoriamente variável.",
+        "Extinção, porque há pontos."
+      ],
+      "answer": 0,
+      "rationales": [
+        "Cada ocorrência da resposta-alvo recebe reforçamento.",
+        "Não há reforçamento de apenas parte das respostas-alvo descritas.",
+        "Os pontos continuam sendo produzidos e funcionam como reforçadores."
+      ],
+      "clues": [
+        "A questão pergunta quantas respostas-alvo recebem reforçamento, não se a pessoa gosta da tarefa.",
+        "Compare cada resposta-alvo com apenas parte delas."
+      ],
+      "reasoning": [
+        "Defina exatamente qual resposta atende ao critério.",
+        "Verifique se cada ocorrência dela é reforçada.",
+        "Se só parte das ocorrências é reforçada, o esquema é intermitente."
+      ],
+      "trap": "Intermitente não significa necessariamente aleatório; contínuo não significa fazer a tarefa sem parar.",
+      "rebuild": "Imagine marcas em cada resposta-alvo: todas recebem consequência reforçadora ou só algumas? Essa distinção prepara os esquemas de razão e intervalo.",
+      "followup": {
+        "prompt": "Cada ficha corretamente separada produz uma consequência que mantém separar fichas. O que define o esquema contínuo aqui?",
+        "options": [
+          "A pessoa nunca poder fazer pausa.",
+          "Cada ocorrência da resposta-alvo definida receber reforçamento.",
+          "O reforçador aparecer independentemente de responder."
+        ],
+        "answer": 1,
+        "rationales": [
+          "Contínuo se refere à relação com as ocorrências da resposta, não à ausência de pausas.",
+          "A unidade é a resposta-alvo que atende ao critério.",
+          "O exemplo descreve dependência entre a resposta e a consequência."
+        ]
+      }
+    },
+    {
+      "id": "fio-14-q2",
+      "prompt": "No simulador, somente a cada três respostas-alvo ocorre uma consequência reforçadora. Como classificar de forma geral?",
+      "options": [
+        "Contínuo, pois o padrão é previsível.",
+        "Extinção, pois nem toda resposta é reforçada.",
+        "Intermitente, pois apenas parte das respostas recebe reforçamento."
+      ],
+      "answer": 2,
+      "rationales": [
+        "Previsibilidade não transforma reforçamento parcial em reforçamento de cada resposta.",
+        "Ainda há reforçamento programado; ele não foi suspenso.",
+        "A distinção geral é cada resposta-alvo versus apenas algumas."
+      ],
+      "clues": [
+        "A questão pergunta quantas respostas-alvo recebem reforçamento, não se a pessoa gosta da tarefa.",
+        "Compare cada resposta-alvo com apenas parte delas."
+      ],
+      "reasoning": [
+        "Defina exatamente qual resposta atende ao critério.",
+        "Verifique se cada ocorrência dela é reforçada.",
+        "Se só parte das ocorrências é reforçada, o esquema é intermitente."
+      ],
+      "trap": "Intermitente não significa necessariamente aleatório; contínuo não significa fazer a tarefa sem parar.",
+      "rebuild": "Imagine marcas em cada resposta-alvo: todas recebem consequência reforçadora ou só algumas? Essa distinção prepara os esquemas de razão e intervalo.",
+      "followup": {
+        "prompt": "De dez respostas-alvo, apenas algumas produzem reforçadores, conforme uma regra programada. Isso é:",
+        "options": [
+          "Reforçamento intermitente.",
+          "Contínuo, porque a regra existe.",
+          "Ausência obrigatória de aprendizagem."
+        ],
+        "answer": 0,
+        "rationales": [
+          "Só parte das ocorrências recebe reforçamento.",
+          "Ter regra não informa que toda resposta é reforçada.",
+          "O reforçamento intermitente pode manter repertórios."
+        ]
+      }
+    },
+    {
+      "id": "fio-14-q3",
+      "prompt": "Um colega afirma: “Intermitente significa que o reforçador aparece ao acaso, sem depender de responder”. Qual correção é necessária?",
+      "options": [
+        "Nenhuma: intermitente é sinônimo de evento sem relação com a resposta.",
+        "Intermitente significa reforçar apenas parte das respostas; a regra pode ser fixa ou variável e manter dependência da resposta.",
+        "Intermitente significa retirar todos os reforçadores para sempre."
+      ],
+      "answer": 1,
+      "rationales": [
+        "Confunde reforçamento parcial com independência da resposta.",
+        "A correção preserva o critério de parte das respostas e evita equiparar intermitência a aleatoriedade.",
+        "Isso se aproxima da suspensão da relação, não da definição de intermitência."
+      ],
+      "clues": [
+        "A questão pergunta quantas respostas-alvo recebem reforçamento, não se a pessoa gosta da tarefa.",
+        "Compare cada resposta-alvo com apenas parte delas."
+      ],
+      "reasoning": [
+        "Defina exatamente qual resposta atende ao critério.",
+        "Verifique se cada ocorrência dela é reforçada.",
+        "Se só parte das ocorrências é reforçada, o esquema é intermitente."
+      ],
+      "trap": "Intermitente não significa necessariamente aleatório; contínuo não significa fazer a tarefa sem parar.",
+      "rebuild": "Imagine marcas em cada resposta-alvo: todas recebem consequência reforçadora ou só algumas? Essa distinção prepara os esquemas de razão e intervalo.",
+      "followup": {
+        "prompt": "Se cada quinta resposta produz reforçamento, o esquema deixa de ser intermitente por ser previsível?",
+        "options": [
+          "Sim, pois toda previsibilidade é contínua.",
+          "Sim, pois não há reforçamento.",
+          "Não: continua reforçando apenas parte das respostas."
+        ],
+        "answer": 2,
+        "rationales": [
+          "Previsibilidade e proporção de respostas reforçadas são dimensões diferentes.",
+          "A quinta resposta ainda produz o reforçador.",
+          "A regularidade da regra não muda o caráter parcial do reforçamento."
+        ]
+      }
+    }
+  ],
+  "fio-15": [
+    {
+      "id": "fio-15-q1",
+      "prompt": "Complemento didático: no simulador, o ponto reforçador aparece após cada cinco respostas, e a contagem reinicia. Qual esquema é esse?",
+      "options": [
+        "Intervalo fixo (FI), porque cinco é um número fixo.",
+        "Razão variável (VR), porque as pessoas podem clicar em ritmos diferentes.",
+        "Razão fixa 5 (FR 5): o requisito é sempre cinco respostas."
+      ],
+      "answer": 2,
+      "rationales": [
+        "FI depende de tempo decorrido; aqui são contadas respostas.",
+        "O ritmo do participante não altera a exigência programada de cinco respostas.",
+        "A unidade é resposta e o requisito numérico não varia."
+      ],
+      "clues": [
+        "Conte respostas, não minutos.",
+        "No esquema de razão, a quantidade exigida é constante ou varia entre reforçadores?"
+      ],
+      "reasoning": [
+        "Verifique se o requisito é um número de respostas.",
+        "Número constante caracteriza razão fixa (FR).",
+        "Exigência que varia, descrita por uma média, caracteriza razão variável (VR)."
+      ],
+      "trap": "Variável não quer dizer “qualquer coisa muda”. Em VR varia o número de respostas exigidas; em FR ele permanece fixo.",
+      "rebuild": "Pense em contar cliques: sempre cinco até o próximo reforçador (FR) ou quantidades variáveis, como dois, oito e cinco, com média cinco (VR).",
+      "followup": {
+        "prompt": "Uma simulação reforça a cada três respostas, sempre contando três desde o último reforçador. Qual é o esquema?",
+        "options": [
+          "Razão fixa 3 (FR 3).",
+          "Intervalo fixo 3 (FI 3).",
+          "Razão variável (VR)."
+        ],
+        "answer": 0,
+        "rationales": [
+          "O requisito constante é uma quantidade de respostas.",
+          "Não há duração de tempo como requisito.",
+          "O número de respostas exigido não varia."
+        ]
+      }
+    },
+    {
+      "id": "fio-15-q2",
+      "prompt": "A simulação exige sucessivamente 2, 8, 5, 3 e 7 respostas para cada reforçador, com média de 5 ao longo dessa sequência. Qual é o esquema?",
+      "options": [
+        "Razão fixa 5: a média torna cada requisito igual a cinco.",
+        "Razão variável com média 5 (VR 5).",
+        "Intervalo variável: qualquer sequência variável é intervalo."
+      ],
+      "answer": 1,
+      "rationales": [
+        "A média cinco não significa exigir cinco em cada ciclo.",
+        "Varia a quantidade de respostas entre reforçadores, mantendo uma média descrita.",
+        "A unidade é número de respostas, não tempo."
+      ],
+      "clues": [
+        "Conte respostas, não minutos.",
+        "No esquema de razão, a quantidade exigida é constante ou varia entre reforçadores?"
+      ],
+      "reasoning": [
+        "Verifique se o requisito é um número de respostas.",
+        "Número constante caracteriza razão fixa (FR).",
+        "Exigência que varia, descrita por uma média, caracteriza razão variável (VR)."
+      ],
+      "trap": "Variável não quer dizer “qualquer coisa muda”. Em VR varia o número de respostas exigidas; em FR ele permanece fixo.",
+      "rebuild": "Pense em contar cliques: sempre cinco até o próximo reforçador (FR) ou quantidades variáveis, como dois, oito e cinco, com média cinco (VR).",
+      "followup": {
+        "prompt": "O requisito muda entre 1, 4 e 7 respostas, com média 4. A consequência só aparece depois de completar cada requisito. Qual leitura cabe?",
+        "options": [
+          "FR 4, porque a média é quatro.",
+          "VI, porque há variação.",
+          "VR 4, porque varia o número de respostas com média quatro."
+        ],
+        "answer": 2,
+        "rationales": [
+          "A exigência de cada ciclo não é fixa em quatro.",
+          "VI exige intervalos de tempo variáveis; aqui contamos respostas.",
+          "O enunciado define o critério de razão variável."
+        ]
+      }
+    },
+    {
+      "id": "fio-15-q3",
+      "prompt": "Em FR 5, João leva 10 segundos para emitir cinco respostas; Ana leva 30 segundos. O ponto aparece depois da quinta para ambos. O esquema mudou para variável?",
+      "options": [
+        "Não: variou o tempo levado pelos participantes, mas o requisito continuou sendo cinco respostas.",
+        "Sim: qualquer diferença entre pessoas muda FR para VR.",
+        "Sim: o reforçador apareceu por tempo e não por resposta."
+      ],
+      "answer": 0,
+      "rationales": [
+        "O esquema é definido pela regra programada, não pelo ritmo individual.",
+        "A diferença de ritmo não muda o número de respostas exigido.",
+        "Os tempos são resultados do desempenho; o critério continua sendo a quinta resposta."
+      ],
+      "clues": [
+        "Conte respostas, não minutos.",
+        "No esquema de razão, a quantidade exigida é constante ou varia entre reforçadores?"
+      ],
+      "reasoning": [
+        "Verifique se o requisito é um número de respostas.",
+        "Número constante caracteriza razão fixa (FR).",
+        "Exigência que varia, descrita por uma média, caracteriza razão variável (VR)."
+      ],
+      "trap": "Variável não quer dizer “qualquer coisa muda”. Em VR varia o número de respostas exigidas; em FR ele permanece fixo.",
+      "rebuild": "Pense em contar cliques: sempre cinco até o próximo reforçador (FR) ou quantidades variáveis, como dois, oito e cinco, com média cinco (VR).",
+      "followup": {
+        "prompt": "Num FR 10, hoje você responde mais lentamente, mas o reforçador continua após a décima resposta. Qual elemento permanece fixo?",
+        "options": [
+          "O tempo exato até ganhar.",
+          "O número de respostas exigido.",
+          "A velocidade dos seus movimentos."
+        ],
+        "answer": 1,
+        "rationales": [
+          "O tempo pode mudar com seu ritmo.",
+          "A exigência de dez respostas continua igual.",
+          "A velocidade foi descrita como mais lenta; ela não define o FR."
+        ]
+      }
+    }
+  ],
+  "fio-16": [
+    {
+      "id": "fio-16-q1",
+      "prompt": "Complemento didático: após cada reforçador, o simulador conta 30 segundos. A primeira resposta emitida depois desses 30 segundos produz o próximo reforçador. Qual esquema aparece?",
+      "options": [
+        "Intervalo fixo de 30 segundos (FI 30 s).",
+        "Razão fixa 30, porque existe um número fixo.",
+        "Entrega automática a cada 30 segundos, mesmo sem resposta."
+      ],
+      "answer": 0,
+      "rationales": [
+        "O requisito temporal é constante e o reforçador depende da primeira resposta após ele.",
+        "Não são necessárias trinta respostas; o requisito é tempo.",
+        "O enunciado exige uma resposta após o intervalo; o relógio sozinho não entrega o reforçador."
+      ],
+      "clues": [
+        "Agora conte tempo até a disponibilidade do reforçador.",
+        "Nos esquemas de intervalo, é necessária a primeira resposta após o intervalo."
+      ],
+      "reasoning": [
+        "Localize o intervalo contado desde o último reforçador.",
+        "Verifique se o tempo exigido é fixo (FI) ou variável (VI).",
+        "Depois de transcorrido o intervalo, identifique a primeira resposta que produz o reforçador."
+      ],
+      "trap": "Reforçador entregue automaticamente pelo relógio, sem resposta, não é o FI/VI de reforçamento contingente descrito aqui.",
+      "rebuild": "Pense numa porta que só libera depois de um tempo: ainda é preciso responder para obter o reforçador. FI mantém o intervalo; VI muda os intervalos em torno de uma média.",
+      "followup": {
+        "prompt": "No FI 20 s, a pessoa não responde entre 20 e 35 segundos após o último reforçador e responde aos 35. Quando pode receber o próximo reforçador nessa regra?",
+        "options": [
+          "Automaticamente aos 20, sem responder.",
+          "Na resposta dos 35 segundos, a primeira após o intervalo.",
+          "Só depois de emitir vinte respostas."
+        ],
+        "answer": 1,
+        "rationales": [
+          "FI torna o reforçador disponível após o tempo, mas ainda requer a resposta.",
+          "O intervalo já passou e a resposta agora satisfaz a contingência.",
+          "Isso confunde tempo com quantidade de respostas."
+        ]
+      }
+    },
+    {
+      "id": "fio-16-q2",
+      "prompt": "Os intervalos programados são 20, 40 e 60 segundos, com média 40. Após cada intervalo, a primeira resposta produz o reforçador. Qual esquema está descrito?",
+      "options": [
+        "Razão variável, porque tudo que varia é razão.",
+        "Intervalo fixo 40, porque a média é quarenta.",
+        "Intervalo variável com média 40 segundos (VI 40 s)."
+      ],
+      "answer": 2,
+      "rationales": [
+        "Razão usa quantidade de respostas; aqui varia tempo.",
+        "Cada requisito temporal difere; a média não o torna fixo em cada ciclo.",
+        "Variam os intervalos e a consequência depende da primeira resposta após cada um."
+      ],
+      "clues": [
+        "Agora conte tempo até a disponibilidade do reforçador.",
+        "Nos esquemas de intervalo, é necessária a primeira resposta após o intervalo."
+      ],
+      "reasoning": [
+        "Localize o intervalo contado desde o último reforçador.",
+        "Verifique se o tempo exigido é fixo (FI) ou variável (VI).",
+        "Depois de transcorrido o intervalo, identifique a primeira resposta que produz o reforçador."
+      ],
+      "trap": "Reforçador entregue automaticamente pelo relógio, sem resposta, não é o FI/VI de reforçamento contingente descrito aqui.",
+      "rebuild": "Pense numa porta que só libera depois de um tempo: ainda é preciso responder para obter o reforçador. FI mantém o intervalo; VI muda os intervalos em torno de uma média.",
+      "followup": {
+        "prompt": "No simulador, a primeira resposta após intervalos de 10, 30 e 20 segundos produz reforço; a média é 20. Como classificar?",
+        "options": [
+          "VI 20 s.",
+          "FR 20.",
+          "FI 20 s, pois todos os intervalos são idênticos."
+        ],
+        "answer": 0,
+        "rationales": [
+          "O requisito é temporal e varia em torno da média vinte.",
+          "Vinte não é uma quantidade de respostas exigida nesse relato.",
+          "Os intervalos informados não são idênticos."
+        ]
+      }
+    },
+    {
+      "id": "fio-16-q3",
+      "prompt": "Compare: A) reforçador depois de cada dez respostas; B) reforçador na primeira resposta após dez segundos desde o último reforçador. Qual diferença é decisiva?",
+      "options": [
+        "Não existe diferença, pois os dois usam o número dez.",
+        "A conta respostas (FR); B conta tempo e exige a primeira resposta após ele (FI).",
+        "A é tempo fixo; B é número de respostas."
+      ],
+      "answer": 1,
+      "rationales": [
+        "O mesmo número pode representar unidades e regras diferentes.",
+        "A unidade do requisito separa os esquemas de razão e intervalo.",
+        "As unidades foram invertidas."
+      ],
+      "clues": [
+        "Agora conte tempo até a disponibilidade do reforçador.",
+        "Nos esquemas de intervalo, é necessária a primeira resposta após o intervalo."
+      ],
+      "reasoning": [
+        "Localize o intervalo contado desde o último reforçador.",
+        "Verifique se o tempo exigido é fixo (FI) ou variável (VI).",
+        "Depois de transcorrido o intervalo, identifique a primeira resposta que produz o reforçador."
+      ],
+      "trap": "Reforçador entregue automaticamente pelo relógio, sem resposta, não é o FI/VI de reforçamento contingente descrito aqui.",
+      "rebuild": "Pense numa porta que só libera depois de um tempo: ainda é preciso responder para obter o reforçador. FI mantém o intervalo; VI muda os intervalos em torno de uma média.",
+      "followup": {
+        "prompt": "Se o participante clicar cinquenta vezes antes de terminar o intervalo no FI, esses cliques bastam para antecipar o reforçador?",
+        "options": [
+          "Sim, porque FI conta cinquenta respostas.",
+          "Sim, porque responder sempre elimina a exigência de tempo.",
+          "Não: é preciso transcorrer o intervalo e então emitir a resposta que produz o reforçador."
+        ],
+        "answer": 2,
+        "rationales": [
+          "FI não usa número de respostas como critério de disponibilidade.",
+          "A regra temporal continua valendo.",
+          "O ritmo pode variar, mas o intervalo programado não é substituído por mais respostas."
+        ]
+      }
+    }
+  ],
+  "fio-17": [
+    {
+      "id": "fio-17-q1",
+      "prompt": "Exemplo didático: diante do pedido de guardar brinquedos, a criança reclama; a mãe retira a tarefa e guarda por ela. Comparações repetidas sustentam que retirar a tarefa fortaleceu reclamar; atenção adicional foi mantida constante. Para a criança, qual é a análise?",
+      "options": [
+        "Punição positiva, pois a mãe fez algo.",
+        "Reforço positivo comprovado da atenção, apesar do dado que a mantém constante.",
+        "Reforçamento negativo de reclamar, pela retirada da tarefa que fortaleceu essa resposta."
+      ],
+      "answer": 2,
+      "rationales": [
+        "A análise é da resposta da criança; ela aumentou em vez de diminuir.",
+        "O exemplo oferece evidência específica para retirada da tarefa e não para atenção adicional.",
+        "A linha funcional é reclamar → retirada da tarefa → mais reclamação."
+      ],
+      "clues": [
+        "Faça um A → R → C separado para cada pessoa.",
+        "A resposta de uma pessoa pode mudar o ambiente da outra."
+      ],
+      "reasoning": [
+        "Escolha um ator e uma resposta por vez.",
+        "Identifique o efeito da resposta desse ator.",
+        "Examine a mudança futura de cada resposta, sem transferir automaticamente o rótulo de uma pessoa para a outra."
+      ],
+      "trap": "Perguntar “quem foi reforçado?” exige nomear comportamentos; em um ciclo, respostas de duas pessoas podem ser fortalecidas.",
+      "rebuild": "Use duas linhas: criança reclama → tarefa retirada → reclamar ↑; mãe faz a tarefa → reclamação cessa → fazer pela criança ↑. Analise cada linha por seus próprios dados.",
+      "followup": {
+        "prompt": "Diante de uma demanda, Teo protesta; a demanda é suspensa. Em condições comparáveis, a suspensão fortalece protestar, sem mudança de atenção. Qual resposta foi reforçada negativamente?",
+        "options": [
+          "Protestar, porque passou a retirar a demanda e aumentou por isso.",
+          "A professora apresentar a demanda, apenas por ter vindo antes.",
+          "A demanda em si, porque ela foi retirada."
+        ],
+        "answer": 0,
+        "rationales": [
+          "O comportamento-alvo e o efeito fortalecedor foram identificados corretamente.",
+          "Esse é outro comportamento, cujo efeito futuro não foi fornecido.",
+          "Uma demanda é um evento ambiental para Teo; não é a resposta dele."
+        ]
+      }
+    },
+    {
+      "id": "fio-17-q2",
+      "prompt": "No mesmo ciclo didático, a mãe faz a tarefa pela criança; a reclamação cessa. Os registros sustentam que cessar a reclamação fortaleceu fazer a tarefa pela criança. Qual é a linha funcional da mãe?",
+      "options": [
+        "Fazer a tarefa → cessação da reclamação → fazer pela criança aumenta: reforçamento negativo.",
+        "Fazer a tarefa → receber uma tarefa retirada da criança → punição positiva da mãe.",
+        "A mãe não pode ter comportamento reforçado porque é adulta."
+      ],
+      "answer": 0,
+      "rationales": [
+        "A resposta da mãe retira a reclamação e se fortalece nessa relação.",
+        "A alternativa mistura efeitos para atores diferentes e não segue a resposta medida da mãe.",
+        "Idade e papel social não excluem relações de reforçamento."
+      ],
+      "clues": [
+        "Faça um A → R → C separado para cada pessoa.",
+        "A resposta de uma pessoa pode mudar o ambiente da outra."
+      ],
+      "reasoning": [
+        "Escolha um ator e uma resposta por vez.",
+        "Identifique o efeito da resposta desse ator.",
+        "Examine a mudança futura de cada resposta, sem transferir automaticamente o rótulo de uma pessoa para a outra."
+      ],
+      "trap": "Perguntar “quem foi reforçado?” exige nomear comportamentos; em um ciclo, respostas de duas pessoas podem ser fortalecidas.",
+      "rebuild": "Use duas linhas: criança reclama → tarefa retirada → reclamar ↑; mãe faz a tarefa → reclamação cessa → fazer pela criança ↑. Analise cada linha por seus próprios dados.",
+      "followup": {
+        "prompt": "Um professor resolve imediatamente a atividade pelo aluno; os protestos cessam e isso aumenta a frequência de o professor resolver por ele. Qual comportamento foi fortalecido por retirada nessa linha?",
+        "options": [
+          "O aluno concluir sozinho, apesar de não ter concluído.",
+          "O professor resolver pelo aluno.",
+          "A presença da atividade, sem uma resposta."
+        ],
+        "answer": 1,
+        "rationales": [
+          "Esse comportamento não foi emitido nem acompanhado no relato.",
+          "É a ação seguida pela cessação dos protestos e que passou a aumentar.",
+          "A atividade é um evento do contexto, não a resposta do professor."
+        ]
+      }
+    },
+    {
+      "id": "fio-17-q3",
+      "prompt": "No ciclo descrito, reclamar aumenta porque a tarefa é retirada; fazer pela criança aumenta porque a reclamação cessa. Qual conclusão acompanha os dois conjuntos de dados?",
+      "options": [
+        "Só a criança pode estar sob reforçamento, pois foi ela quem reclamou.",
+        "As duas respostas podem estar sob reforçamento negativo, por consequências diferentes para cada ator.",
+        "Os dois comportamentos são iguais e precisam ter o mesmo antecedente."
+      ],
+      "answer": 1,
+      "rationales": [
+        "A resposta da mãe também teve efeito fortalecedor descrito.",
+        "Uma análise para cada pessoa mostra retirada da tarefa para uma e cessação da reclamação para a outra.",
+        "As respostas e os antecedentes são diferentes, embora façam parte de uma interação."
+      ],
+      "clues": [
+        "Faça um A → R → C separado para cada pessoa.",
+        "A resposta de uma pessoa pode mudar o ambiente da outra."
+      ],
+      "reasoning": [
+        "Escolha um ator e uma resposta por vez.",
+        "Identifique o efeito da resposta desse ator.",
+        "Examine a mudança futura de cada resposta, sem transferir automaticamente o rótulo de uma pessoa para a outra."
+      ],
+      "trap": "Perguntar “quem foi reforçado?” exige nomear comportamentos; em um ciclo, respostas de duas pessoas podem ser fortalecidas.",
+      "rebuild": "Use duas linhas: criança reclama → tarefa retirada → reclamar ↑; mãe faz a tarefa → reclamação cessa → fazer pela criança ↑. Analise cada linha por seus próprios dados.",
+      "followup": {
+        "prompt": "Em outro relato só sabemos: “a criança reclamou e a mãe guardou”. Ainda não temos dados de consequência relevante nem de mudança futura de cada resposta. Podemos concluir que ambas foram reforçadas?",
+        "options": [
+          "Sim, porque toda interação reforça os dois.",
+          "Sim, porque guardar sempre é reforço positivo.",
+          "Não automaticamente: precisamos analisar separadamente consequências e efeitos futuros de cada resposta."
+        ],
+        "answer": 2,
+        "rationales": [
+          "Duas ações consecutivas não demonstram duas relações de reforçamento.",
+          "A forma “guardar” não define qual função teve para outra resposta.",
+          "As hipóteses devem ser verificadas para cada linha funcional."
+        ]
+      }
+    }
+  ],
+  "fio-18": [
+    {
+      "id": "fio-18-q1",
+      "prompt": "Qual explicação, em palavras simples, mostra melhor o entendimento de reforçamento negativo?",
+      "options": [
+        "Uma ação fica mais provável porque retira, reduz ou evita uma condição aversiva; negativo descreve essa operação, e reforço, o fortalecimento.",
+        "É receber algo ruim para aprender a não repetir uma ação.",
+        "É uma recompensa de valor negativo, sem precisar olhar o comportamento futuro."
+      ],
+      "answer": 0,
+      "rationales": [
+        "A explicação conecta a resposta, sua consequência e o efeito futuro sem confundir os dois eixos.",
+        "Essa frase descreve intenção de reduzir por apresentação e confunde reforçamento com punição.",
+        "A função não é definida por uma nota de valor bom/ruim; precisamos do efeito sobre a resposta."
+      ],
+      "clues": [
+        "Explique a relação inteira, não apenas o nome.",
+        "Diga o que os dados mostram e o que ainda falta saber."
+      ],
+      "reasoning": [
+        "Escolha a resposta-alvo e organize A → R → C.",
+        "Examine operação, disponibilidade, eficácia e efeito futuro sem misturá-los.",
+        "Use o rótulo como conclusão da análise; se a evidência faltar, formule uma hipótese."
+      ],
+      "trap": "Falar um termo técnico corretamente não substitui explicar quem fez o quê, qual consequência ocorreu e como a resposta mudou.",
+      "rebuild": "Volte ao fio: antes → ação → depois → resposta futura. Complete a frase: “Essa resposta ficou mais/menos provável porque...”; se o “porque” não estiver demonstrado, diga que é hipótese.",
+      "followup": {
+        "prompt": "Um estudante diz: “Reforço negativo é retirar algo e, por essa retirada, a ação aumenta”. Qual parte torna a explicação funcional?",
+        "options": [
+          "Usar apenas a palavra negativo.",
+          "Conectar a retirada ao fortalecimento da resposta futura.",
+          "Chamar a consequência de ruim sem olhar dados."
+        ],
+        "answer": 1,
+        "rationales": [
+          "O sinal sozinho não distingue reforçamento de outras relações.",
+          "A conexão entre operação e efeito é a parte central.",
+          "A aparência do evento não basta para identificar a função."
+        ]
+      }
+    },
+    {
+      "id": "fio-18-q2",
+      "prompt": "Um colega diz: “O professor elogiou depois de um pedido; portanto, houve reforço positivo”. O relato não apresenta nenhum dado futuro. Qual devolutiva é mais útil?",
+      "options": [
+        "Você errou tudo: não existe nenhuma informação aproveitável.",
+        "Está totalmente comprovado, porque elogio sempre reforça.",
+        "Você identificou a apresentação após o pedido; falta verificar se ela fortaleceu pedir em situações semelhantes."
+      ],
+      "answer": 2,
+      "rationales": [
+        "Há uma parte correta: um evento foi apresentado após a resposta. A correção deve preservar esse acerto.",
+        "O elogio é candidato a reforçador, mas sua função não foi demonstrada no relato.",
+        "A devolutiva reconhece o acerto e localiza exatamente a evidência que falta."
+      ],
+      "clues": [
+        "Explique a relação inteira, não apenas o nome.",
+        "Diga o que os dados mostram e o que ainda falta saber."
+      ],
+      "reasoning": [
+        "Escolha a resposta-alvo e organize A → R → C.",
+        "Examine operação, disponibilidade, eficácia e efeito futuro sem misturá-los.",
+        "Use o rótulo como conclusão da análise; se a evidência faltar, formule uma hipótese."
+      ],
+      "trap": "Falar um termo técnico corretamente não substitui explicar quem fez o quê, qual consequência ocorreu e como a resposta mudou.",
+      "rebuild": "Volte ao fio: antes → ação → depois → resposta futura. Complete a frase: “Essa resposta ficou mais/menos provável porque...”; se o “porque” não estiver demonstrado, diga que é hipótese.",
+      "followup": {
+        "prompt": "Uma explicação diz: “A consequência foi retirada; então houve punição negativa”. Não há dados de efeito. Qual correção é precisa?",
+        "options": [
+          "Você reconheceu a retirada; falta saber se ela produziu redução da resposta para concluir punição na definição funcional.",
+          "Toda retirada já prova punição negativa.",
+          "Se foi retirada, é sempre reforço negativo."
+        ],
+        "answer": 0,
+        "rationales": [
+          "A operação está identificada, mas o efeito funcional precisa ser estabelecido.",
+          "Retirada pode ter efeitos diferentes e não demonstra, sozinha, redução.",
+          "Faltam dados de fortalecimento para esse outro rótulo também."
+        ]
+      }
+    },
+    {
+      "id": "fio-18-q3",
+      "prompt": "Na simulação, estar sem beber aumenta a eficácia reforçadora da água; a luz aprendida sinaliza quando apertar produz água; apertar produz água e aumenta em comparações repetidas. Qual análise conecta o fio inteiro?",
+      "options": [
+        "A luz é a consequência e a água é a resposta, porque são coisas visíveis.",
+        "A condição sem beber pode funcionar como OE, a luz como SD para apertar, e a água apresentada reforça positivamente apertar.",
+        "A condição sem beber é punição; a luz é reforçador negativo só porque vem antes."
+      ],
+      "answer": 1,
+      "rationales": [
+        "A luz antecede a resposta; a água é a consequência apresentada por apertar.",
+        "A análise distingue eficácia, disponibilidade sinalizada, resposta e consequência fortalecedora.",
+        "Vir antes não define reforçador negativo nem punição; os papéis precisam seguir as relações descritas."
+      ],
+      "clues": [
+        "Explique a relação inteira, não apenas o nome.",
+        "Diga o que os dados mostram e o que ainda falta saber."
+      ],
+      "reasoning": [
+        "Escolha a resposta-alvo e organize A → R → C.",
+        "Examine operação, disponibilidade, eficácia e efeito futuro sem misturá-los.",
+        "Use o rótulo como conclusão da análise; se a evidência faltar, formule uma hipótese."
+      ],
+      "trap": "Falar um termo técnico corretamente não substitui explicar quem fez o quê, qual consequência ocorreu e como a resposta mudou.",
+      "rebuild": "Volte ao fio: antes → ação → depois → resposta futura. Complete a frase: “Essa resposta ficou mais/menos provável porque...”; se o “porque” não estiver demonstrado, diga que é hipótese.",
+      "followup": {
+        "prompt": "Em outra simulação, apertar interrompe um som já presente e esse efeito fortalece apertar. Qual explicação completa é suficiente, sem acrescentar conceitos desnecessários?",
+        "options": [
+          "Apertar é punição, porque havia barulho.",
+          "O som é um SD obrigatório apenas por ser ouvido.",
+          "O som já ocorria; apertar o termina e aumenta por esse efeito: fuga mantida por reforçamento negativo."
+        ],
+        "answer": 2,
+        "rationales": [
+          "O barulho não define punição; a resposta se fortaleceu pela retirada.",
+          "O enunciado não fornece a história de disponibilidade diferencial necessária para concluir SD.",
+          "A explicação reúne condição presente, resposta, retirada e fortalecimento, antes de nomear os processos."
+        ]
+      }
+    }
+  ]
+}

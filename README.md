@@ -15,6 +15,12 @@ O armazenamento de progresso depende da disponibilidade do localStorage do naveg
 
 ## O que está incluído
 
+- Percurso **Começar do zero**: 18 encontros encadeados, de situação/estímulo/resposta até análise integrada e esquemas de reforçamento.
+- Cada encontro reúne explicação simples e técnica, mecanismo, diagrama, mini-história revelada por momentos, comparação funcional, contraexemplo, pegadinha e frase de síntese.
+- Aula particular com explicação Feynman por rubrica e três perguntas objetivas, uma por vez, antes de liberar o próximo conceito. São 54 questões e 54 situações alternativas para reconstruir a mesma distinção após erros.
+- Simulador R → consequência → R futura: adição/retirada e efeito observado são escolhidos antes de nomear a relação; sem dados, não há classificação automática indevida.
+- Histórico preserva erros e retomadas do percurso do zero; a conferência da explicação é explicitamente feita pelo estudante, sem avaliação semântica automática.
+- Os esquemas contínuo/intermitente, FR/VR e FI/VI estão identificados como complementação conceitual. A definição funcional usual de punição é comparada à definição procedural dos slides.
 - Mesma estrutura visual e navegação da primeira versão: 7 módulos e os 7 PDFs preservados.
 - 37 microlições conectadas, cada uma em seis etapas: explorar, aprender, visualizar, comparar, recuperar e revisar.
 - Pergunta central, conhecimentos prévios, explicação intuitiva e aprofundada, analogia com limites, exemplo/contraexemplo, recuperação ativa e até cinco ideias essenciais por aula.
@@ -53,6 +59,10 @@ A transcrição pode omitir textos incorporados como imagens. Os PDFs preservam 
 - `src/learning-data.json`: conexões, analogias, contraexemplos, recuperação e confusões conceituais.
 - `src/assessment-data.json`: 111 desafios, raciocínio, rubricas e perguntas de consolidação.
 - `src/learning.js`: microlições, prática guiada, revisões e compatibilidade de progresso.
+- `src/tutor-data.json`: 18 encontros encadeados, exemplos, diagramas e rubricas.
+- `src/tutor-questions.json`: 54 perguntas e suas 54 verificações após dificuldade.
+- `src/tutor.js`: percurso do zero, verificação dos pré-requisitos e histórico.
+- `docs/beginner-guidelines.md`: diretrizes para ensinar do zero, com função antes do rótulo.
 - `docs/learning-guidelines.md`: instruções de aprendizagem fornecidas pelo usuário.
 
 Depois de editar:
@@ -72,6 +82,7 @@ Teste de navegação, com Playwright e Chromium disponíveis e servidor ativo:
 ```bash
 node tests/browser.cjs
 node tests/learning.cjs
+node tests/tutor.cjs
 ```
 
 A atualização também foi validada com restauração do progresso anterior, seis etapas por microlição, 111 desafios guiados, consolidação após dificuldades, conferência por rubricas, modo foco, revisões agendadas e feedback mobile sem transbordamento. As capturas em `validation/` documentam a interface desktop e mobile. O teste escreve e apaga progresso apenas no navegador de teste.
@@ -81,3 +92,9 @@ A atualização também foi validada com restauração do progresso anterior, se
 A nova versão usa a mesma chave de armazenamento `clareia-aba-v2` e aceita exportações antigas de progresso. Ao mudar o nome/local do HTML ou trocar de navegador, o armazenamento pode ser separado pela política do navegador: exporte seus estudos na versão anterior e restaure o JSON na nova versão.
 
 As datas sugeridas são exibidas no fuso de São Paulo. Os intervalos são pontos de partida ajustáveis: não prometem retenção nem medem domínio, e não pressupõem que uma técnica funcione igualmente para todas as pessoas com TDAH. A conclusão de uma aula, o acerto de múltipla escolha e a autoavaliação de uma explicação são indicadores distintos.
+
+## Como começar o fio do zero
+
+Na tela Minha jornada, use **Começar do zero**. As cinco etapas são Entender, Visualizar, Diferenciar, Explicar e Conferir. A explicação escrita precede a resposta-modelo. O estudante confere três critérios e então responde às três situações objetivas. Erros abrem reconstrução e outra situação do mesmo conceito; uma resposta correta na retomada é registrada como acerto após ajuda, preservando o erro inicial. Só então o próximo encontro é liberado.
+
+Esse percurso convive com as 37 microlições e suas atividades anteriores. É possível voltar e comparar sem apagar progresso. Conteúdos e verificações são educacionais; acertar exemplos ou assinalar uma rubrica não garante domínio em situações inéditas.

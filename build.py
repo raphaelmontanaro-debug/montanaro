@@ -30,6 +30,27 @@ for m in data:
                 assert q['type'] == 'short' and len(q['rubric']) == 3 and q['modelAnswer']
 assert len(assessment) == len(lesson_ids) * 3
 assert len({q['id'] for q in assessment}) == len(assessment)
+tutor = json.loads((SRC / 'tutor-data.json').read_text())
+tutor_questions = json.loads((SRC / 'tutor-questions.json').read_text())
+tutor_ids = {l['id'] for l in tutor['lessons']}
+assert len(tutor_ids) == len(tutor['lessons']) == 18
+assert set(tutor_questions) == tutor_ids
+assert len({q['id'] for items in tutor_questions.values() for q in items}) == 54
+for lesson in tutor['lessons']:
+    for field in ['title','question','whyNow','simple','technical','everyday','educational','counterexample','trap','memory','analogy','analogyLimit','next']:
+        assert isinstance(lesson[field], str) and lesson[field].strip(), (lesson['id'], field)
+    assert 3 <= len(lesson['essentials']) <= 5
+    assert len(lesson['feynman']['rubric']) == 3 and lesson['feynman']['model']
+    assert lesson['story']['events'] and lesson['mechanism'] and isinstance(lesson['supplement'], bool)
+    for ref in lesson['refs']:
+        module = next(m for m in data if m['id'] == ref['moduleId'])
+        assert 1 <= ref['pages'][0] <= ref['pages'][1] <= module['pageCount']
+    assert len(tutor_questions[lesson['id']]) == 3
+    for q in tutor_questions[lesson['id']]:
+        for item in [q, q['followup']]:
+            assert len(item['options']) == len(item['rationales']) == 3
+            assert 0 <= item['answer'] < 3 and item['prompt']
+        assert q['clues'] and q['reasoning'] and q['trap'] and q['rebuild']
 # Protect JSON embedded in an HTML script element.
 payload = json.dumps(data, ensure_ascii=False).replace('<', '\\u003c').replace('\u2028', '\\u2028').replace('\u2029', '\\u2029')
 html = '''<!DOCTYPE html>
@@ -37,15 +58,16 @@ html = '''<!DOCTYPE html>
 html += (SRC / 'styles.css').read_text() + '</style></head><body>'
 html += (SRC / 'shell.html').read_text()
 html += '<script type="application/json" id="courseData">' + payload + '</script>'
-for source, element in [('learning-data.json', 'learningData'), ('assessment-data.json', 'assessmentData')]:
+for source, element in [('learning-data.json', 'learningData'), ('assessment-data.json', 'assessmentData'), ('tutor-data.json', 'tutorData'), ('tutor-questions.json', 'tutorQuestions')]:
     content = json.loads((SRC / source).read_text())
     safe = json.dumps(content, ensure_ascii=False).replace('<', '\\u003c').replace('\u2028', '\\u2028').replace('\u2029', '\\u2029')
     html += f'<script type="application/json" id="{element}">' + safe + '</script>'
-for script in ['app.js', 'learning.js']:
+for script in ['app.js', 'learning.js', 'tutor.js']:
     html += '<script>' + (SRC / script).read_text() + '</script>'
 html += '</body></html>'
 (ROOT / 'index.html').write_text(html)
 (ROOT / 'Clareia-ABA.html').write_text(html)
 print(f'index.html: {len(html.encode()) / 1024 / 1024:.2f} MB; '
       f'{len(data)} módulos; {sum(len(m["lessons"]) for m in data)} aulas; '
-      f'{len(assessment)} desafios guiados + {sum(len(m["quiz"]) for m in data)} questões anteriores.')
+      f'{len(assessment)} desafios guiados + {sum(len(m["quiz"]) for m in data)} questões anteriores; '
+      f'{len(tutor["lessons"])} encontros do zero e 54 questões + 54 verificações.')

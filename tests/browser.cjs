@@ -13,7 +13,7 @@ const { chromium } = require('playwright');
  await page.locator('[data-micro="2"]').click();
  await page.getByRole('button',{name:'Generalizável',exact:true}).click();
  assert((await page.locator('#exploreResult').textContent()).includes('outros contextos'),'dimensões interativas');
- await page.locator('.lesson-notes summary').click();
+ await page.locator('#lesson .lesson-notes summary').click();
  await page.locator('#complete').click();await page.locator('#notes').fill('Minha anotação de teste');
  await page.reload();assert(await page.locator('#doneCount').textContent()==='1/37','progresso persiste após recarga');
  await page.locator('[data-module="aba"]').click();await page.locator('[data-lesson="0"]').click();
