@@ -1,0 +1,1 @@
+{"name":"lume-estudo","version":"1.0.0","private":true,"type":"module","description":"Uma leitura de cada vez. Artigos científicos com clareza.","engines":{"node":">=22"},"scripts":{"start":"node --env-file-if-exists=.env server.mjs","test":"node --test --test-isolation=none engine.test.js server.test.mjs","build":"node scripts/build-standalone.mjs"}}
